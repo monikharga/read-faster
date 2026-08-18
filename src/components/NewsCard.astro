@@ -1,0 +1,48 @@
+---
+interface Props {
+  title: string;
+  description: string;
+  pubDate: Date;
+  sourceName?: string;
+  href: string;
+  summary?: string;
+}
+
+const { title, description, pubDate, sourceName, href, summary } = Astro.props;
+const formatted = pubDate.toLocaleDateString('en-US', { year: 'numeric', month: 'short', day: 'numeric' });
+const words = (summary || '').split(' ').filter(Boolean).length;
+const readTime = Math.max(1, Math.round(words / 200));
+---
+
+<article class="card">
+  <a class="card-link" href={href}>
+    <h2>{title}</h2>
+    <p>{description}</p>
+    <div class="meta">
+      <span>{formatted}</span>
+      {summary && <span class="muted">· ~{readTime} min read</span>}
+      {sourceName && <span class="muted">· {sourceName}</span>}
+    </div>
+  </a>
+</article>
+
+<style>
+  .card {
+    border: 1px solid var(--border);
+    border-radius: 12px;
+    padding: 16px 18px;
+    margin-bottom: 14px;
+    background: var(--surface);
+    transition: border-color 0.15s ease, transform 0.15s ease, box-shadow 0.15s ease;
+  }
+  .card:hover {
+    border-color: var(--accent);
+    transform: translateY(-1px);
+    box-shadow: 0 6px 24px rgba(79, 140, 255, 0.12);
+  }
+  .card-link { color: var(--text); }
+  .card-link:hover { text-decoration: none; }
+  h2 { margin: 0 0 6px; font-size: 1.1rem; line-height: 1.35; }
+  p { margin: 0 0 8px; color: var(--muted); font-size: 0.92rem; }
+  .meta { font-size: 0.78rem; color: var(--muted); }
+</style>

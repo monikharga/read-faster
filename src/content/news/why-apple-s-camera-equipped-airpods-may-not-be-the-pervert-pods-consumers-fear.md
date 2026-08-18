@@ -1,0 +1,12 @@
+---
+title: "Why Apple’s camera-equipped AirPods may not be the ‘pervert pods’ consumers fear"
+description: "So the idea that Apple is reportedly preparing to release AirPods with cameras in them seems to conflict with the…"
+pubDate: 2026-08-18T16:19:10.000Z
+source: "https://techcrunch.com/2026/08/18/why-apples-camera-equipped-airpods-may-not-be-the-pervert-pods-consumers-fear/"
+sourceName: "TechCrunch"
+summary: "So the idea that Apple is reportedly preparing to release AirPods with cameras in them seems to conflict with the iPhone maker's desire to position itself as a privacy-focused tech company. The rumored cameras were reportedly confirmed via video footage found in Apple's macOS 26.7 RC (short for \"release candidate,\" or the final test version of the software before it ships publicly). Just ask me to save it for later.\" The addition of cameras to the popular wireless earbuds is further confirmed through code that references a \"Hair Detected\" error, which would warn users when their hair is covering the AirPods' camera. Some additional info about AirPods Pro 4 with cameras, found in macOS 26.7 RC: If you have long hair that blocks the camera, there will be an error that is titled \"Hair Detected\" that says \"to get the most accurate information about things in your environment, make sure AirPods… https://t.co/hUbWovpsyc For a company whose brand is built on trust, this is a bigger gamble for Apple than one of its typical hardware refreshes."
+---
+
+So the idea that Apple is reportedly preparing to release AirPods with cameras in them seems to conflict with the iPhone maker's desire to position itself as a privacy-focused tech company. The rumored cameras were reportedly confirmed via video footage found in Apple's macOS 26.7 RC (short for "release candidate," or the final test version of the software before it ships publicly). Just ask me to save it for later." The addition of cameras to the popular wireless earbuds is further confirmed through code that references a "Hair Detected" error, which would warn users when their hair is covering the AirPods' camera.
+
+Some additional info about AirPods Pro 4 with cameras, found in macOS 26.7 RC: If you have long hair that blocks the camera, there will be an error that is titled "Hair Detected" that says "to get the most accurate information about things in your environment, make sure AirPods… https://t.co/hUbWovpsyc For a company whose brand is built on trust, this is a bigger gamble for Apple than one of its typical hardware refreshes.

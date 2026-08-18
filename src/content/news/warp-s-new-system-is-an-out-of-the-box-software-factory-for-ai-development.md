@@ -1,0 +1,12 @@
+---
+title: "Warp’s new system is an out-of-the-box software factory for AI development"
+description: "Essentially an agent loop that's built around the traditional stages of software development, the software factory approach has become a…"
+pubDate: 2026-08-18T14:00:00.000Z
+source: "https://techcrunch.com/2026/08/18/warps-new-system-is-an-out-of-the-box-software-factory-for-ai-development/"
+sourceName: "TechCrunch"
+summary: "Essentially an agent loop that's built around the traditional stages of software development, the software factory approach has become a popular way for companies to remake their engineering organizations for the AI era. On Tuesday, the AI coding company introduced Warp Factories, a new system designed to make building and operating AI software factories as easy as possible. Operating as an infrastructure layer, Warp Factories gives companies a simple environment for deploying agents and a roadmap for how to use them. As Warp CEO Zach Lloyd sees it, the target market for Warp Factories will be smaller companies without the resources to develop a system from the ground up. \"[If you look at] things like running your agents in the cloud and steering those agents as they run, or bringing the work that they're doing into your local environment, or setting up memory that goes across those agents, or setting up evals that go across those agents — it's actually a huge infrastructure undertaking to do this right,\" Lloyd told TechCrunch."
+---
+
+Essentially an agent loop that's built around the traditional stages of software development, the software factory approach has become a popular way for companies to remake their engineering organizations for the AI era. On Tuesday, the AI coding company introduced Warp Factories, a new system designed to make building and operating AI software factories as easy as possible. Operating as an infrastructure layer, Warp Factories gives companies a simple environment for deploying agents and a roadmap for how to use them.
+
+As Warp CEO Zach Lloyd sees it, the target market for Warp Factories will be smaller companies without the resources to develop a system from the ground up. "[If you look at] things like running your agents in the cloud and steering those agents as they run, or bringing the work that they're doing into your local environment, or setting up memory that goes across those agents, or setting up evals that go across those agents — it's actually a huge infrastructure undertaking to do this right," Lloyd told TechCrunch.

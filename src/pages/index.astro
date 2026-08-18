@@ -1,0 +1,50 @@
+---
+import Base from '../layouts/Base.astro';
+import NewsCard from '../components/NewsCard.astro';
+import { getCollection } from 'astro:content';
+import { SITE_NAME, SITE_TAGLINE, SITE_DESCRIPTION } from '../site';
+
+const posts = (await getCollection('news')).sort((a, b) => b.data.pubDate - a.data.pubDate);
+const latest = posts.slice(0, 10);
+const base = import.meta.env.BASE_URL.replace(/\/$/, '');
+---
+
+<Base title={SITE_NAME} description={SITE_DESCRIPTION} canonicalPath="/">
+  <section class="hero">
+    <span class="chip">⚡ Updated daily</span>
+    <h1>{SITE_TAGLINE}</h1>
+    <p>Every day we distill the most important technology and AI stories into short, easy reads. Skip the fluff — get the essentials in under two minutes.</p>
+  </section>
+
+  <section>
+    {latest.map((post) => (
+      <NewsCard
+        title={post.data.title}
+        description={post.data.description}
+        pubDate={post.data.pubDate}
+        sourceName={post.data.sourceName}
+        href={base + `/article/${post.slug}/`}
+        summary={post.data.summary}
+      />
+    ))}
+  </section>
+
+  {posts.length > latest.length && (
+    <p style="margin-top:20px;"><a href={base + '/archive/'}>View all {posts.length} articles →</a></p>
+  )}
+</Base>
+
+<style>
+  .hero { margin-bottom: 32px; }
+  .hero h1 {
+    margin: 12px 0 10px;
+    font-size: 2rem;
+    line-height: 1.25;
+    letter-spacing: 0.3px;
+    background: linear-gradient(90deg, #e7eaf2 20%, #9fc3ff 60%, #22d3ee);
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+  .hero p { color: var(--muted); margin: 0; max-width: 560px; }
+</style>

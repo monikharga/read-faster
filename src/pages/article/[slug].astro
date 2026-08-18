@@ -1,0 +1,58 @@
+---
+import Base from '../../layouts/Base.astro';
+import { getCollection, render } from 'astro:content';
+import { SITE_NAME } from '../../site';
+
+export async function getStaticPaths() {
+  const posts = await getCollection('news');
+  return posts.map((post) => ({
+    params: { slug: post.slug },
+    props: { post },
+  }));
+}
+
+const { post } = Astro.props;
+const { Content } = await render(post);
+const base = import.meta.env.BASE_URL.replace(/\/$/, '');
+const site = new URL(Astro.site?.href ?? 'http://localhost:4321');
+const canonical = new URL(base + `/article/${post.slug}/`, site).href;
+const formatted = post.data.pubDate.toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' });
+const words = (post.data.summary || '').split(' ').filter(Boolean).length;
+const readTime = Math.max(1, Math.round(words / 200));
+const jsonLd = {
+  '@context': 'https://schema.org',
+  '@type': 'NewsArticle',
+  headline: post.data.title,
+  description: post.data.description,
+  datePublished: post.data.pubDate.toISOString(),
+  dateModified: post.data.pubDate.toISOString(),
+  author: { '@type': 'Organization', name: SITE_NAME },
+  publisher: { '@type': 'Organization', name: SITE_NAME },
+  mainEntityOfPage: { '@type': 'WebPage', '@id': canonical },
+  url: canonical,
+};
+---
+
+<Base title={post.data.title} description={post.data.description} canonicalPath={`/article/${post.slug}/`} pubDate={post.data.pubDate}>
+  <script type="application/ld+json" set:html={JSON.stringify(jsonLd)} />
+  <article class="post">
+    <a class="muted back" href={base + '/archive/'}>← All news</a>
+    <h1>{post.data.title}</h1>
+    <div class="meta">
+      <span>{formatted}</span>
+      {post.data.sourceName && <span> · {post.data.sourceName}</span>}
+      <span> · ~{readTime} min read</span>
+    </div>
+    <div class="body">
+      <Content />
+    </div>
+  </article>
+</Base>
+
+<style>
+  .back { font-size: 0.85rem; }
+  h1 { font-size: 1.6rem; line-height: 1.35; margin: 12px 0 8px; }
+  .meta { color: var(--muted); font-size: 0.85rem; margin-bottom: 20px; }
+  .body { font-size: 1.02rem; }
+  .body p { margin: 0 0 14px; }
+</style>
