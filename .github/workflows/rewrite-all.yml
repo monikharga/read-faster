@@ -26,7 +26,7 @@ jobs:
       - name: Rewrite all existing articles with AI
         run: node scripts/rewrite-existing.mjs
         env:
-          AI_API_KEY: ${{ secrets.AI_API_KEY }}
+          AI_API_KEY: ${{ secrets.READFAST }}
 
       - name: Commit and push if changed
         run: |
