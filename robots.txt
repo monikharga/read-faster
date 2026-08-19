@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://monikharga.github.io/read-faster/sitemap-index.xml
