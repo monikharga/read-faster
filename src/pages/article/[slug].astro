@@ -33,7 +33,7 @@ const jsonLd = {
 };
 ---
 
-<Base title={post.data.title} description={post.data.description} canonicalPath={`/article/${post.slug}/`} pubDate={post.data.pubDate}>
+<Base title={post.data.title} description={post.data.description} canonicalPath={`/article/${post.slug}/`} pubDate={post.data.pubDate} ogType="article">
   <script type="application/ld+json" set:html={JSON.stringify(jsonLd)} />
   <article class="post">
     <a class="muted back" href={base + '/archive/'}>← All news</a>
