@@ -246,7 +246,11 @@ async function rewriteWithAI(item, body) {
       headers: { 'Content-Type': 'application/json' },
       body: JSON.stringify({
         contents: [{ parts: [{ text: prompt }] }],
-        generationConfig: { temperature: 0.7, maxOutputTokens: 900 },
+        generationConfig: {
+          temperature: 0.7,
+          maxOutputTokens: 900,
+          responseMimeType: 'application/json',
+        },
       }),
     }
   );
@@ -255,11 +259,13 @@ async function rewriteWithAI(item, body) {
     throw new Error(`AI API ${res.status}: ${errText.slice(0, 200)}`);
   }
   const data = await res.json();
-  const text = data?.candidates?.[0]?.content?.parts?.[0]?.text || '';
+  const text = (data?.candidates?.[0]?.content?.parts || []).map((p) => p.text || '').join('');
   const cleaned = text.replace(/```json|```/g, '').trim();
   const start = cleaned.indexOf('{');
   const end = cleaned.lastIndexOf('}');
-  if (start === -1 || end === -1) throw new Error('AI returned no JSON');
+  if (start === -1 || end === -1) {
+    throw new Error(`AI returned no JSON. Response: ${text.slice(0, 300)}`);
+  }
   const parsed = JSON.parse(cleaned.slice(start, end + 1));
   if (!parsed.title || !parsed.description || !parsed.summary) throw new Error('AI JSON missing fields');
   return parsed;

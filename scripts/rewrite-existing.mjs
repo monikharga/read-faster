@@ -4,7 +4,7 @@ import { join } from 'node:path';
 const POSTS_DIR = join(process.cwd(), 'src', 'content', 'news');
 const AI_API_KEY = process.env.AI_API_KEY || '';
 const AI_MODEL = process.env.AI_MODEL || 'gemini-3.6-flash';
-const DELAY_MS = 5000;
+const DELAY_MS = 8000;
 
 if (!AI_API_KEY) {
   console.error('AI_API_KEY not set. Add it as a GitHub secret or env var.');
@@ -59,7 +59,11 @@ async function rewriteWithAI(title, summary, attempt = 1) {
       headers: { 'Content-Type': 'application/json' },
       body: JSON.stringify({
         contents: [{ parts: [{ text: prompt }] }],
-        generationConfig: { temperature: 0.8, maxOutputTokens: 900 },
+        generationConfig: {
+          temperature: 0.8,
+          maxOutputTokens: 900,
+          responseMimeType: 'application/json',
+        },
       }),
     }
   );
@@ -78,11 +82,13 @@ async function rewriteWithAI(title, summary, attempt = 1) {
     throw new Error(`AI API ${res.status}: ${errText.slice(0, 200)}`);
   }
   const data = await res.json();
-  const text = data?.candidates?.[0]?.content?.parts?.[0]?.text || '';
+  const text = (data?.candidates?.[0]?.content?.parts || []).map((p) => p.text || '').join('');
   const cleaned = text.replace(/```json|```/g, '').trim();
   const start = cleaned.indexOf('{');
   const end = cleaned.lastIndexOf('}');
-  if (start === -1 || end === -1) throw new Error('AI returned no JSON');
+  if (start === -1 || end === -1) {
+    throw new Error(`AI returned no JSON. Response: ${text.slice(0, 300)}`);
+  }
   const parsed = JSON.parse(cleaned.slice(start, end + 1));
   if (!parsed.title || !parsed.description || !parsed.summary) throw new Error('AI JSON missing fields');
   return parsed;
