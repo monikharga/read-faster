@@ -9,11 +9,11 @@ const years = [...new Set(posts.map((p) => p.data.pubDate.getFullYear()))];
 ---
 
 <Base title="All news" description="Every article published on the site." canonicalPath="/archive/">
-  <h1 style="font-size:1.5rem;">All articles <span class="muted">({posts.length})</span></h1>
+  <h1 class="page-title">All articles <span class="muted">({posts.length})</span></h1>
 
   {years.map((year) => (
     <div style="margin-top:28px;">
-      <h2 class="muted" style="font-size:1.05rem; margin-bottom:12px;">{year}</h2>
+      <h2 class="year-head muted">{year}</h2>
       {posts
         .filter((p) => p.data.pubDate.getFullYear() === year)
         .map((post) => (
@@ -29,3 +29,8 @@ const years = [...new Set(posts.map((p) => p.data.pubDate.getFullYear()))];
     </div>
   ))}
 </Base>
+
+<style>
+  .page-title { font-size: 1.5rem; font-weight: 700; margin: 0; }
+  .year-head { font-size: 0.95rem; font-weight: 600; text-transform: uppercase; letter-spacing: 1.5px; }
+</style>

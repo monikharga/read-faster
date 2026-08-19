@@ -56,15 +56,15 @@ const jsonLd = {
   </section>
 
   {posts.length > latest.length && (
-    <p style="margin-top:20px;"><a href={base + '/archive/'}>View all {posts.length} articles →</a></p>
+    <p class="view-all"><a href={base + '/archive/'}>View all {posts.length} articles →</a></p>
   )}
 </Base>
 
 <style>
-  .hero { margin-bottom: 32px; }
+  .hero { margin-bottom: 36px; }
   .hero h1 {
-    margin: 12px 0 10px;
-    font-size: 2rem;
+    margin: 14px 0 12px;
+    font-size: 2.1rem;
     line-height: 1.25;
     letter-spacing: 0.3px;
     background: linear-gradient(90deg, #e7eaf2 20%, #9fc3ff 60%, #22d3ee);
@@ -73,4 +73,25 @@ const jsonLd = {
     -webkit-text-fill-color: transparent;
   }
   .hero p { color: var(--muted); margin: 0; max-width: 560px; }
+  .view-all { margin-top: 26px; }
+  .view-all a {
+    display: inline-block;
+    padding: 10px 22px;
+    border-radius: 10px;
+    font-size: 0.9rem;
+    font-weight: 600;
+    color: var(--text);
+    background: linear-gradient(90deg, rgba(79, 140, 255, 0.16), rgba(34, 211, 238, 0.12));
+    border: 1px solid var(--border);
+    transition: border-color 0.2s ease, transform 0.2s ease, box-shadow 0.2s ease;
+  }
+  .view-all a:hover {
+    border-color: var(--accent);
+    transform: translateY(-1px);
+    box-shadow: 0 8px 24px rgba(79, 140, 255, 0.12);
+    text-decoration: none;
+  }
+  @media (max-width: 560px) {
+    .hero h1 { font-size: 1.7rem; }
+  }
 </style>
