@@ -4,7 +4,7 @@ import { join } from 'node:path';
 const POSTS_DIR = join(process.cwd(), 'src', 'content', 'news');
 const AI_API_KEY = process.env.AI_API_KEY || '';
 const AI_MODEL = process.env.AI_MODEL || 'gemini-2.0-flash';
-const DELAY_MS = 1500;
+const DELAY_MS = 5000;
 
 if (!AI_API_KEY) {
   console.error('AI_API_KEY not set. Add it as a GitHub secret or env var.');
@@ -36,7 +36,7 @@ function field(body, key) {
   }
 }
 
-async function rewriteWithAI(title, summary) {
+async function rewriteWithAI(title, summary, attempt = 1) {
   const prompt = [
     'Rewrite the tech news article below as an ORIGINAL short article for "Read Faster", a website that publishes concise daily tech summaries.',
     'Write it entirely in your own words. Do NOT copy or paraphrase any sentence verbatim from the source.',
@@ -63,6 +63,16 @@ async function rewriteWithAI(title, summary) {
       }),
     }
   );
+
+  if (res.status === 429 || res.status === 500 || res.status === 503) {
+    if (attempt < 5) {
+      const wait = 10000 * attempt;
+      console.log(`Rate limited (${res.status}), retrying in ${wait / 1000}s...`);
+      await new Promise((r) => setTimeout(r, wait));
+      return rewriteWithAI(title, summary, attempt + 1);
+    }
+  }
+
   if (!res.ok) {
     const errText = await res.text();
     throw new Error(`AI API ${res.status}: ${errText.slice(0, 200)}`);
@@ -90,6 +100,10 @@ async function main() {
     const fmMatch = raw.match(/^---\n([\s\S]*?)\n---\n?/);
     if (!fmMatch) continue;
     const fm = fmMatch[1];
+    if (/^tags:/m.test(fm)) {
+      console.log(`SKIP ${file}: already rewritten`);
+      continue;
+    }
     const title = field(fm, 'title') || '';
     const summary = cleanText(field(fm, 'summary')) || '';
     const pubDate = field(fm, 'pubDate');
