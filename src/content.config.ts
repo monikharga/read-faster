@@ -9,6 +9,7 @@ const news = defineCollection({
     source: z.string().optional(),
     sourceName: z.string().optional(),
     summary: z.string().optional(),
+    tags: z.array(z.string()).optional(),
   }),
 });
 

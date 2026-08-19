@@ -9,6 +9,10 @@ const MAX_WORDS = 300;
 const ARTICLES_PER_RUN = 10;
 const MAX_TOTAL_POSTS = 300;
 
+const AI_API_KEY = process.env.AI_API_KEY || '';
+const AI_MODEL = process.env.AI_MODEL || 'gemini-2.0-flash';
+const AI_ENABLED = Boolean(AI_API_KEY);
+
 const SOURCES = [
   { name: 'TechCrunch', url: 'https://techcrunch.com/category/artificial-intelligence/feed/' },
   { name: 'The Verge', url: 'https://www.theverge.com/rss/ai-artificial-intelligence/index.xml' },
@@ -17,13 +21,18 @@ const SOURCES = [
   { name: 'Ars Technica', url: 'https://arstechnica.com/information-technology/feed/' },
   { name: 'BBC Technology', url: 'http://feeds.bbci.co.uk/news/technology/rss.xml' },
   { name: 'ZDNet', url: 'https://www.zdnet.com/rss.xml' },
+  { name: 'The Hacker News', url: 'https://feeds.feedburner.com/TheHackersNews' },
+  { name: 'How-To Geek', url: 'https://www.howtogeek.com/rss/' },
+  { name: 'Phys.org', url: 'https://phys.org/rss-feed/' },
 ];
 
 const TOPIC_KEYWORDS = [
   'ai', 'artificial intelligence', 'openai', 'chatgpt', 'gemini', 'claude', 'llm', 'machine learning',
   'model', 'google', 'microsoft', 'apple', 'meta', 'amazon', 'open source', 'open-source', 'software',
   'app', 'chip', 'nvidia', 'processor', 'tech', 'startup', 'funding', 'robot', 'crypto', 'bitcoin',
-  'security', 'hack', 'data', 'cloud', 'developer', 'computer', 'internet', 'phone', 'android', 'iphone',
+  'security', 'hack', 'hacker', 'malware', 'ransomware', 'vulnerability', 'cyber', 'privacy',
+  'data', 'cloud', 'developer', 'computer', 'internet', 'phone', 'android', 'iphone',
+  'science', 'research', 'space', 'explained', 'what is', 'why', 'how to', 'gadget', 'smartphone',
 ];
 
 const JUNK_PATTERNS = [
@@ -213,6 +222,49 @@ async function getArticleBody(item) {
   return excerptOf(item);
 }
 
+async function rewriteWithAI(item, body) {
+  const prompt = [
+    'Rewrite the news item below as an ORIGINAL short article for "Read Faster", a website that publishes concise daily tech summaries.',
+    'Write it entirely in your own words. Do NOT copy or paraphrase any sentence verbatim from the source.',
+    'Keep it factual, concrete and topic-focused so it can rank in Google for the topic.',
+    'Return ONLY valid JSON with exactly these keys:',
+    '- "title": a search-friendly headline, max 10 words',
+    '- "description": a click-worthy meta description, max 20 words',
+    '- "summary": the full article as 150-200 words of continuous prose, no line breaks',
+    '- "tags": an array of 2-3 short lowercase keywords like ["ai","apple"]',
+    '',
+    `Source: ${item.sourceName}`,
+    `Original title: ${item.title}`,
+    'Original article:',
+    body,
+  ].join('\n');
+
+  const res = await fetch(
+    `https://generativelanguage.googleapis.com/v1beta/models/${AI_MODEL}:generateContent?key=${AI_API_KEY}`,
+    {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({
+        contents: [{ parts: [{ text: prompt }] }],
+        generationConfig: { temperature: 0.7, maxOutputTokens: 900 },
+      }),
+    }
+  );
+  if (!res.ok) {
+    const errText = await res.text();
+    throw new Error(`AI API ${res.status}: ${errText.slice(0, 200)}`);
+  }
+  const data = await res.json();
+  const text = data?.candidates?.[0]?.content?.parts?.[0]?.text || '';
+  const cleaned = text.replace(/```json|```/g, '').trim();
+  const start = cleaned.indexOf('{');
+  const end = cleaned.lastIndexOf('}');
+  if (start === -1 || end === -1) throw new Error('AI returned no JSON');
+  const parsed = JSON.parse(cleaned.slice(start, end + 1));
+  if (!parsed.title || !parsed.description || !parsed.summary) throw new Error('AI JSON missing fields');
+  return parsed;
+}
+
 function readFrontmatter(source) {
   const match = source.match(/^source:\s*"(.+)"\s*$/m);
   return match ? match[1] : null;
@@ -305,21 +357,43 @@ async function main() {
     usedSlugs.add(slug);
 
     const body = await getArticleBody(item);
-    const summary = summarizeBody(body);
+
+    let title = item.title;
+    let summary;
+    let description;
+    let tags = [];
+
+    if (AI_ENABLED && body && body.length > 200) {
+      try {
+        const rewritten = await rewriteWithAI(item, body);
+        title = rewritten.title;
+        summary = rewritten.summary;
+        description = truncateWords(rewritten.description, 25);
+        tags = Array.isArray(rewritten.tags) ? rewritten.tags.slice(0, 3) : [];
+        slug = slugify(title);
+        while (usedSlugs.has(slug)) slug = slugify(title) + '-' + n++;
+        usedSlugs.add(slug);
+      } catch (err) {
+        console.log(`AI FAIL ${item.sourceName}: ${err.message}`);
+      }
+    }
+
+    if (!summary) summary = summarizeBody(body);
     const wordCount = summary.split(' ').filter(Boolean).length;
     if (wordCount < MIN_SUMMARY_WORDS) {
       console.log(`SKIP ${item.sourceName}: too short (${wordCount}w): ${item.title}`);
       continue;
     }
     const firstSentence = splitSentences(summary)[0] || summary;
-    const description = truncateWords(firstSentence, 20);
+    description = description || truncateWords(firstSentence, 20);
     const frontmatter = [
       '---',
-      `title: ${JSON.stringify(item.title)}`,
+      `title: ${JSON.stringify(title)}`,
       `description: ${JSON.stringify(description)}`,
       `pubDate: ${item.date.toISOString()}`,
       `source: ${JSON.stringify(item.link)}`,
       `sourceName: ${JSON.stringify(item.sourceName)}`,
+      ...(tags.length ? ['tags:', ...tags.map((t) => `  - ${JSON.stringify(t)}`)] : []),
       `summary: ${JSON.stringify(summary)}`,
       '---',
       '',
@@ -329,7 +403,7 @@ async function main() {
 
     await writeFile(join(POSTS_DIR, slug + '.md'), frontmatter, 'utf8');
     written++;
-    console.log(`NEW  ${item.sourceName}: ${item.title}`);
+    console.log(`NEW  ${item.sourceName}: ${title}`);
   }
 
   const allFiles = (await readdir(POSTS_DIR)).filter((f) => f.endsWith('.md'));

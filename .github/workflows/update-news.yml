@@ -27,6 +27,8 @@ jobs:
 
       - name: Fetch and publish latest news
         run: node scripts/fetch-news.mjs
+        env:
+          AI_API_KEY: ${{ secrets.AI_API_KEY }}
 
       - name: Commit and push if changed
         run: |
