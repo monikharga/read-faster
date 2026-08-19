@@ -28,15 +28,15 @@ jobs:
           if [ -n "$AI_API_KEY" ]; then
             echo "AI key: configured (length ${#AI_API_KEY})"
           else
-            echo "AI key: NOT RECEIVED — secret READFAST is empty or missing"
+            echo "AI key: NOT RECEIVED"
           fi
         env:
-          AI_API_KEY: ${{ secrets.READFAST }}
+          AI_API_KEY: ${{ secrets.READFAST || secrets.readfaster || vars.readfaster }}
 
       - name: Rewrite all existing articles with AI
         run: node scripts/rewrite-existing.mjs
         env:
-          AI_API_KEY: ${{ secrets.READFAST }}
+          AI_API_KEY: ${{ secrets.READFAST || secrets.readfaster || vars.readfaster }}
 
       - name: Commit and push if changed
         run: |
