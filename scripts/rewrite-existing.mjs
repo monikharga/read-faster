@@ -3,7 +3,7 @@ import { join } from 'node:path';
 
 const POSTS_DIR = join(process.cwd(), 'src', 'content', 'news');
 const AI_API_KEY = process.env.AI_API_KEY || '';
-const AI_MODEL = process.env.AI_MODEL || 'gemini-2.0-flash';
+const AI_MODEL = process.env.AI_MODEL || 'gemini-3.6-flash';
 const DELAY_MS = 5000;
 
 if (!AI_API_KEY) {

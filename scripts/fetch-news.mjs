@@ -10,7 +10,7 @@ const ARTICLES_PER_RUN = 10;
 const MAX_TOTAL_POSTS = 300;
 
 const AI_API_KEY = process.env.AI_API_KEY || '';
-const AI_MODEL = process.env.AI_MODEL || 'gemini-2.0-flash';
+const AI_MODEL = process.env.AI_MODEL || 'gemini-3.6-flash';
 const AI_ENABLED = Boolean(AI_API_KEY);
 
 const SOURCES = [
