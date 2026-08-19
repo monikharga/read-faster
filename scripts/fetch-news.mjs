@@ -314,6 +314,7 @@ async function fetchLatest() {
 }
 
 async function main() {
+  console.log(`AI rewrite: ${AI_ENABLED ? 'ENABLED (' + AI_MODEL + ')' : 'DISABLED (no AI_API_KEY)'}`);
   const existing = await existingSourceLinks();
   console.log(`Existing published: ${existing.size}`);
   const fresh = await fetchLatest();
