@@ -1,5 +1,5 @@
 ---
-import { SITE_NAME, SITE_DESCRIPTION, SITE_IMAGE } from '../site';
+import { SITE_NAME, SITE_DESCRIPTION, SITE_IMAGE, BING_VERIFICATION } from '../site';
 
 interface Props {
   title: string;
@@ -25,6 +25,7 @@ const fullTitle = title === SITE_NAME ? title : `${title} · ${SITE_NAME}`;
     <meta name="description" content={description} />
     <meta name="robots" content="index, follow, max-image-preview:large" />
     <meta name="google-site-verification" content="ZtuzCSKLFbVnWzQI4_VJJuQ0rmFUcIHI-HV6j1Vkze8" />
+    {BING_VERIFICATION && <meta name="msvalidate.01" content={BING_VERIFICATION} />}
     <link rel="canonical" href={canonical} />
 
     <meta property="og:type" content={ogType} />
