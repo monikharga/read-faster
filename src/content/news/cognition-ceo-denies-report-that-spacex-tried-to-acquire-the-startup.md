@@ -1,0 +1,12 @@
+---
+title: "Cognition CEO denies report that SpaceX tried to acquire the startup"
+description: "Elon Musk's SpaceX attempted to acquire AI coding startup Cognition as it works to catch up to OpenAI, Anthropic, and…"
+pubDate: 2026-08-19T21:51:23.000Z
+source: "https://techcrunch.com/2026/08/19/cognition-ceo-denies-report-that-spacex-tried-to-acquire-the-startup/"
+sourceName: "TechCrunch"
+summary: "Elon Musk's SpaceX attempted to acquire AI coding startup Cognition as it works to catch up to OpenAI, Anthropic, and Google in the AI race, Bloomberg reported Wednesday, citing sources familiar with the matter. The report comes a few days after SpaceX's $60 billion acquisition of Cursor, another AI coding startup, whose deal closed last week. This month, Cursor and SpaceX jointly released Grok 4.6, a new model that scores higher on benchmarks for coding and complex multi-step agentic tasks. Adding Cognition and its coding agent Devin — along with an enterprise customer base that includes Mercedes-Benz, Citi, and Goldman Sachs — would have given SpaceX another way to deepen its push into AI coding and compete for enterprise customers. Bloomberg reports that the deal talks are no longer active, but that the companies are still discussing working together — potentially with Cognition using SpaceX's computing capacity, which the company is selling to other AI players like Anthropic until it needs that capacity for itself."
+---
+
+Elon Musk's SpaceX attempted to acquire AI coding startup Cognition as it works to catch up to OpenAI, Anthropic, and Google in the AI race, Bloomberg reported Wednesday, citing sources familiar with the matter. The report comes a few days after SpaceX's $60 billion acquisition of Cursor, another AI coding startup, whose deal closed last week. This month, Cursor and SpaceX jointly released Grok 4.6, a new model that scores higher on benchmarks for coding and complex multi-step agentic tasks.
+
+Adding Cognition and its coding agent Devin — along with an enterprise customer base that includes Mercedes-Benz, Citi, and Goldman Sachs — would have given SpaceX another way to deepen its push into AI coding and compete for enterprise customers. Bloomberg reports that the deal talks are no longer active, but that the companies are still discussing working together — potentially with Cognition using SpaceX's computing capacity, which the company is selling to other AI players like Anthropic until it needs that capacity for itself.
