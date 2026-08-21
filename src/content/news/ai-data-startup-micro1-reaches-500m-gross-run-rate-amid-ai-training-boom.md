@@ -1,0 +1,12 @@
+---
+title: "AI data startup Micro1 reaches $500M gross run rate amid AI training boom"
+description: "The near-bottomless demand for unique AI training data from top labs and corporations is driving a massive boom for a…"
+pubDate: 2026-08-21T00:13:44.000Z
+source: "https://techcrunch.com/2026/08/20/ai-data-startup-micro1-reaches-500m-gross-run-rate-amid-ai-training-boom/"
+sourceName: "TechCrunch"
+summary: "The near-bottomless demand for unique AI training data from top labs and corporations is driving a massive boom for a cohort of data-labeling startups. While Micro1 still lags competitors like Mercor (which hit $2 billion in gross annualized revenue this summer) and Handshake (which reached $1 billion earlier this year), the startup's revenue growth shows that there is more than enough demand to support multiple players supplying AI training data. Additionally, some of the data it generates can be sold to multiple customers, driving gross margins for this \"off-the-shelf\" data as high as 80% to 90%, a person familiar with the startup's finances told TechCrunch. We believe it's shameful to claim American AI dominance desires while selling millions worth of data to countries that we are in adversarial competition with.\" Like Mercor, Micro1 began as an AI recruiting startup. But after noticing that data-labeling clients were using his AI platform to vet and recruit engineers for annotation, Ansari decided to pivot and enter the data-labeling business, too."
+---
+
+The near-bottomless demand for unique AI training data from top labs and corporations is driving a massive boom for a cohort of data-labeling startups. While Micro1 still lags competitors like Mercor (which hit $2 billion in gross annualized revenue this summer) and Handshake (which reached $1 billion earlier this year), the startup's revenue growth shows that there is more than enough demand to support multiple players supplying AI training data. Additionally, some of the data it generates can be sold to multiple customers, driving gross margins for this "off-the-shelf" data as high as 80% to 90%, a person familiar with the startup's finances told TechCrunch.
+
+We believe it's shameful to claim American AI dominance desires while selling millions worth of data to countries that we are in adversarial competition with." Like Mercor, Micro1 began as an AI recruiting startup. But after noticing that data-labeling clients were using his AI platform to vet and recruit engineers for annotation, Ansari decided to pivot and enter the data-labeling business, too.

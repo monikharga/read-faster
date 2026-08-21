@@ -1,0 +1,12 @@
+---
+title: "Google Pixel Watch 5 vs. Garmin Fenix 8 Pro: Which has more accurate GPS?"
+description: "We gather data from the best available sources, including vendor and retailer listings as well as other relevant and independent…"
+pubDate: 2026-08-20T21:00:46.000Z
+source: "https://www.zdnet.com/article/google-pixel-watch-5-vs-garmin-fenix-8-pro/"
+sourceName: "ZDNet"
+summary: "We gather data from the best available sources, including vendor and retailer listings as well as other relevant and independent reviews sites. Our editors thoroughly review and fact-check every article to ensure that our content meets the highest standards. One of the first tests I conduct while evaluating smartwatches is GPS location accuracy -- I want to see how close it can track my actual path. Google focused heavily on improving the accuracy of its location tracking in the Pixel Watch 5, so I took it out running, walking, and biking with a Garmin Fenix 8 Pro over the past few weeks to compare. Also: The best smartwatches of 2026: Expert tested and reviewed Garmin watches have been the standard by which I've measured others over the past many years and they have held up well, particularly in GPS tracking. Obviously there's a significant price difference between the Garmin Fenix 8 Pro -- starting at $950 -- and the Google Pixel Watch 5 at just $400, so we won't get into the value proposition in this discussion."
+---
+
+We gather data from the best available sources, including vendor and retailer listings as well as other relevant and independent reviews sites. Our editors thoroughly review and fact-check every article to ensure that our content meets the highest standards. One of the first tests I conduct while evaluating smartwatches is GPS location accuracy -- I want to see how close it can track my actual path.
+
+Google focused heavily on improving the accuracy of its location tracking in the Pixel Watch 5, so I took it out running, walking, and biking with a Garmin Fenix 8 Pro over the past few weeks to compare. Also: The best smartwatches of 2026: Expert tested and reviewed Garmin watches have been the standard by which I've measured others over the past many years and they have held up well, particularly in GPS tracking. Obviously there's a significant price difference between the Garmin Fenix 8 Pro -- starting at $950 -- and the Google Pixel Watch 5 at just $400, so we won't get into the value proposition in this discussion.
