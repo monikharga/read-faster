@@ -1,0 +1,12 @@
+---
+title: "Scientists map hair follicle formation in spacetime, advancing understanding of how organs develop"
+description: "Editors have highlighted the following attributes while ensuring the content's credibility: In a new research report, scientists at Johns Hopkins…"
+pubDate: 2026-08-21T20:20:01.000Z
+source: "https://phys.org/news/2026-08-scientists-hair-follicle-formation-spacetime.html"
+sourceName: "Phys.org"
+summary: "Editors have highlighted the following attributes while ensuring the content's credibility: In a new research report, scientists at Johns Hopkins Medicine say they have developed a technology that allows them to capture a 3D molecular \"snapshot\" of hundreds of hair follicles as they develop and then reconstruct the fourth dimension—time—to create a stop-motion animation of how this organ forms. Hair follicles are the smallest, most numerous organs in our bodies, but they form in ways similar to those of other organs, the scientists say. \"Our four-dimensional (4D) map of the hair follicle from mice serves as a model system for understanding broad-stroke fundamentals of how organs develop,\" says Reza Kalhor, Ph.D., associate professor of biomedical engineering at the Johns Hopkins University School of Medicine, who led the recent study. The research further compares the hair follicles of normal mice with hairless mice lacking a gene, Foxn1, which is critical for hair growth."
+---
+
+Editors have highlighted the following attributes while ensuring the content's credibility: In a new research report, scientists at Johns Hopkins Medicine say they have developed a technology that allows them to capture a 3D molecular "snapshot" of hundreds of hair follicles as they develop and then reconstruct the fourth dimension—time—to create a stop-motion animation of how this organ forms. Hair follicles are the smallest, most numerous organs in our bodies, but they form in ways similar to those of other organs, the scientists say. "Our four-dimensional (4D) map of the hair follicle from mice serves as a model system for understanding broad-stroke fundamentals of how organs develop," says Reza Kalhor, Ph.D., associate professor of biomedical engineering at the Johns Hopkins University School of Medicine, who led the recent study.
+
+The research further compares the hair follicles of normal mice with hairless mice lacking a gene, Foxn1, which is critical for hair growth.

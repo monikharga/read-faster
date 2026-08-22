@@ -1,0 +1,12 @@
+---
+title: "14 Trojanized npm Packages Drop RedC2 4.0 Linux Backdoor With AI-Assisted C2"
+description: "The name of the file varies across the packages: math-core.bin, math-calc.bin, calc-math.dat, calc-cache.bin, calc.bin, calc-mapping.bin."
+pubDate: 2026-08-21T18:53:00.000Z
+source: "https://thehackernews.com/2026/08/14-trojanized-npm-packages-drop-redc2.html"
+sourceName: "The Hacker News"
+summary: "The name of the file varies across the packages: math-core.bin, math-calc.bin, calc-math.dat, calc-cache.bin, calc.bin, calc-mapping.bin. It's located either directly within the \"dist/\" or under \"dist/internal/,\", but what it contains is the same: the RedShell Linux beacon for RedC2 4.0 that communicates with a remote Windows or Linux server to facilitate post-exploitation activities on the compromised host. \"It re-exports the date helpers and launches the bundled implant as soon as the module loads, with no install hook and no exported function required.\" RedC2 4.0, marketed on cybercrime forums as a cross-platform toolkit for Windows, macOS, and Linux, offers surveillance, credential theft, payload loading, and mass-operation capabilities. The C2 framework is also feature-rich, supporting terminal access, file transfer, staged payload delivery, data collection, multi-beacon operation, network visualization, host-to-host tunneling, and in-memory execution of Beacon Object Files (BOFs), .NET assemblies, and shellcode."
+---
+
+The name of the file varies across the packages: math-core.bin, math-calc.bin, calc-math.dat, calc-cache.bin, calc.bin, calc-mapping.bin. It's located either directly within the "dist/" or under "dist/internal/,", but what it contains is the same: the RedShell Linux beacon for RedC2 4.0 that communicates with a remote Windows or Linux server to facilitate post-exploitation activities on the compromised host. "It re-exports the date helpers and launches the bundled implant as soon as the module loads, with no install hook and no exported function required." RedC2 4.0, marketed on cybercrime forums as a cross-platform toolkit for Windows, macOS, and Linux, offers surveillance, credential theft, payload loading, and mass-operation capabilities.
+
+The C2 framework is also feature-rich, supporting terminal access, file transfer, staged payload delivery, data collection, multi-beacon operation, network visualization, host-to-host tunneling, and in-memory execution of Beacon Object Files (BOFs), .NET assemblies, and shellcode.
