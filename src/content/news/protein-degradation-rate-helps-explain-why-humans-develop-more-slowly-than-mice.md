@@ -1,0 +1,12 @@
+---
+title: "Protein degradation rate helps explain why humans develop more slowly than mice"
+description: "Now, researchers from the Ebisuya Group at EMBL Barcelona and PoL-TU Dresden and from the Savitski Team at EMBL Heidelberg…"
+pubDate: 2026-08-23T21:00:01.000Z
+source: "https://phys.org/news/2026-08-protein-degradation-humans-slowly-mice.html"
+sourceName: "Phys.org"
+summary: "Now, researchers from the Ebisuya Group at EMBL Barcelona and PoL-TU Dresden and from the Savitski Team at EMBL Heidelberg show that across 4,000 proteins shared between humans and mice, there is a clear tendency for protein degradation in humans to be slower than in mice. The link between protein degradation and the pace of the segmentation clock was already shown in previous work from the Ebisuya Group at EMBL Barcelona: the developmental gene HES7 produces a protein that is degraded more slowly in human cells than in mouse cells, contributing to the slower pace of the human segmentation clock and embryo development. Although not every protein followed the same pattern—and some were even degraded more slowly in mouse cells—the researchers found a clear overall tendency for proteins to persist longer in human cells. Proteins with diverse functions showed similar differences, and slower degradation in human cells was observed regardless of whether proteins were broken down through the proteasome or the lysosome—two very different ways of disposing of old proteins."
+---
+
+Now, researchers from the Ebisuya Group at EMBL Barcelona and PoL-TU Dresden and from the Savitski Team at EMBL Heidelberg show that across 4,000 proteins shared between humans and mice, there is a clear tendency for protein degradation in humans to be slower than in mice. The link between protein degradation and the pace of the segmentation clock was already shown in previous work from the Ebisuya Group at EMBL Barcelona: the developmental gene HES7 produces a protein that is degraded more slowly in human cells than in mouse cells, contributing to the slower pace of the human segmentation clock and embryo development. Although not every protein followed the same pattern—and some were even degraded more slowly in mouse cells—the researchers found a clear overall tendency for proteins to persist longer in human cells.
+
+Proteins with diverse functions showed similar differences, and slower degradation in human cells was observed regardless of whether proteins were broken down through the proteasome or the lysosome—two very different ways of disposing of old proteins.

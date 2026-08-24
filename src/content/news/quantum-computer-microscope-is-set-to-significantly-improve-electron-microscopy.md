@@ -1,0 +1,12 @@
+---
+title: "Quantum computer microscope is set to significantly improve electron microscopy"
+description: "But from a strictly physical point of view, every electron in a conventional electron microscope represents a missed opportunity: If…"
+pubDate: 2026-08-23T13:00:01.000Z
+source: "https://phys.org/news/2026-08-quantum-microscope-significantly-electron-microscopy.html"
+sourceName: "Phys.org"
+summary: "But from a strictly physical point of view, every electron in a conventional electron microscope represents a missed opportunity: If all you do is count electrons, any additional quantum information they carry remains unused. A team at TU Wien, together with teams from the University of Vienna, JKU Linz and the University of Innsbruck, has now developed a way to make use of the quantum information carried by electrons in an electron microscope: The electron beam is coupled to a quantum computer, opening up entirely new possibilities for working with the quantum information of the electrons. The quantum-computer electron microscope is now being built at TU Wien. This is often a problem, particularly when imaging biological samples such as individual proteins.\" If, however, more information can be extracted from each individual electron than before, a smaller number of electrons is sufficient. \"This can, for example, create quantum entanglement between the electron and the quantum computer."
+---
+
+But from a strictly physical point of view, every electron in a conventional electron microscope represents a missed opportunity: If all you do is count electrons, any additional quantum information they carry remains unused. A team at TU Wien, together with teams from the University of Vienna, JKU Linz and the University of Innsbruck, has now developed a way to make use of the quantum information carried by electrons in an electron microscope: The electron beam is coupled to a quantum computer, opening up entirely new possibilities for working with the quantum information of the electrons. The quantum-computer electron microscope is now being built at TU Wien.
+
+This is often a problem, particularly when imaging biological samples such as individual proteins." If, however, more information can be extracted from each individual electron than before, a smaller number of electrons is sufficient. "This can, for example, create quantum entanglement between the electron and the quantum computer.
