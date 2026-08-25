@@ -1,0 +1,12 @@
+---
+title: "Songs created by AI banned from Australia's music charts"
+description: "Songs must be \"substantially human made\" to be included in Australia's charts Songs that are largely or wholly created by…"
+pubDate: 2026-08-25T04:54:01.000Z
+source: "https://www.bbc.co.uk/news/articles/c20vl4vm2pno?at_medium=RSS&at_campaign=rss"
+sourceName: "BBC Technology"
+summary: "Songs must be \"substantially human made\" to be included in Australia's charts Songs that are largely or wholly created by AI have been banned from Australia's music charts. The Australian Recording Industry Association (ARIA) said the new code would help \"promote the human nature of artistry\". ARIA said that Australian artists were competing for attention \"in the most crowded market in history\" and that it was \"not interested in promoting or celebrating the success of AI-generated music that does not contain human artistry\". ARIA chief executive Annabelle Herd said: \"These changes reflect our intent to remain dynamic and promote the human nature of artistry in what is, to say the least, a rapidly developing space.\" \"Artists already use AI tools in their work, the charts can and should evolve to keep room for that, but music generated wholesale by services built on artists' recordings is a different matter.\" She added: \"A chart that rewards unlicensed AI output would undercut the very basis of the recorded music we exist to represent.\""
+---
+
+Songs must be "substantially human made" to be included in Australia's charts Songs that are largely or wholly created by AI have been banned from Australia's music charts. The Australian Recording Industry Association (ARIA) said the new code would help "promote the human nature of artistry". ARIA said that Australian artists were competing for attention "in the most crowded market in history" and that it was "not interested in promoting or celebrating the success of AI-generated music that does not contain human artistry".
+
+ARIA chief executive Annabelle Herd said: "These changes reflect our intent to remain dynamic and promote the human nature of artistry in what is, to say the least, a rapidly developing space." "Artists already use AI tools in their work, the charts can and should evolve to keep room for that, but music generated wholesale by services built on artists' recordings is a different matter." She added: "A chart that rewards unlicensed AI output would undercut the very basis of the recorded music we exist to represent."

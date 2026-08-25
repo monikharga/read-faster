@@ -1,0 +1,12 @@
+---
+title: "Situational Awareness, star AI hedge fund that nearly imploded, now being probed by the SEC"
+description: "Back by popular demand: Save up to $300 on Disrupt Situational Awareness, the AI focused hedge fund that was Wall…"
+pubDate: 2026-08-25T00:23:12.000Z
+source: "https://techcrunch.com/2026/08/24/situational-awareness-star-ai-hedge-fund-that-nearly-imploded-now-being-probed-by-the-sec/"
+sourceName: "TechCrunch"
+summary: "Back by popular demand: Save up to $300 on Disrupt Situational Awareness, the AI focused hedge fund that was Wall Street's fleeting obsession, is having a very bad month. The New York Times reports that the Securities and Exchange Commission has been subpoenaing banks that did business with the hedge fund. The government reportedly warned the banks to \"preserve any information\" about the hedge fund, though it noted that Situational Awareness has not been accused of any wrongdoing. Situational Awareness did not respond to TechCrunch's request for comment but told the Times that scrutiny of high-profile funds is to be expected, and that it would \"cooperate to the fullest extent with any regulatory request.\" The company, which very publicly hitched its wagon to AI's star, may serve as a cautionary tale about the industry's supposedly unstoppable trajectory. Subscribe for the industry's biggest tech news Every weekday and Sunday, you can get the best of TechCrunch's coverage."
+---
+
+Back by popular demand: Save up to $300 on Disrupt Situational Awareness, the AI focused hedge fund that was Wall Street's fleeting obsession, is having a very bad month. The New York Times reports that the Securities and Exchange Commission has been subpoenaing banks that did business with the hedge fund. The government reportedly warned the banks to "preserve any information" about the hedge fund, though it noted that Situational Awareness has not been accused of any wrongdoing.
+
+Situational Awareness did not respond to TechCrunch's request for comment but told the Times that scrutiny of high-profile funds is to be expected, and that it would "cooperate to the fullest extent with any regulatory request." The company, which very publicly hitched its wagon to AI's star, may serve as a cautionary tale about the industry's supposedly unstoppable trajectory. Subscribe for the industry's biggest tech news Every weekday and Sunday, you can get the best of TechCrunch's coverage.

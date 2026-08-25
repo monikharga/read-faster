@@ -1,0 +1,12 @@
+---
+title: "Amjad Masad, CEO and co-founder of Replit, joins the Disrupt Stage at TechCrunch Disrupt 2026"
+description: "Replit sits at the center of this evolution, and when its CEO and co-founder, Amjad Masad, takes center stage at…"
+pubDate: 2026-08-24T19:54:19.000Z
+source: "https://techcrunch.com/2026/08/24/amjad-masad-ceo-and-co-founder-of-replit-joins-the-disrupt-stage-at-techcrunch-disrupt-2026/"
+sourceName: "TechCrunch"
+summary: "Replit sits at the center of this evolution, and when its CEO and co-founder, Amjad Masad, takes center stage at TechCrunch Disrupt 2026, he'll speak about the future of programming and the wide-ranging implications of a world in which ideas can be easily turned into products. You'll also catch the rest of our excellent Disrupt lineup across six stages that address the most pressing questions facing the startup community, including, most critically, how do you build a sustainable company in the AI era? Though Masad founded the company a decade ago, the past 18 months have marked the biggest changes, with the company's current run-rate tracking toward a billion dollars annually, compared with just $2.8 million in reported revenue in 2024. Masad's conversation will dive into his perspective about the future of programming, entrepreneurship, and how Replit ensures that its service is doing more than helping users prototype their ideas — it helps fully flesh them out, too."
+---
+
+Replit sits at the center of this evolution, and when its CEO and co-founder, Amjad Masad, takes center stage at TechCrunch Disrupt 2026, he'll speak about the future of programming and the wide-ranging implications of a world in which ideas can be easily turned into products. You'll also catch the rest of our excellent Disrupt lineup across six stages that address the most pressing questions facing the startup community, including, most critically, how do you build a sustainable company in the AI era? Though Masad founded the company a decade ago, the past 18 months have marked the biggest changes, with the company's current run-rate tracking toward a billion dollars annually, compared with just $2.8 million in reported revenue in 2024.
+
+Masad's conversation will dive into his perspective about the future of programming, entrepreneurship, and how Replit ensures that its service is doing more than helping users prototype their ideas — it helps fully flesh them out, too.

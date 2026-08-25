@@ -1,0 +1,12 @@
+---
+title: "The best early Labor Day deals to shop now: Save on TVs, Apple devices, and more"
+description: "We gather data from the best available sources, including vendor and retailer listings as well as other relevant and independent…"
+pubDate: 2026-08-24T18:41:53.000Z
+source: "https://www.zdnet.com/article/best-early-labor-day-deals-2026/"
+sourceName: "ZDNet"
+summary: "We gather data from the best available sources, including vendor and retailer listings as well as other relevant and independent reviews sites. Our goal is to deliver the most accurate information and the most knowledgeable advice possible in order to help you make smarter buying decisions on tech gear and a wide array of products and services. Our editors thoroughly review and fact-check every article to ensure that our content meets the highest standards. With fall activities on the horizon and early sales launching ahead of the upcoming 2026 holiday season, it's a great time to take advantage of seasonal savings. Also: I found the best Labor Day Walmart deals: Save on Apple, Samsung, and more There are tons of deals on flagship tech to tiny gadgets, and across several popular retailers like Best Buy, Walmart, Costco, Amazon, and more. It's a 2025 ZDNET Editors' Choice award winner and is still beloved by health and wearables editor Nina Raemont for minimizing screen time and maximizing living."
+---
+
+We gather data from the best available sources, including vendor and retailer listings as well as other relevant and independent reviews sites. Our goal is to deliver the most accurate information and the most knowledgeable advice possible in order to help you make smarter buying decisions on tech gear and a wide array of products and services. Our editors thoroughly review and fact-check every article to ensure that our content meets the highest standards.
+
+With fall activities on the horizon and early sales launching ahead of the upcoming 2026 holiday season, it's a great time to take advantage of seasonal savings. Also: I found the best Labor Day Walmart deals: Save on Apple, Samsung, and more There are tons of deals on flagship tech to tiny gadgets, and across several popular retailers like Best Buy, Walmart, Costco, Amazon, and more. It's a 2025 ZDNET Editors' Choice award winner and is still beloved by health and wearables editor Nina Raemont for minimizing screen time and maximizing living.
