@@ -1,0 +1,12 @@
+---
+title: "India’s Ringg gets backing from Peak XV as it pushes voice AI past the phone call"
+description: "Since voice is still consumers' preferred way to communicate, that leaves a big opportunity to automate support and outreach calls…"
+pubDate: 2026-08-26T03:30:00.000Z
+source: "https://techcrunch.com/2026/08/25/indias-ringg-gets-backing-from-peak-xv-as-it-pushes-voice-ai-past-the-phone-call/"
+sourceName: "TechCrunch"
+summary: "Since voice is still consumers' preferred way to communicate, that leaves a big opportunity to automate support and outreach calls using voice AI in the country. Voice AI startup Ringg, which already processes 20 million call attempts a month, is betting that volume keeps climbing over the coming months, and it just raised more money on that belief. Ringg started life as a text-to-speech startup called DesiVocal, but training its own speech models proved expensive, so the founders moved up the stack — building voice AI agents for enterprises instead. Ringg still serves some of those simpler use cases, but it has set its sights on more complex workflows: appointment booking for healthcare clinics, abandoned-cart recovery for e-commerce sites, and onboarding/KYC (\"know your customer\") checks for fintech apps. Tripathi said Ringg's voice agent now runs across 1,200 clinics for the healthcare app Practo, helping patients book visits or follow up on next steps post-visit."
+---
+
+Since voice is still consumers' preferred way to communicate, that leaves a big opportunity to automate support and outreach calls using voice AI in the country. Voice AI startup Ringg, which already processes 20 million call attempts a month, is betting that volume keeps climbing over the coming months, and it just raised more money on that belief. Ringg started life as a text-to-speech startup called DesiVocal, but training its own speech models proved expensive, so the founders moved up the stack — building voice AI agents for enterprises instead.
+
+Ringg still serves some of those simpler use cases, but it has set its sights on more complex workflows: appointment booking for healthcare clinics, abandoned-cart recovery for e-commerce sites, and onboarding/KYC ("know your customer") checks for fintech apps. Tripathi said Ringg's voice agent now runs across 1,200 clinics for the healthcare app Practo, helping patients book visits or follow up on next steps post-visit.

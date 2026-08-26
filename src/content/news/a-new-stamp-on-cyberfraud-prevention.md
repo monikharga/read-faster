@@ -1,0 +1,12 @@
+---
+title: "A new stamp on cyberfraud prevention"
+description: "For Rupert Young '95, SM '95, his career in data science and cybersecurity began when his grandfather gifted him thousands…"
+pubDate: 2026-08-25T21:00:00.000Z
+source: "https://www.technologyreview.com/2026/08/25/1140914/a-new-stamp-on-cyberfraud-prevention/"
+sourceName: "MIT Tech Review"
+summary: "For Rupert Young '95, SM '95, his career in data science and cybersecurity began when his grandfather gifted him thousands of stamps: He built intricate databases to catalogue them, displaying the \"precise eye\" for detail and nuance that his MIT application essay said would make him a good engineer. Young is now chief product officer of ­MaxMind, whose work with IP-address location data and fraud prevention has made it a go-to resource. Streaming companies, security vendors, merchants, and ad-network providers use its signature tool, GeoIP, to determine how and where users are accessing services. This information makes it possible to ensure retail sites are using the correct currency, flag suspicious bank logins, and more. Young's passion for engineering was shaped by internships, and he has paid it forward by volunteering at his children's California high school and trying to keep up with what \"the next generation of engineers are tinkering with.\" The next generation of product innovation at MaxMind excites him too."
+---
+
+For Rupert Young '95, SM '95, his career in data science and cybersecurity began when his grandfather gifted him thousands of stamps: He built intricate databases to catalogue them, displaying the "precise eye" for detail and nuance that his MIT application essay said would make him a good engineer. Young is now chief product officer of ­MaxMind, whose work with IP-address location data and fraud prevention has made it a go-to resource. Streaming companies, security vendors, merchants, and ad-network providers use its signature tool, GeoIP, to determine how and where users are accessing services.
+
+This information makes it possible to ensure retail sites are using the correct currency, flag suspicious bank logins, and more. Young's passion for engineering was shaped by internships, and he has paid it forward by volunteering at his children's California high school and trying to keep up with what "the next generation of engineers are tinkering with." The next generation of product innovation at MaxMind excites him too.
