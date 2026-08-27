@@ -1,0 +1,12 @@
+---
+title: "NASA Johnson pilots chase moon's shadow for eclipse science"
+description: "12 total solar eclipse over Europe, scientists aimed to study a long-standing mystery: why the sun's outer atmosphere, the corona,…"
+pubDate: 2026-08-27T15:40:04.000Z
+source: "https://phys.org/news/2026-08-nasa-johnson-moon-shadow-eclipse.html"
+sourceName: "Phys.org"
+summary: "12 total solar eclipse over Europe, scientists aimed to study a long-standing mystery: why the sun's outer atmosphere, the corona, is far hotter than its visible surface. Pilots from NASA's Johnson Space Center flew the WB-57F high-altitude research aircraft from Ellington Field in Houston to Iceland, their base for flying through the path of totality to give scientists a clearer view of the sun's corona. A total solar eclipse provides a unique opportunity to examine the corona because the moon temporarily blocks the sun's bright surface, revealing its fainter outer atmosphere. Observations collected during this brief window can help scientists better understand how energy and material move through the corona and away from the sun, improving our understanding of space weather. It's a huge team effort to get an aircraft like this up there to image and achieve these objectives.\" During totality, NASA WB-57F pilot John Gustine positioned the aircraft along the eclipse path to maximize time in the moon's shadow and give scientists as much opportunity as possible to collect data."
+---
+
+12 total solar eclipse over Europe, scientists aimed to study a long-standing mystery: why the sun's outer atmosphere, the corona, is far hotter than its visible surface. Pilots from NASA's Johnson Space Center flew the WB-57F high-altitude research aircraft from Ellington Field in Houston to Iceland, their base for flying through the path of totality to give scientists a clearer view of the sun's corona. A total solar eclipse provides a unique opportunity to examine the corona because the moon temporarily blocks the sun's bright surface, revealing its fainter outer atmosphere.
+
+Observations collected during this brief window can help scientists better understand how energy and material move through the corona and away from the sun, improving our understanding of space weather. It's a huge team effort to get an aircraft like this up there to image and achieve these objectives." During totality, NASA WB-57F pilot John Gustine positioned the aircraft along the eclipse path to maximize time in the moon's shadow and give scientists as much opportunity as possible to collect data.
