@@ -1,0 +1,12 @@
+---
+title: "Why a newly formed lake is sparking fears of more flooding along the Nepal-China border"
+description: "Editors have highlighted the following attributes while ensuring the content's credibility: Even as rescuers worked through mud and debris Friday…"
+pubDate: 2026-08-28T15:20:01.000Z
+source: "https://phys.org/news/2026-08-newly-lake-nepal-china-border.html"
+sourceName: "Phys.org"
+summary: "Editors have highlighted the following attributes while ensuring the content's credibility: Even as rescuers worked through mud and debris Friday in areas devastated by a catastrophic flash flood along the Himalayan border between Nepal and China, authorities warned that a newly formed, overflowing lake could trigger further flooding. Satellite imagery shown by Chinese state broadcaster CCTV seems to indicate that the newly formed lake was in the same area as where the glacial detachment event happened on Wednesday that resulted in the chain of events leading to catastrophic damage downstream. Climate scientists tracking developments in the Himalayan region said that Wednesday's glacial collapse has resulted in several small water bodies forming as debris is still strewn across the region. The lake holds a few million cubic meters of water and is located in a valley section with a limited elevation drop to downstream areas, said Zhang, who is head of climate and environmental risks at the Kathmandu-based climate research group."
+---
+
+Editors have highlighted the following attributes while ensuring the content's credibility: Even as rescuers worked through mud and debris Friday in areas devastated by a catastrophic flash flood along the Himalayan border between Nepal and China, authorities warned that a newly formed, overflowing lake could trigger further flooding. Satellite imagery shown by Chinese state broadcaster CCTV seems to indicate that the newly formed lake was in the same area as where the glacial detachment event happened on Wednesday that resulted in the chain of events leading to catastrophic damage downstream. Climate scientists tracking developments in the Himalayan region said that Wednesday's glacial collapse has resulted in several small water bodies forming as debris is still strewn across the region.
+
+The lake holds a few million cubic meters of water and is located in a valley section with a limited elevation drop to downstream areas, said Zhang, who is head of climate and environmental risks at the Kathmandu-based climate research group.

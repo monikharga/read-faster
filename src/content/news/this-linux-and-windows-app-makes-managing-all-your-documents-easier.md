@@ -1,0 +1,12 @@
+---
+title: "This Linux and Windows app makes managing all your documents easier"
+description: "This simple (yet very effective) tool allows you to add documents, move the documents (to organize them), search them (by…"
+pubDate: 2026-08-28T14:54:47.000Z
+source: "https://www.zdnet.com/article/this-linux-and-windows-app-makes-managing-all-of-your-documents-easier/"
+sourceName: "ZDNet"
+summary: "This simple (yet very effective) tool allows you to add documents, move the documents (to organize them), search them (by title or even within the body), export them, add keywords and labels to documents, view document properties, search by keyword(s), and change the document view. Also: This free tool keeps my bookmarks synced across Chrome, Firefox, and Edge - here's how The Paperwork feature list includes scanner support, PDF support, auto-detection of page orientation, OCR, document labels, auto-guessing of labels to apply to new documents, search, keyword suggestions, and quick scan edits. How you use Paperwork will depend on your workflow and the types of documents you import. To import your documents, click the Import File(s) button and your file manager will open. After you've selected all of the files you want, click Open (in the file picker), and Paperwork makes copies of those documents in the ~/papers directory but does not alter the originals. Next, I select a document from the sidebar and then click the document properties icon (the eye)."
+---
+
+This simple (yet very effective) tool allows you to add documents, move the documents (to organize them), search them (by title or even within the body), export them, add keywords and labels to documents, view document properties, search by keyword(s), and change the document view. Also: This free tool keeps my bookmarks synced across Chrome, Firefox, and Edge - here's how The Paperwork feature list includes scanner support, PDF support, auto-detection of page orientation, OCR, document labels, auto-guessing of labels to apply to new documents, search, keyword suggestions, and quick scan edits. How you use Paperwork will depend on your workflow and the types of documents you import.
+
+To import your documents, click the Import File(s) button and your file manager will open. After you've selected all of the files you want, click Open (in the file picker), and Paperwork makes copies of those documents in the ~/papers directory but does not alter the originals. Next, I select a document from the sidebar and then click the document properties icon (the eye).
