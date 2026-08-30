@@ -1,0 +1,12 @@
+---
+title: "NASA's Roman telescope set to launch on cosmic mapping mission"
+description: "Editors have highlighted the following attributes while ensuring the content's credibility: NASA is preparing to launch its new flagship space…"
+pubDate: 2026-08-30T10:00:58.000Z
+source: "https://phys.org/news/2026-08-nasa-roman-telescope-cosmic-mission.html"
+sourceName: "Phys.org"
+summary: "Editors have highlighted the following attributes while ensuring the content's credibility: NASA is preparing to launch its new flagship space telescope on Sunday, embarking on a multiyear mission to create an unprecedented map of the cosmos and shed light on some of the biggest mysteries in physics. Designed to take a panoramic view of the vast reaches of space, the Roman Space Telescope \"will help unlock the secrets of the universe,\" U.S. While Hubble revealed that the universe is expanding faster than previously thought, Roman will seek to answer some of the other unsolved mysteries, including those of dark matter and dark energy. With a field of view more than 100 times larger than Hubble's—and significantly wider than James Webb's—Roman will survey vast swaths of the sky from a vantage point 1.5 million kilometers (930,000 miles) from Earth, which it will take about 100 days to reach. The new telescope will also shed light on two of the biggest mysteries in physics: dark matter and dark energy."
+---
+
+Editors have highlighted the following attributes while ensuring the content's credibility: NASA is preparing to launch its new flagship space telescope on Sunday, embarking on a multiyear mission to create an unprecedented map of the cosmos and shed light on some of the biggest mysteries in physics. Designed to take a panoramic view of the vast reaches of space, the Roman Space Telescope "will help unlock the secrets of the universe," U.S. While Hubble revealed that the universe is expanding faster than previously thought, Roman will seek to answer some of the other unsolved mysteries, including those of dark matter and dark energy.
+
+With a field of view more than 100 times larger than Hubble's—and significantly wider than James Webb's—Roman will survey vast swaths of the sky from a vantage point 1.5 million kilometers (930,000 miles) from Earth, which it will take about 100 days to reach. The new telescope will also shed light on two of the biggest mysteries in physics: dark matter and dark energy.
