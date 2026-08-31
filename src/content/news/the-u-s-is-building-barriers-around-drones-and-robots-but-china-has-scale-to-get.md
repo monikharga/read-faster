@@ -1,0 +1,12 @@
+---
+title: "The U.S. is building barriers around drones and robots, but China has scale to get around them"
+description: "In July and August, Washington tightened restrictions on foreign-made advanced robotic systems and imposed steep tariffs on imported drones and…"
+pubDate: 2026-08-31T02:34:00.000Z
+source: "https://techcrunch.com/2026/08/30/the-u-s-is-building-barriers-around-drones-and-robots-china-still-has-scale/"
+sourceName: "TechCrunch"
+summary: "In July and August, Washington tightened restrictions on foreign-made advanced robotic systems and imposed steep tariffs on imported drones and their components, both moves citing national-security concerns. The FCC's Covered List, established in 2021, initially targeted telecommunications and surveillance equipment from companies including Huawei, ZTE and Hikvision before expanding to foreign-made drones and, most recently, to advanced robotic devices. The latest move comes as Chinese manufacturers have built commanding positions in both drones and humanoid robots, often competing at prices U.S. Taken together, the restrictions are raising a bigger question for the global robotics industry: If Chinese drones and humanoids are increasingly shut out of the U.S., where does the competition move next? China dominates global humanoid robot manufacturing, with global shipments hitting 22,000 units in the first half of this year — the vast majority from Chinese manufacturers — according to a report by Counterpoint."
+---
+
+In July and August, Washington tightened restrictions on foreign-made advanced robotic systems and imposed steep tariffs on imported drones and their components, both moves citing national-security concerns. The FCC's Covered List, established in 2021, initially targeted telecommunications and surveillance equipment from companies including Huawei, ZTE and Hikvision before expanding to foreign-made drones and, most recently, to advanced robotic devices. The latest move comes as Chinese manufacturers have built commanding positions in both drones and humanoid robots, often competing at prices U.S.
+
+Taken together, the restrictions are raising a bigger question for the global robotics industry: If Chinese drones and humanoids are increasingly shut out of the U.S., where does the competition move next? China dominates global humanoid robot manufacturing, with global shipments hitting 22,000 units in the first half of this year — the vast majority from Chinese manufacturers — according to a report by Counterpoint.

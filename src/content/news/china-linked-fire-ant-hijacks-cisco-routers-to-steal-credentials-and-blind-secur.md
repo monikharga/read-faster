@@ -1,0 +1,12 @@
+---
+title: "China-Linked Fire Ant Hijacks Cisco Routers to Steal Credentials and Blind Security Logs"
+description: "A China-nexus cyber espionage actor tracked as Fire Ant has expanded a long-running campaign beyond VMware hypervisors to compromise Cisco…"
+pubDate: 2026-08-31T09:04:55.000Z
+source: "https://thehackernews.com/2026/08/china-linked-fire-ant-hijacks-cisco.html"
+sourceName: "The Hacker News"
+summary: "A China-nexus cyber espionage actor tracked as Fire Ant has expanded a long-running campaign beyond VMware hypervisors to compromise Cisco IOS XR routers, Terminal Access Controller Access-Control System (TACACS) servers, and Linux management hosts used to route, authenticate, and manage high-value networks. Sygnia, the incident response firm that investigated the intrusion, said the actor turned the compromised routers into collection platforms, capturing network traffic, harvesting credentials, and suppressing the logging and telemetry that defenders rely on to reconstruct an attack. The firm assessed that the activity strongly overlaps with public reporting on UNC3886, a China-nexus espionage group known for targeting virtualization platforms and network edge devices, though it said in its report that it does not make a conclusive attribution. The 2026 activity follows Sygnia's July 2025 disclosure of Fire Ant, which detailed the group's exploitation of VMware ESXi and vCenter environments before moving into the network and management layers."
+---
+
+A China-nexus cyber espionage actor tracked as Fire Ant has expanded a long-running campaign beyond VMware hypervisors to compromise Cisco IOS XR routers, Terminal Access Controller Access-Control System (TACACS) servers, and Linux management hosts used to route, authenticate, and manage high-value networks. Sygnia, the incident response firm that investigated the intrusion, said the actor turned the compromised routers into collection platforms, capturing network traffic, harvesting credentials, and suppressing the logging and telemetry that defenders rely on to reconstruct an attack. The firm assessed that the activity strongly overlaps with public reporting on UNC3886, a China-nexus espionage group known for targeting virtualization platforms and network edge devices, though it said in its report that it does not make a conclusive attribution.
+
+The 2026 activity follows Sygnia's July 2025 disclosure of Fire Ant, which detailed the group's exploitation of VMware ESXi and vCenter environments before moving into the network and management layers.
