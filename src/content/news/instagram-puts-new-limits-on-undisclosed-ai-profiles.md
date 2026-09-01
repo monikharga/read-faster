@@ -1,0 +1,12 @@
+---
+title: "Instagram puts new limits on undisclosed AI profiles"
+description: "Instagram announced Monday that it's changing how it labels AI-generated profiles and will start limiting the reach of accounts that…"
+pubDate: 2026-08-31T19:16:59.000Z
+source: "https://techcrunch.com/2026/08/31/instagram-puts-new-limits-on-undisclosed-ai-profiles/"
+sourceName: "TechCrunch"
+summary: "Instagram announced Monday that it's changing how it labels AI-generated profiles and will start limiting the reach of accounts that feature AI-generated people without saying so. The platform says it's renaming its existing \"AI creator\" label to \"AI-generated profile,\" which Instagram says should make the disclosure easier to understand. Creators who use the new label, on the other hand, won't be penalized simply for having an AI-generated person as their profile subject. Instagram says people who use AI to edit photos, polish captions, create graphics, or make other creative tweaks don't need to use the AI-generated profile label. Instagram says the change comes partly in response to users who have stumbled across profiles that looked like they belonged to real people, only to find out later that the person was completely AI-generated. \"As generative AI becomes a bigger part of how people create, we've heard that people don't like seeing a profile that seems human, only to find out later that the person featured is AI-generated,\" Instagram wrote."
+---
+
+Instagram announced Monday that it's changing how it labels AI-generated profiles and will start limiting the reach of accounts that feature AI-generated people without saying so. The platform says it's renaming its existing "AI creator" label to "AI-generated profile," which Instagram says should make the disclosure easier to understand. Creators who use the new label, on the other hand, won't be penalized simply for having an AI-generated person as their profile subject.
+
+Instagram says people who use AI to edit photos, polish captions, create graphics, or make other creative tweaks don't need to use the AI-generated profile label. Instagram says the change comes partly in response to users who have stumbled across profiles that looked like they belonged to real people, only to find out later that the person was completely AI-generated. "As generative AI becomes a bigger part of how people create, we've heard that people don't like seeing a profile that seems human, only to find out later that the person featured is AI-generated," Instagram wrote.
