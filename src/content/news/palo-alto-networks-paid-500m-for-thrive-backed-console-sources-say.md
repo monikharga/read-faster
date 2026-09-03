@@ -1,0 +1,12 @@
+---
+title: "Palo Alto Networks paid $500M for Thrive-backed Console, sources say"
+description: "Palo Alto Networks paid $500 million in cash and stock to acquire Console, a two-year-old startup that uses AI agents…"
+pubDate: 2026-09-02T22:44:56.000Z
+source: "https://techcrunch.com/2026/09/02/palo-alto-networks-paid-500m-for-thrive-backed-console-sources-say/"
+sourceName: "TechCrunch"
+summary: "Palo Alto Networks paid $500 million in cash and stock to acquire Console, a two-year-old startup that uses AI agents to automate routine IT help desk tasks, according to two people with knowledge of the deal. Since its founding in 2024, Console has raised $29 million across two rounds: a $6.2 million seed led by Thrive Capital and a $23 million Series A co-led by DST Global and Thrive. Before the sale, Console was valued at $157 million, according to PitchBook, delivering a rapid return for investors including SV Angel, Abstract Ventures, and notably Palo Alto Networks CEO Nikesh Arora, who participated as an angel investor. As a startup, Console competed primarily with Serval, another ServiceNow challenger that hit a $1 billion valuation after raising a $75 million Series B round led by Sequoia last December. Other VC-backed companies scooped up by the cybersecurity behemoth this year include Greylock and Lux Capital-backed observability platform Chronosphere, at a valuation of $3.35 billion, and Koi, a cyber startup backed by Battery and Team8, for $400 million."
+---
+
+Palo Alto Networks paid $500 million in cash and stock to acquire Console, a two-year-old startup that uses AI agents to automate routine IT help desk tasks, according to two people with knowledge of the deal. Since its founding in 2024, Console has raised $29 million across two rounds: a $6.2 million seed led by Thrive Capital and a $23 million Series A co-led by DST Global and Thrive. Before the sale, Console was valued at $157 million, according to PitchBook, delivering a rapid return for investors including SV Angel, Abstract Ventures, and notably Palo Alto Networks CEO Nikesh Arora, who participated as an angel investor.
+
+As a startup, Console competed primarily with Serval, another ServiceNow challenger that hit a $1 billion valuation after raising a $75 million Series B round led by Sequoia last December. Other VC-backed companies scooped up by the cybersecurity behemoth this year include Greylock and Lux Capital-backed observability platform Chronosphere, at a valuation of $3.35 billion, and Koi, a cyber startup backed by Battery and Team8, for $400 million.

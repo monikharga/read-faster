@@ -1,0 +1,12 @@
+---
+title: "The Builders Stage brings practical strategies for scaling startups to TechCrunch Disrupt 2026"
+description: "The Builders Stage is returning to TechCrunch Disrupt 2026, bringing together founders, startup operators, and investors for practical conversations on…"
+pubDate: 2026-09-02T23:01:00.000Z
+source: "https://techcrunch.com/2026/09/02/the-builders-stage-brings-practical-strategies-for-scaling-startups-to-techcrunch-disrupt-2026/"
+sourceName: "TechCrunch"
+summary: "The Builders Stage is returning to TechCrunch Disrupt 2026, bringing together founders, startup operators, and investors for practical conversations on what it takes to build and scale successful companies. Hear from startup and venture leaders shaping the tech ecosystem, including Grant Lee, CEO and co-founder of Gamma; Leah Solivan, founder and general partner at Precedent.vc; Robby Stein, VP of Product at Google; and more. Through candid conversations and real-world case studies, speakers will share actionable insights on fundraising, hiring, go-to-market strategy, AI, and the operational decisions that fuel startup growth. Join more than 10,000 founders, investors, startup operators, and technology leaders at Moscone Center in San Francisco on October 13-15. The Builders Stage is one of six industry-focused stages at Disrupt 2026, dedicated to helping founders navigate the challenges of growth, from raising capital and hiring top talent to building go-to-market engines and preparing for the jump from seed to Series A."
+---
+
+The Builders Stage is returning to TechCrunch Disrupt 2026, bringing together founders, startup operators, and investors for practical conversations on what it takes to build and scale successful companies. Hear from startup and venture leaders shaping the tech ecosystem, including Grant Lee, CEO and co-founder of Gamma; Leah Solivan, founder and general partner at Precedent.vc; Robby Stein, VP of Product at Google; and more. Through candid conversations and real-world case studies, speakers will share actionable insights on fundraising, hiring, go-to-market strategy, AI, and the operational decisions that fuel startup growth.
+
+Join more than 10,000 founders, investors, startup operators, and technology leaders at Moscone Center in San Francisco on October 13-15. The Builders Stage is one of six industry-focused stages at Disrupt 2026, dedicated to helping founders navigate the challenges of growth, from raising capital and hiring top talent to building go-to-market engines and preparing for the jump from seed to Series A.
