@@ -1,0 +1,12 @@
+---
+title: "Plex Urges Immediate Updates After Patching Multiple Undisclosed Security Flaws"
+description: "The fixes are available in Plex Media Server 1.43.3 and Plex Desktop 1.115.0."
+pubDate: 2026-09-04T07:35:14.000Z
+source: "https://thehackernews.com/2026/09/plex-urges-immediate-updates-after.html"
+sourceName: "The Hacker News"
+summary: "The fixes are available in Plex Media Server 1.43.3 and Plex Desktop 1.115.0. \"If you're running Plex Media Server on a NAS device, the updated version may not be available in their package manager yet, but you can install the package manually.\" In August 2025, Plex addressed a high-severity security flaw (CVE-2025-34158, CVSS score: 8.5), an authentication bug that stemmed from the \"/myplex/account\" endpoint incorrectly exposing the server owner's account details, including their administrative access token, even when accessed by any authenticated non-owner or lower-privileged user. Vulnerabilities in Plex Media Server have been exploited by threat actors from time to time. In February 2021, Plex released a security update to resolve an issue that allowed attackers to cause an affected server to \"reflect\" UDP packets in order to increase the volume of a denial-of-service (DoS) attack against another server. The hotfix (Plex Media Server v1.21.3.4014 or newer) ensures that the server will only respond to UDP requests from the local network (LAN) and not the public internet (WAN)."
+---
+
+The fixes are available in Plex Media Server 1.43.3 and Plex Desktop 1.115.0. "If you're running Plex Media Server on a NAS device, the updated version may not be available in their package manager yet, but you can install the package manually." In August 2025, Plex addressed a high-severity security flaw (CVE-2025-34158, CVSS score: 8.5), an authentication bug that stemmed from the "/myplex/account" endpoint incorrectly exposing the server owner's account details, including their administrative access token, even when accessed by any authenticated non-owner or lower-privileged user. Vulnerabilities in Plex Media Server have been exploited by threat actors from time to time.
+
+In February 2021, Plex released a security update to resolve an issue that allowed attackers to cause an affected server to "reflect" UDP packets in order to increase the volume of a denial-of-service (DoS) attack against another server. The hotfix (Plex Media Server v1.21.3.4014 or newer) ensures that the server will only respond to UDP requests from the local network (LAN) and not the public internet (WAN).

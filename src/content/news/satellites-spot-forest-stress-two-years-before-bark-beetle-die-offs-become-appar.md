@@ -1,0 +1,12 @@
+---
+title: "Satellites spot forest stress two years before bark beetle die-offs become apparent"
+description: "forests two years before bark beetle mortality appeared in aerial detection surveys, according to new University of Utah-led research."
+pubDate: 2026-09-03T22:10:05.000Z
+source: "https://phys.org/news/2026-09-satellites-forest-stress-years-bark.html"
+sourceName: "Phys.org"
+summary: "forests two years before bark beetle mortality appeared in aerial detection surveys, according to new University of Utah-led research. The first-of-its-kind study suggests that satellite-observed chlorophyll fluorescence (SIF), a measure of plant photosynthesis, could provide an early warning of forest stress. \"I don't know of any other tool that can detect this type of signal before tree mortality becomes obvious at a scale large enough to assess the health of entire forests,\" said lead author Lewis Kunik, who recently completed his doctorate at the U. Rather, the technology could identify areas of concern early enough for land managers to investigate, mobilize crews, allocate funding or otherwise prepare before mortality becomes widespread.\" The study is online ahead of its publication in the October issue of Remote Sensing of Environment. Fortunately, several next-generation satellites carry specialized instruments that detect a faint red glow that plants emit during photosynthesis, the process by which plants convert sunlight into energy."
+---
+
+forests two years before bark beetle mortality appeared in aerial detection surveys, according to new University of Utah-led research. The first-of-its-kind study suggests that satellite-observed chlorophyll fluorescence (SIF), a measure of plant photosynthesis, could provide an early warning of forest stress. "I don't know of any other tool that can detect this type of signal before tree mortality becomes obvious at a scale large enough to assess the health of entire forests," said lead author Lewis Kunik, who recently completed his doctorate at the U.
+
+Rather, the technology could identify areas of concern early enough for land managers to investigate, mobilize crews, allocate funding or otherwise prepare before mortality becomes widespread." The study is online ahead of its publication in the October issue of Remote Sensing of Environment. Fortunately, several next-generation satellites carry specialized instruments that detect a faint red glow that plants emit during photosynthesis, the process by which plants convert sunlight into energy.
