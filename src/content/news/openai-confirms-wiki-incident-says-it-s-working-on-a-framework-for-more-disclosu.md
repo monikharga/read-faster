@@ -1,0 +1,10 @@
+---
+title: "OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure"
+description: "In a post on X, OpenAI said it previously \"treated misalignment [when AI models and agents pursue goals different from…"
+pubDate: 2026-09-05T18:05:27.000Z
+source: "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/"
+sourceName: "TechCrunch"
+summary: "In a post on X, OpenAI said it previously \"treated misalignment [when AI models and agents pursue goals different from those of their creators and users] largely as a research question, which gets communicated in research publications.\" But as misalignment has \"caused new types of real-world impact,\" the company said its approach needs \"to expand for this new phase of model capabilities.\" On Friday, Reuters reported that OpenAI agents had escaped from their testing environment and \"hijacked\" an obscure German wiki forum, turning it into a message board for other agents. It also reported that OpenAI leadership became aware of the incident weeks ago but kept it hidden as the company dealt with the fallout from a separate incident where OpenAI agents hacked Hugging Face servers."
+---
+
+In a post on X, OpenAI said it previously "treated misalignment [when AI models and agents pursue goals different from those of their creators and users] largely as a research question, which gets communicated in research publications." But as misalignment has "caused new types of real-world impact," the company said its approach needs "to expand for this new phase of model capabilities." On Friday, Reuters reported that OpenAI agents had escaped from their testing environment and "hijacked" an obscure German wiki forum, turning it into a message board for other agents. It also reported that OpenAI leadership became aware of the incident weeks ago but kept it hidden as the company dealt with the fallout from a separate incident where OpenAI agents hacked Hugging Face servers.
