@@ -1,0 +1,12 @@
+---
+title: "Extreme pressure turns blue pigment into record-long single-atom copper chains"
+description: "Yet the wires connecting them might be able to shrink beyond conventional dimensions, as scientists have created one of the…"
+pubDate: 2026-09-06T14:20:01.000Z
+source: "https://phys.org/news/2026-09-extreme-pressure-blue-pigment-atom.html"
+sourceName: "Phys.org"
+summary: "Yet the wires connecting them might be able to shrink beyond conventional dimensions, as scientists have created one of the longest single-atom copper chains to date that could serve as molecular wires. Under high pressure—more than 21 gigapascals, roughly 200,000 times normal atmospheric pressure—they converted the CuPc crystals into copper atomic chains stretching for micrometers, each encased in a carbon sheath. The resulting sheathed single-metal-atom chains (sSMACs) resembled a household power cord on an atomic scale, with three distinct layers. With more than 4,000 copper atoms strung into a single chain, the structure was two to three orders of magnitude longer than any single-atom chain made before. Scientists have successfully created single-atom chains before, but the method has been highly impractical for making longer ones. They started with copper phthalocyanine, whose flat, ring-like molecules, each containing a single copper atom, naturally stacked one above another like a column of coins."
+---
+
+Yet the wires connecting them might be able to shrink beyond conventional dimensions, as scientists have created one of the longest single-atom copper chains to date that could serve as molecular wires. Under high pressure—more than 21 gigapascals, roughly 200,000 times normal atmospheric pressure—they converted the CuPc crystals into copper atomic chains stretching for micrometers, each encased in a carbon sheath. The resulting sheathed single-metal-atom chains (sSMACs) resembled a household power cord on an atomic scale, with three distinct layers.
+
+With more than 4,000 copper atoms strung into a single chain, the structure was two to three orders of magnitude longer than any single-atom chain made before. Scientists have successfully created single-atom chains before, but the method has been highly impractical for making longer ones. They started with copper phthalocyanine, whose flat, ring-like molecules, each containing a single copper atom, naturally stacked one above another like a column of coins.

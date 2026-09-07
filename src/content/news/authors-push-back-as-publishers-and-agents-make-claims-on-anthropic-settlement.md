@@ -1,0 +1,10 @@
+---
+title: "Authors push back as publishers and agents make claims on Anthropic settlement"
+description: "25% off tickets now Back by popular demand: Save up to $300 on Disrupt Some authors hoping to receive their…"
+pubDate: 2026-09-06T20:47:37.000Z
+source: "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/"
+sourceName: "TechCrunch"
+summary: "25% off tickets now Back by popular demand: Save up to $300 on Disrupt Some authors hoping to receive their share of Anthropic's $1.5 billion copyright settlement said they received surprising emails this week — emails informing them that someone else was making a claim on their payments. If the book was self-published, or if the publisher reverted the rights by allowing the book to go out-of-print, then the author should get the entire payment. (which they never were).\" At the popular blog Writers Beware, Victoria Strauss wrote that she's been receiving author complaints that fall into two broad categories: one where publishers are seeking payment for works that they no longer have a legitimate claim on (because the rights have reverted), and another where publishers are seeking a full 100% payment when they're only entitled to 50%."
+---
+
+25% off tickets now Back by popular demand: Save up to $300 on Disrupt Some authors hoping to receive their share of Anthropic's $1.5 billion copyright settlement said they received surprising emails this week — emails informing them that someone else was making a claim on their payments. If the book was self-published, or if the publisher reverted the rights by allowing the book to go out-of-print, then the author should get the entire payment. (which they never were)." At the popular blog Writers Beware, Victoria Strauss wrote that she's been receiving author complaints that fall into two broad categories: one where publishers are seeking payment for works that they no longer have a legitimate claim on (because the rights have reverted), and another where publishers are seeking a full 100% payment when they're only entitled to 50%.

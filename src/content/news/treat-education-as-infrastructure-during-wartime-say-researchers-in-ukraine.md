@@ -1,0 +1,12 @@
+---
+title: "Treat education as infrastructure during wartime, say researchers in Ukraine"
+description: "In a new Comment in Nature Genetics, an international team including Centre for Genomic Regulation (CRG) researcher Roderic Guigó argues…"
+pubDate: 2026-09-07T09:00:02.000Z
+source: "https://phys.org/news/2026-09-infrastructure-wartime-ukraine.html"
+sourceName: "Phys.org"
+summary: "In a new Comment in Nature Genetics, an international team including Centre for Genomic Regulation (CRG) researcher Roderic Guigó argues that protecting science under the systemic stress of wartime means treating education and training itself as infrastructure rather than as a series of one-off events. The authors draw on the experience of running the Ukrainian Biological Data Science Summer School (UBDS3), held in person at Uzhhorod National University in western Ukraine since 2023, which is in session again this month from July 11 to 25, 2026. UBDS3 is offered free of charge, with travel, room and board covered, and taught bilingually in Ukrainian and English by faculty from leading research institutions across Europe, North America and Asia, including the CRG. A new genomics research facility at the city's university has already begun to deliver clinical dividends, including corrected diagnoses for patients with a rare, treatable form of diabetes, a reminder that research depends entirely on the trained people the school exists to produce."
+---
+
+In a new Comment in Nature Genetics, an international team including Centre for Genomic Regulation (CRG) researcher Roderic Guigó argues that protecting science under the systemic stress of wartime means treating education and training itself as infrastructure rather than as a series of one-off events. The authors draw on the experience of running the Ukrainian Biological Data Science Summer School (UBDS3), held in person at Uzhhorod National University in western Ukraine since 2023, which is in session again this month from July 11 to 25, 2026. UBDS3 is offered free of charge, with travel, room and board covered, and taught bilingually in Ukrainian and English by faculty from leading research institutions across Europe, North America and Asia, including the CRG.
+
+A new genomics research facility at the city's university has already begun to deliver clinical dividends, including corrected diagnoses for patients with a rare, treatable form of diabetes, a reminder that research depends entirely on the trained people the school exists to produce.
