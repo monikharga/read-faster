@@ -1,0 +1,12 @@
+---
+title: "Opaque recurrence, and other AI terms that you should probably know"
+description: "Sit in on any product meeting, pitch, or panel these days, and you'll hear people toss around LLMs, RAG, RLHF…"
+pubDate: 2026-09-07T19:24:00.000Z
+source: "https://techcrunch.com/2026/09/07/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/"
+sourceName: "TechCrunch"
+summary: "Sit in on any product meeting, pitch, or panel these days, and you'll hear people toss around LLMs, RAG, RLHF — and, as of last week, terms like \"opaque recurrence,\" the reasoning technique in OpenAI's new Astra model that's got AI safety researchers rattled. The vocabulary moves fast enough to make even very smart people in the tech world feel a little insecure. OpenAI CEO Sam Altman once described AGI as the \"equivalent of a median human that you could hire as a co-worker.\" Meanwhile, OpenAI's charter defines AGI as \"highly autonomous systems that outperform humans at most economically valuable work.\" Google DeepMind's understanding differs slightly from these two definitions; the lab views AGI as \"AI that's at least as capable as humans at most cognitive tasks.\" Confused? An AI agent refers to a tool that uses AI technologies to perform a series of tasks on your behalf — beyond what a more basic AI chatbot could do — such as filing expenses, booking tickets or a table at a restaurant, or even writing and maintaining code."
+---
+
+Sit in on any product meeting, pitch, or panel these days, and you'll hear people toss around LLMs, RAG, RLHF — and, as of last week, terms like "opaque recurrence," the reasoning technique in OpenAI's new Astra model that's got AI safety researchers rattled. The vocabulary moves fast enough to make even very smart people in the tech world feel a little insecure. OpenAI CEO Sam Altman once described AGI as the "equivalent of a median human that you could hire as a co-worker." Meanwhile, OpenAI's charter defines AGI as "highly autonomous systems that outperform humans at most economically valuable work." Google DeepMind's understanding differs slightly from these two definitions; the lab views AGI as "AI that's at least as capable as humans at most cognitive tasks." Confused?
+
+An AI agent refers to a tool that uses AI technologies to perform a series of tasks on your behalf — beyond what a more basic AI chatbot could do — such as filing expenses, booking tickets or a table at a restaurant, or even writing and maintaining code.

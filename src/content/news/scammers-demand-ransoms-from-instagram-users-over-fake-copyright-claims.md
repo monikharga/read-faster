@@ -1,0 +1,12 @@
+---
+title: "Scammers demand ransoms from Instagram users over fake copyright claims"
+description: "Instagram creators say they have lost thousands of pounds after their accounts were suspended or taken down due to fake…"
+pubDate: 2026-09-08T06:49:56.000Z
+source: "https://www.bbc.co.uk/news/articles/cjw54ww73qjo?at_medium=RSS&at_campaign=rss"
+sourceName: "BBC Technology"
+summary: "Instagram creators say they have lost thousands of pounds after their accounts were suspended or taken down due to fake copyright claims. Extorters have filed bogus claims to the Meta-owned social media platform, then asked for ransoms to withdraw them - knowing repeated claims can lead to account bans. One Instagram user, who has 1.5 million followers, told the BBC he paid a scammer $50 (£37) to get his account back, claiming Meta's appeal process would take weeks, which had previously cost him thousands in lost income. \"Following our review, we have restored the affected content and added additional protections to safeguard accounts against further attempts of this kind.\" However, content creators the BBC has spoken to say Meta is poor at identifying obviously spurious cases, and say its appeals process is slow to respond unless you pay a monthly fee. The Lost in Time History Instagram account posts historical pictures to its more than 1.5 million followers. You may want to read Meta's Instagram cookie policy, external and privacy policy, external before accepting."
+---
+
+Instagram creators say they have lost thousands of pounds after their accounts were suspended or taken down due to fake copyright claims. Extorters have filed bogus claims to the Meta-owned social media platform, then asked for ransoms to withdraw them - knowing repeated claims can lead to account bans. One Instagram user, who has 1.5 million followers, told the BBC he paid a scammer $50 (£37) to get his account back, claiming Meta's appeal process would take weeks, which had previously cost him thousands in lost income.
+
+"Following our review, we have restored the affected content and added additional protections to safeguard accounts against further attempts of this kind." However, content creators the BBC has spoken to say Meta is poor at identifying obviously spurious cases, and say its appeals process is slow to respond unless you pay a monthly fee. The Lost in Time History Instagram account posts historical pictures to its more than 1.5 million followers. You may want to read Meta's Instagram cookie policy, external and privacy policy, external before accepting.

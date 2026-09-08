@@ -1,0 +1,12 @@
+---
+title: "Fake IT Calls Target Executives in Microsoft 365 Data Theft and Extortion Attacks"
+description: "Threat hunters have disclosed details of a widespread data theft and extortion threat cluster that's targeting Microsoft 365 and other…"
+pubDate: 2026-09-07T15:51:56.000Z
+source: "https://thehackernews.com/2026/09/microsoft-365-attackers-use-help-desk.html"
+sourceName: "The Hacker News"
+summary: "Threat hunters have disclosed details of a widespread data theft and extortion threat cluster that's targeting Microsoft 365 and other software-as-a-service (SaaS) offerings through information technology (IT) help desk vishing, adversary-in-the-middle (AitM) token theft, and residential-proxy sign-ins. It also said that the data extortion threat actor known as Cinder likely represents yet another rebrand or a possible continuation of Pink operations, citing overlaps between organizations listed on the Cinder leak site and those connected to Pink. \"After initial access, the threat actors perform discovery techniques against SharePoint and Entra ID. SharePoint discovery includes SearchQueryPerformed events with contentclass:STS_Site, contentclass:STS_Web, and wildcard searches using indexdocid for pagination.\" In the final step, the threat actors perform en masse collection and exfiltration from SharePoint, OneDrive, Exchange, and Box, after which extortion demands are sent to victims."
+---
+
+Threat hunters have disclosed details of a widespread data theft and extortion threat cluster that's targeting Microsoft 365 and other software-as-a-service (SaaS) offerings through information technology (IT) help desk vishing, adversary-in-the-middle (AitM) token theft, and residential-proxy sign-ins. It also said that the data extortion threat actor known as Cinder likely represents yet another rebrand or a possible continuation of Pink operations, citing overlaps between organizations listed on the Cinder leak site and those connected to Pink. "After initial access, the threat actors perform discovery techniques against SharePoint and Entra ID.
+
+SharePoint discovery includes SearchQueryPerformed events with contentclass:STS_Site, contentclass:STS_Web, and wildcard searches using indexdocid for pagination." In the final step, the threat actors perform en masse collection and exfiltration from SharePoint, OneDrive, Exchange, and Box, after which extortion demands are sent to victims.
