@@ -1,0 +1,12 @@
+---
+title: "OpenAI puts Pro subscriptions on hold due to Astra demand"
+description: "25% off tickets now Back by popular demand: Save up to $300 on Disrupt Demand for OpenAI's newest and most…"
+pubDate: 2026-09-10T20:59:51.000Z
+source: "https://techcrunch.com/2026/09/10/openai-puts-pro-subscriptions-on-hold-due-to-astra-demand/"
+sourceName: "TechCrunch"
+summary: "25% off tickets now Back by popular demand: Save up to $300 on Disrupt Demand for OpenAI's newest and most powerful model, Astra, has led the company to temporarily pause subscriptions for its $200-per-month Pro plan, citing strain on its infrastructure. At the time, Sottiaux wrote, \"Demand for Astra is really unprecedented. We're pulling all the levers possible to sustain the demand, but I've not seen anything like it until now and we went through very steep growth before. Priority will always be to keep excellent service for existing users, but we might have to pause new Pro subscriptions for a bit if this continues.\" OpenAI hasn't said how long sign-ups to the Pro tier may be disabled, or how many people are signing up daily, to give an idea of the scale of the demand. Launched on September 3, Astra has been rolling out across OpenAI's plans, including Pro, Plus, Enterprise, and Business accounts, in addition to its AI. OpenAI even heralded Astra as the beginning of the \"AGI era,\" and a generational leap, stoking demand even more."
+---
+
+25% off tickets now Back by popular demand: Save up to $300 on Disrupt Demand for OpenAI's newest and most powerful model, Astra, has led the company to temporarily pause subscriptions for its $200-per-month Pro plan, citing strain on its infrastructure. At the time, Sottiaux wrote, "Demand for Astra is really unprecedented. We're pulling all the levers possible to sustain the demand, but I've not seen anything like it until now and we went through very steep growth before.
+
+Priority will always be to keep excellent service for existing users, but we might have to pause new Pro subscriptions for a bit if this continues." OpenAI hasn't said how long sign-ups to the Pro tier may be disabled, or how many people are signing up daily, to give an idea of the scale of the demand. Launched on September 3, Astra has been rolling out across OpenAI's plans, including Pro, Plus, Enterprise, and Business accounts, in addition to its AI. OpenAI even heralded Astra as the beginning of the "AGI era," and a generational leap, stoking demand even more.

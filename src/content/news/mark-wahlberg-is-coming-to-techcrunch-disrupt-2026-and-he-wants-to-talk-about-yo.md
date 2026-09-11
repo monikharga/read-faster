@@ -1,0 +1,12 @@
+---
+title: "Mark Wahlberg is coming to TechCrunch Disrupt 2026, and he wants to talk about your work, not his"
+description: "He's also signaling where he's increasingly turning his attention."
+pubDate: 2026-09-10T21:35:00.000Z
+source: "https://techcrunch.com/2026/09/10/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026/"
+sourceName: "TechCrunch"
+summary: "He's also signaling where he's increasingly turning his attention. Over the past two decades, Wahlberg has built a production company, a restaurant chain, apparel and fitness ventures, a slate of angel investments, and the now-25-year-old Mark Wahlberg Youth Foundation, which supports inner-city kids and teens. He's used his Hollywood success to launch big projects well outside the movie business — and in a fireside chat at this year's Disrupt, he's going to give us a peek into how. Wahlberg, who's leaned almost entirely on entrepreneurial instinct about people, culture, products, and markets, is now someone who's been building institutional-level investing discipline, with Lee as his guide, and with a growing focus on healthcare and wellness startups. He also discusses where high-profile entertainers and athletes sometimes get it wrong (Wahlberg is candid about having had to unlearn some of his own old instincts); how he's used the trust built over a massive career to drive access and deal flow; and which technologies he's most focused on right now and why."
+---
+
+He's also signaling where he's increasingly turning his attention. Over the past two decades, Wahlberg has built a production company, a restaurant chain, apparel and fitness ventures, a slate of angel investments, and the now-25-year-old Mark Wahlberg Youth Foundation, which supports inner-city kids and teens. He's used his Hollywood success to launch big projects well outside the movie business — and in a fireside chat at this year's Disrupt, he's going to give us a peek into how.
+
+Wahlberg, who's leaned almost entirely on entrepreneurial instinct about people, culture, products, and markets, is now someone who's been building institutional-level investing discipline, with Lee as his guide, and with a growing focus on healthcare and wellness startups. He also discusses where high-profile entertainers and athletes sometimes get it wrong (Wahlberg is candid about having had to unlearn some of his own old instincts); how he's used the trust built over a massive career to drive access and deal flow; and which technologies he's most focused on right now and why.
