@@ -1,0 +1,12 @@
+---
+title: "Unexpected Amazon hotspot: Central north faces fastest rise in extreme heat and water stress"
+description: "Editors have highlighted the following attributes while ensuring the content's credibility: The central north Amazon, with extensive areas of high…"
+pubDate: 2026-09-12T18:00:01.000Z
+source: "https://phys.org/news/2026-09-unexpected-amazon-hotspot-central-north.html"
+sourceName: "Phys.org"
+summary: "Editors have highlighted the following attributes while ensuring the content's credibility: The central north Amazon, with extensive areas of high forest cover, natural savannas and vast, important Indigenous territories, was not previously considered the area most affected by climate change. Findings published today in Communications Earth & Environment identify Amazonia as experiencing rapid growth in extreme temperatures and water stress—with 10% of the basin, an area of more than 700,000 square kilometers (270,000 square miles), larger than Afghanistan, witnessing increases in extreme dry-season temperatures of at least 0.75°C a decade and more than 3.22°C since 1981. Scientists fear that if these rapid increases in extreme climate events continue, they could push the Amazon past critical thresholds. Climate extremes are responsible for some of the most harmful climate-linked impacts on nature and people, driving increased mortality, losses of forest species and damage to ecosystems."
+---
+
+Editors have highlighted the following attributes while ensuring the content's credibility: The central north Amazon, with extensive areas of high forest cover, natural savannas and vast, important Indigenous territories, was not previously considered the area most affected by climate change. Findings published today in Communications Earth & Environment identify Amazonia as experiencing rapid growth in extreme temperatures and water stress—with 10% of the basin, an area of more than 700,000 square kilometers (270,000 square miles), larger than Afghanistan, witnessing increases in extreme dry-season temperatures of at least 0.75°C a decade and more than 3.22°C since 1981. Scientists fear that if these rapid increases in extreme climate events continue, they could push the Amazon past critical thresholds.
+
+Climate extremes are responsible for some of the most harmful climate-linked impacts on nature and people, driving increased mortality, losses of forest species and damage to ecosystems.
