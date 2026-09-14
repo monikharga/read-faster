@@ -1,0 +1,12 @@
+---
+title: "Researchers pinpoint key early-universe measurement with record precision"
+description: "Editors have highlighted the following attributes while ensuring the content's credibility: An international team, including researchers from the University of…"
+pubDate: 2026-09-13T12:00:01.000Z
+source: "https://phys.org/news/2026-09-key-early-universe-precision.html"
+sourceName: "Phys.org"
+summary: "Editors have highlighted the following attributes while ensuring the content's credibility: An international team, including researchers from the University of Minnesota Twin Cities, has reached a major milestone in \"precision cosmology\" by measuring the amount of helium created in the universe's first five minutes with unprecedented accuracy. The series of five papers published in The Astrophysical Journal details how the team was able to leverage 130 hours of observation time on the Large Binocular Telescope to reduce the uncertainty of this fundamental cosmic value to just 0.5%—three times better than previous standards. The study's findings provide new clues about the beginning of the universe and help researchers better understand the fundamentals of physics. It has diagnostic power that speaks directly to the Standard Model of Physics.\" The Big Bang theory shows how the universe expanded from an extremely high-density and high-temperature state approximately 13.8 billion years ago."
+---
+
+Editors have highlighted the following attributes while ensuring the content's credibility: An international team, including researchers from the University of Minnesota Twin Cities, has reached a major milestone in "precision cosmology" by measuring the amount of helium created in the universe's first five minutes with unprecedented accuracy. The series of five papers published in The Astrophysical Journal details how the team was able to leverage 130 hours of observation time on the Large Binocular Telescope to reduce the uncertainty of this fundamental cosmic value to just 0.5%—three times better than previous standards. The study's findings provide new clues about the beginning of the universe and help researchers better understand the fundamentals of physics.
+
+It has diagnostic power that speaks directly to the Standard Model of Physics." The Big Bang theory shows how the universe expanded from an extremely high-density and high-temperature state approximately 13.8 billion years ago.

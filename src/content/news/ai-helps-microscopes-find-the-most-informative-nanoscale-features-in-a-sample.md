@@ -1,0 +1,12 @@
+---
+title: "AI helps microscopes find the most informative nanoscale features in a sample"
+description: "Editors have highlighted the following attributes while ensuring the content's credibility: Researchers at the Department of Energy's Oak Ridge National…"
+pubDate: 2026-09-13T20:00:01.000Z
+source: "https://phys.org/news/2026-09-ai-microscopes-nanoscale-features-sample.html"
+sourceName: "Phys.org"
+summary: "Editors have highlighted the following attributes while ensuring the content's credibility: Researchers at the Department of Energy's Oak Ridge National Laboratory (ORNL) have developed an artificial intelligence framework that helps researchers use atomic force microscopes to identify important nanoscale features while autonomously targeting the most informative areas of a sample for closer study. Although atomic force microscopy (AFM) reveals structures as small as molecules, operating the instrument still requires expert judgment about where to scan, how to adjust settings and which features deserve closer study. \"Operating an atomic force microscope is a bit like piloting a modern jet,\" said Liam Collins, an ORNL senior R&D scientist at the Center for Nanophase Materials Sciences (CNMS). At first glance, interpreting AFM images looks like a standard image-analysis problem. \"A camera records reflected light, but an atomic force microscope acts more like a high-tech record player needle feeling its way across a landscape,\" Collins said."
+---
+
+Editors have highlighted the following attributes while ensuring the content's credibility: Researchers at the Department of Energy's Oak Ridge National Laboratory (ORNL) have developed an artificial intelligence framework that helps researchers use atomic force microscopes to identify important nanoscale features while autonomously targeting the most informative areas of a sample for closer study. Although atomic force microscopy (AFM) reveals structures as small as molecules, operating the instrument still requires expert judgment about where to scan, how to adjust settings and which features deserve closer study. "Operating an atomic force microscope is a bit like piloting a modern jet," said Liam Collins, an ORNL senior R&D scientist at the Center for Nanophase Materials Sciences (CNMS).
+
+At first glance, interpreting AFM images looks like a standard image-analysis problem. "A camera records reflected light, but an atomic force microscope acts more like a high-tech record player needle feeling its way across a landscape," Collins said.
