@@ -1,0 +1,12 @@
+---
+title: "A new design for a plasma engine fuels on only thin air"
+description: "But there is also a cost—air friction requires satellites in this orbit to use an engine nearly constantly to stay…"
+pubDate: 2026-09-15T00:40:01.000Z
+source: "https://phys.org/news/2026-09-plasma-fuels-thin-air.html"
+sourceName: "Phys.org"
+summary: "But there is also a cost—air friction requires satellites in this orbit to use an engine nearly constantly to stay aloft, which in turn requires fuel—typically expensive gases like xenon. thesis at the University of Stuttgart, available on arXiv, Francesco Romano decided to solve that problem by using the air molecules that cause the friction as fuel for a plasma engine to keep satellites aloft indefinitely in VLEO. These scoop up thin air in front of a spacecraft (or, in some cases, a missile) and channel it into an electric engine, which then turns the molecules into plasma and shoots it out the back, producing thrust. AO is notoriously oxidative, corroding metal electrodes, acceleration grids and even the cathodes used in standard Hall thrusters or other types of ion engines. Perhaps most importantly, AO burns through the cathodes used in the \"electron gun\" that neutralizes the spacecraft so that the whole thing doesn't become charged and simply suck the charged particles right back to itself, nullifying the thrust they provide."
+---
+
+But there is also a cost—air friction requires satellites in this orbit to use an engine nearly constantly to stay aloft, which in turn requires fuel—typically expensive gases like xenon. thesis at the University of Stuttgart, available on arXiv, Francesco Romano decided to solve that problem by using the air molecules that cause the friction as fuel for a plasma engine to keep satellites aloft indefinitely in VLEO. These scoop up thin air in front of a spacecraft (or, in some cases, a missile) and channel it into an electric engine, which then turns the molecules into plasma and shoots it out the back, producing thrust.
+
+AO is notoriously oxidative, corroding metal electrodes, acceleration grids and even the cathodes used in standard Hall thrusters or other types of ion engines. Perhaps most importantly, AO burns through the cathodes used in the "electron gun" that neutralizes the spacecraft so that the whole thing doesn't become charged and simply suck the charged particles right back to itself, nullifying the thrust they provide.

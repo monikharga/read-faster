@@ -1,0 +1,12 @@
+---
+title: "Researchers invent novel eDNA membrane to advance understanding of inshore fish diversity"
+description: "A research team from City University of Hong Kong (CityUHK), in collaboration with researchers from several other universities, has developed…"
+pubDate: 2026-09-15T00:00:06.000Z
+source: "https://phys.org/news/2026-09-edna-membrane-advance-inshore-fish.html"
+sourceName: "Phys.org"
+summary: "A research team from City University of Hong Kong (CityUHK), in collaboration with researchers from several other universities, has developed a functionalized membrane that significantly improves the efficiency of collecting and detecting eDNA from marine organisms, providing a more sensitive and reliable tool for monitoring marine biodiversity. The CityUHK team was led by Professor Kenneth Leung Mei-yee, vice president (research) and director of the State Key Laboratory of Marine Environmental Health (SKLMEH), and Professor Zeng Zhiyuan from the Department of Materials Science and Engineering and the SKLMEH. The study, titled \"A tailored MoS2 membrane with strong DNA-binding capability enhances aquatic biota detection through environmental DNA metabarcoding,\" was published in National Science Review. The research team coated the surface of a common membrane with an ultrathin layer of the 2D material molybdenum disulfide (MoS₂), enabling the membrane to capture DNA in water more effectively."
+---
+
+A research team from City University of Hong Kong (CityUHK), in collaboration with researchers from several other universities, has developed a functionalized membrane that significantly improves the efficiency of collecting and detecting eDNA from marine organisms, providing a more sensitive and reliable tool for monitoring marine biodiversity. The CityUHK team was led by Professor Kenneth Leung Mei-yee, vice president (research) and director of the State Key Laboratory of Marine Environmental Health (SKLMEH), and Professor Zeng Zhiyuan from the Department of Materials Science and Engineering and the SKLMEH. The study, titled "A tailored MoS2 membrane with strong DNA-binding capability enhances aquatic biota detection through environmental DNA metabarcoding," was published in National Science Review.
+
+The research team coated the surface of a common membrane with an ultrathin layer of the 2D material molybdenum disulfide (MoS₂), enabling the membrane to capture DNA in water more effectively.

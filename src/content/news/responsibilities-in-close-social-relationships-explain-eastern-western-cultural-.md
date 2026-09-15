@@ -1,0 +1,12 @@
+---
+title: "Responsibilities in close social relationships explain Eastern–Western cultural differences"
+description: "Cultures are generally classified as interdependent or independent, and the prevailing idea that defines cultural differences is whether people value…"
+pubDate: 2026-09-15T09:00:15.000Z
+source: "https://phys.org/news/2026-09-responsibilities-social-relationships-easternwestern-cultural.html"
+sourceName: "Phys.org"
+summary: "Cultures are generally classified as interdependent or independent, and the prevailing idea that defines cultural differences is whether people value the group more than the individual, a concept called collectivism. For decades, the surveys that social psychologists used to measure collectivism have generated contradictory and nonsensical findings, such as repeatedly labeling Western cultures, such as the United States and United Kingdom, as more interdependent than East Asian countries, such as Japan. 15, an international research team showed that the responsibilities people hold in close relationships reliably differentiate Eastern and Western cultures and form the foundation of collectivism. \"Culture is everywhere, and because it is everywhere, understanding it unlocks opportunities all around us,\" said Thomas Talhelm, lead author of the study and the new Robert Cialdini Endowed Professor in Social Influence in the Arizona State University Department of Psychology."
+---
+
+Cultures are generally classified as interdependent or independent, and the prevailing idea that defines cultural differences is whether people value the group more than the individual, a concept called collectivism. For decades, the surveys that social psychologists used to measure collectivism have generated contradictory and nonsensical findings, such as repeatedly labeling Western cultures, such as the United States and United Kingdom, as more interdependent than East Asian countries, such as Japan. 15, an international research team showed that the responsibilities people hold in close relationships reliably differentiate Eastern and Western cultures and form the foundation of collectivism.
+
+"Culture is everywhere, and because it is everywhere, understanding it unlocks opportunities all around us," said Thomas Talhelm, lead author of the study and the new Robert Cialdini Endowed Professor in Social Influence in the Arizona State University Department of Psychology.
