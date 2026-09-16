@@ -1,0 +1,12 @@
+---
+title: "Meta now lets AI agents handle the boring parts of WhatsApp Business setup"
+description: "25% off tickets now Back by popular demand: Save up to $300 on Disrupt Alongside news of its new AI-focused…"
+pubDate: 2026-09-15T20:12:53.000Z
+source: "https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup/"
+sourceName: "TechCrunch"
+summary: "25% off tickets now Back by popular demand: Save up to $300 on Disrupt Alongside news of its new AI-focused subscription plans, Meta announced on Tuesday that it will now allow AI agents of your choosing to set up and manage WhatsApp Business messaging, the service that allows companies to connect with customers through WhatsApp conversations. This is made possible by the new WhatsApp Business Tools MCP, an MCP (Model Context Protocol) server that directly connects an AI coding agent like Claude, Cursor, Codex, or ChatGPT to the WhatsApp Business Platform. In Meta's case, the AI agent will handle much of the busywork involved in the WhatsApp Business setup process, like creating the company's WhatsApp Business account, adding and verifying its phone number, registering it for access to the Cloud API, checking the business' Terms of Service, and more. During setup and configuration, Meta's other MCP server, Meta Social Technologies MCP, can also be used to discover API endpoints, search documentation, and help troubleshoot errors, the company noted."
+---
+
+25% off tickets now Back by popular demand: Save up to $300 on Disrupt Alongside news of its new AI-focused subscription plans, Meta announced on Tuesday that it will now allow AI agents of your choosing to set up and manage WhatsApp Business messaging, the service that allows companies to connect with customers through WhatsApp conversations. This is made possible by the new WhatsApp Business Tools MCP, an MCP (Model Context Protocol) server that directly connects an AI coding agent like Claude, Cursor, Codex, or ChatGPT to the WhatsApp Business Platform. In Meta's case, the AI agent will handle much of the busywork involved in the WhatsApp Business setup process, like creating the company's WhatsApp Business account, adding and verifying its phone number, registering it for access to the Cloud API, checking the business' Terms of Service, and more.
+
+During setup and configuration, Meta's other MCP server, Meta Social Technologies MCP, can also be used to discover API endpoints, search documentation, and help troubleshoot errors, the company noted.
