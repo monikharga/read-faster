@@ -1,0 +1,12 @@
+---
+title: "PrismML hopes its tiny LLM will change how we all use AI"
+description: "25% off tickets now Back by popular demand: Save up to $300 on Disrupt If AI lab PrismML isn't on…"
+pubDate: 2026-09-17T22:34:09.000Z
+source: "https://techcrunch.com/2026/09/17/prismml-hopes-its-tiny-llm-could-change-how-we-all-use-ai/"
+sourceName: "TechCrunch"
+summary: "25% off tickets now Back by popular demand: Save up to $300 on Disrupt If AI lab PrismML isn't on your radar yet, it should be — not because it's raised gobs of money (it hasn't yet, just a $22.25 million seed round), but because of the technical minds involved and the potentially industry-changing tech it's developing. PrismML is betting that capable, high-performing, reasoning large language models don't, in fact, have to be large. (It's even rumored to be in talks with Apple, though CEO Babak Hassibi declined to comment on that to TechCrunch.) On Thursday, PrismML released Bonsai 2 27B, its latest in a family of models, which compresses Qwen3.8 27B, a widely used open source model from Alibaba, down to 5.9 GB. PrismML was founded by a group of Caltech researchers and is led by Hassibi, a Caltech professor and an expert in compression technologies. (And Multiverse Computing has raised gobs of cash.) But Hassibi says that PrismML's compression tech is unique because its LLMs have lost virtually no performance compared with the originals."
+---
+
+25% off tickets now Back by popular demand: Save up to $300 on Disrupt If AI lab PrismML isn't on your radar yet, it should be — not because it's raised gobs of money (it hasn't yet, just a $22.25 million seed round), but because of the technical minds involved and the potentially industry-changing tech it's developing. PrismML is betting that capable, high-performing, reasoning large language models don't, in fact, have to be large. (It's even rumored to be in talks with Apple, though CEO Babak Hassibi declined to comment on that to TechCrunch.) On Thursday, PrismML released Bonsai 2 27B, its latest in a family of models, which compresses Qwen3.8 27B, a widely used open source model from Alibaba, down to 5.9 GB.
+
+PrismML was founded by a group of Caltech researchers and is led by Hassibi, a Caltech professor and an expert in compression technologies. (And Multiverse Computing has raised gobs of cash.) But Hassibi says that PrismML's compression tech is unique because its LLMs have lost virtually no performance compared with the originals.
