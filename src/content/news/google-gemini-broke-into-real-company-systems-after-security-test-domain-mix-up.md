@@ -1,0 +1,12 @@
+---
+title: "Google Gemini Broke Into Real Company Systems After Security Test Domain Mix-Up"
+description: "Google's Gemini model has become the latest artificial intelligence (AI) system to access the internet and break into other companies…"
+pubDate: 2026-09-19T07:51:34.000Z
+source: "https://thehackernews.com/2026/09/google-gemini-broke-into-real-company.html"
+sourceName: "The Hacker News"
+summary: "Google's Gemini model has become the latest artificial intelligence (AI) system to access the internet and break into other companies during a cybersecurity evaluation. Two other cases related to the model finding credentials in a public repository, allowing it to obtain unauthorized access to protected systems. However, unlike other incidents observed in the case of Anthropic and OpenAI, the Gemini model ended the intrusion after finding that it had breached a real company's system. In a report published last month, Irregular pinned the evaluation breaches to a naming error that caused a fictional company name used during \"capture the flag\" exercises to unknowingly match with a real domain, thereby allowing the models to take advantage of the inadvertent internet access and target the domain \"a limited number of times.\" \"This event highlights the importance of training powerful AI models to act responsibly,\" Heather Adkins, Google's vice president of security engineering, told The Wall Street Journal."
+---
+
+Google's Gemini model has become the latest artificial intelligence (AI) system to access the internet and break into other companies during a cybersecurity evaluation. Two other cases related to the model finding credentials in a public repository, allowing it to obtain unauthorized access to protected systems. However, unlike other incidents observed in the case of Anthropic and OpenAI, the Gemini model ended the intrusion after finding that it had breached a real company's system.
+
+In a report published last month, Irregular pinned the evaluation breaches to a naming error that caused a fictional company name used during "capture the flag" exercises to unknowingly match with a real domain, thereby allowing the models to take advantage of the inadvertent internet access and target the domain "a limited number of times." "This event highlights the importance of training powerful AI models to act responsibly," Heather Adkins, Google's vice president of security engineering, told The Wall Street Journal.

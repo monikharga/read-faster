@@ -1,0 +1,12 @@
+---
+title: "A startup that builds other startups raised $100M and is all-in on physical AI"
+description: "UP.Labs, as it was called then, built startups designed to solve problems for corporate customers such as Alaska Airlines and…"
+pubDate: 2026-09-18T23:25:01.000Z
+source: "https://techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai/"
+sourceName: "TechCrunch"
+summary: "UP.Labs, as it was called then, built startups designed to solve problems for corporate customers such as Alaska Airlines and Porsche, as well as for the outside world. Vantora, as the firm is now called, continues to work with its corporate customers, including some new ones in industrial manufacturing that it declined to name, and in the oil and gas sector. But now it's more focused on building startups solely for its corporate customers and not for the broader market. Founder and CEO John Kuolt told TechCrunch that Vantora is moving toward a \"proprietary M&A pipeline.\" This means Vantora will still build startups for its corporate partners, which invest in the ventures and serve as their first customers. In the past, Vantora would end up spiking ideas that were strategic to its corporate partners, but too sensitive to bring to the outside world. They're never going to let us go sell that to their competitors.\" This change has allowed Vantora to \"unlock big physical AI use cases,\" according to Kuolt, including with its existing customers."
+---
+
+UP.Labs, as it was called then, built startups designed to solve problems for corporate customers such as Alaska Airlines and Porsche, as well as for the outside world. Vantora, as the firm is now called, continues to work with its corporate customers, including some new ones in industrial manufacturing that it declined to name, and in the oil and gas sector. But now it's more focused on building startups solely for its corporate customers and not for the broader market.
+
+Founder and CEO John Kuolt told TechCrunch that Vantora is moving toward a "proprietary M&A pipeline." This means Vantora will still build startups for its corporate partners, which invest in the ventures and serve as their first customers. In the past, Vantora would end up spiking ideas that were strategic to its corporate partners, but too sensitive to bring to the outside world. They're never going to let us go sell that to their competitors." This change has allowed Vantora to "unlock big physical AI use cases," according to Kuolt, including with its existing customers.

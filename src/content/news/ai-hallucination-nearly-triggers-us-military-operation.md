@@ -1,0 +1,12 @@
+---
+title: "AI hallucination nearly triggers US military operation"
+description: "officials made an alarming discovery: The intelligence driving an armed operation against a Chinese vessel had been hallucinated by an…"
+pubDate: 2026-09-18T23:12:32.000Z
+source: "https://techcrunch.com/2026/09/18/ai-hallucination-nearly-triggers-us-military-operation/"
+sourceName: "TechCrunch"
+summary: "officials made an alarming discovery: The intelligence driving an armed operation against a Chinese vessel had been hallucinated by an AI chatbot. The episode underscores a growing concern among military officials and outside experts: As decision-makers lean more heavily on AI, the errors these systems produce can travel up the chain of command before being questioned. The false intelligence originated with a Special Operations Command analyst who queried an AI chatbot to synthesize open source data with classified signals intelligence. The analyst then used the tool a second time to format the erroneous findings into an official-looking summary, which was circulated across command channels. \"But it's especially critical for any decisions that could lead to use of force, like targeting, intelligence analysis, or operational planning. \"But prioritizing adoption speed over all else will likely lead to incidents that only make service members lose trust in these systems, which ultimately is only going to slow adoption.\""
+---
+
+officials made an alarming discovery: The intelligence driving an armed operation against a Chinese vessel had been hallucinated by an AI chatbot. The episode underscores a growing concern among military officials and outside experts: As decision-makers lean more heavily on AI, the errors these systems produce can travel up the chain of command before being questioned. The false intelligence originated with a Special Operations Command analyst who queried an AI chatbot to synthesize open source data with classified signals intelligence.
+
+The analyst then used the tool a second time to format the erroneous findings into an official-looking summary, which was circulated across command channels. "But it's especially critical for any decisions that could lead to use of force, like targeting, intelligence analysis, or operational planning. "But prioritizing adoption speed over all else will likely lead to incidents that only make service members lose trust in these systems, which ultimately is only going to slow adoption."
