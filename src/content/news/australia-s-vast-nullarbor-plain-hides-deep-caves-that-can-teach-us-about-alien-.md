@@ -1,0 +1,12 @@
+---
+title: "Australia's vast Nullarbor Plain hides deep caves that can teach us about alien worlds"
+description: "Editors have highlighted the following attributes while ensuring the content's credibility: Stretching more than 200,000 square kilometers (77,000 square miles)…"
+pubDate: 2026-09-19T18:00:01.000Z
+source: "https://phys.org/news/2026-09-australia-vast-nullarbor-plain-deep.html"
+sourceName: "Phys.org"
+summary: "Editors have highlighted the following attributes while ensuring the content's credibility: Stretching more than 200,000 square kilometers (77,000 square miles) across southern Australia, the vast, flat plains of the Nullarbor mark one of the world's largest regions of limestone. Ultimately, this led to the familiar dry landscape of today, which has acted as a significant barrier for plants, animals and poorly adapted colonial Victorian-era explorers who described it as \"the sort of place one gets into in bad dreams.\" In contrast, the Mirning People of the Nullarbor and Great Australian Bight have lived for tens of thousands of years on this southern margin. Over millions of years, water has eaten away at the limestone and created complex cave networks that can extend for kilometers underground. Our new study, published in Communications Earth & Environment, reveals a new way to track these cave systems even when they are deeply buried. Our work helps explain the formation of previously mysterious, shallow trench features on the Nullarbor."
+---
+
+Editors have highlighted the following attributes while ensuring the content's credibility: Stretching more than 200,000 square kilometers (77,000 square miles) across southern Australia, the vast, flat plains of the Nullarbor mark one of the world's largest regions of limestone. Ultimately, this led to the familiar dry landscape of today, which has acted as a significant barrier for plants, animals and poorly adapted colonial Victorian-era explorers who described it as "the sort of place one gets into in bad dreams." In contrast, the Mirning People of the Nullarbor and Great Australian Bight have lived for tens of thousands of years on this southern margin. Over millions of years, water has eaten away at the limestone and created complex cave networks that can extend for kilometers underground.
+
+Our new study, published in Communications Earth & Environment, reveals a new way to track these cave systems even when they are deeply buried. Our work helps explain the formation of previously mysterious, shallow trench features on the Nullarbor.

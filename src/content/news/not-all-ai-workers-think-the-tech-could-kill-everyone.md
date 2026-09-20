@@ -1,0 +1,12 @@
+---
+title: "Not all AI workers think the tech could kill everyone"
+description: "In text exchanges and conversations, multiple people who have worked for companies including OpenAI, Meta and DeepMind were sceptical of…"
+pubDate: 2026-09-19T23:01:57.000Z
+source: "https://www.bbc.co.uk/news/articles/cm5y7qj54klpo?at_medium=RSS&at_campaign=rss"
+sourceName: "BBC Technology"
+summary: "In text exchanges and conversations, multiple people who have worked for companies including OpenAI, Meta and DeepMind were sceptical of the idea that unchecked AI development would lead to tools that could kill people en masse. While these fears go back decades, claims made last week by Jacob Coxon, a former Anthropic employee, went viral and were echoed by others in the sector who urged a slowdown in development. The idea that a future AI tool or agent, an AI bot that is programmed to operate somewhat autonomously, could endanger people has been supported online by employees of Anthropic, as well as OpenAI, Deepmind and Elon Musk, who has an AI startup called xAI. 'There is a possibility of human extinction,' former Anthropic employee says about AI Rishub Jain, who this summer founded the AI safety research firm Sampura Research after spending seven years at DeepMind, told the BBC that the current tone among many people working in AI with regard to fresh fears had \"definitely been a little jokey\"."
+---
+
+In text exchanges and conversations, multiple people who have worked for companies including OpenAI, Meta and DeepMind were sceptical of the idea that unchecked AI development would lead to tools that could kill people en masse. While these fears go back decades, claims made last week by Jacob Coxon, a former Anthropic employee, went viral and were echoed by others in the sector who urged a slowdown in development. The idea that a future AI tool or agent, an AI bot that is programmed to operate somewhat autonomously, could endanger people has been supported online by employees of Anthropic, as well as OpenAI, Deepmind and Elon Musk, who has an AI startup called xAI.
+
+'There is a possibility of human extinction,' former Anthropic employee says about AI Rishub Jain, who this summer founded the AI safety research firm Sampura Research after spending seven years at DeepMind, told the BBC that the current tone among many people working in AI with regard to fresh fears had "definitely been a little jokey".

@@ -1,0 +1,12 @@
+---
+title: "Petlibro’s new AI-powered feeder is a game changer for multi-cat homes"
+description: "I enjoyed testing Petlibro's wet food dispenser a couple of years ago, so this time I wanted to try something…"
+pubDate: 2026-09-19T15:00:00.000Z
+source: "https://techcrunch.com/2026/09/19/petlibros-new-ai-powered-feeder-is-a-game-changer-for-multi-cat-homes/"
+sourceName: "TechCrunch"
+summary: "I enjoyed testing Petlibro's wet food dispenser a couple of years ago, so this time I wanted to try something from the company's newest automatic feeder lineup: the Granary 2 series, designed specifically for dry food. Building on the brand's Granary line, the Granary 2 series lineup is designed to give cat parents a clearer picture of what their pets are actually eating, from how much food they consume to how long they spend eating and whether their habits change over time. The $199.99 Vision Duo is aimed at multi-pet households, with two separate dispensing chutes and bowls so each pet can receive its own portion, and the company says that its most expensive model, the Granary 2 X ($249.99), uses AI recognition to provide individualized portioning for pets with specific dietary needs. The Granary 2 tracks intake, eating duration, feeding frequency, as well as favorite eating times and eating speed. For pet parents who closely monitor weight, portion sizes, or eating behavior, this could be the feature that makes the Granary 2 worth considering."
+---
+
+I enjoyed testing Petlibro's wet food dispenser a couple of years ago, so this time I wanted to try something from the company's newest automatic feeder lineup: the Granary 2 series, designed specifically for dry food. Building on the brand's Granary line, the Granary 2 series lineup is designed to give cat parents a clearer picture of what their pets are actually eating, from how much food they consume to how long they spend eating and whether their habits change over time. The $199.99 Vision Duo is aimed at multi-pet households, with two separate dispensing chutes and bowls so each pet can receive its own portion, and the company says that its most expensive model, the Granary 2 X ($249.99), uses AI recognition to provide individualized portioning for pets with specific dietary needs.
+
+The Granary 2 tracks intake, eating duration, feeding frequency, as well as favorite eating times and eating speed. For pet parents who closely monitor weight, portion sizes, or eating behavior, this could be the feature that makes the Granary 2 worth considering.

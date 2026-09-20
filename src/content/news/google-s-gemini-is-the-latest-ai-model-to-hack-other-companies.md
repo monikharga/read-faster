@@ -1,0 +1,12 @@
+---
+title: "Google’s Gemini is the latest AI model to hack other companies"
+description: "25% off tickets now Back by popular demand: Save up to $300 on Disrupt Google's Gemini accessed the protected systems…"
+pubDate: 2026-09-19T17:30:00.000Z
+source: "https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/"
+sourceName: "TechCrunch"
+summary: "25% off tickets now Back by popular demand: Save up to $300 on Disrupt Google's Gemini accessed the protected systems of three other companies in what The Wall Street Journal reports were the AI model's first autonomous hacks. In one case, Gemini simply guessed passwords until it gained access; in the other two, it found credentials in a public repository. Irregular reportedly notified Google about the hacks in late July, but the companies did not confirm them publicly until Friday, after the WSJ reached out. Google said it hadn't previously revealed the hacks because Gemini had \"acted appropriately\" by ending each breach as soon as it determined it had hacked a real company. However, Jack Cable, the CEO of AI security company Corridor, told the WSJ that Google was \"trying to hide behind the norms that have been created for vulnerability disclosure,\" rather than acknowledging that \"models are going outside the bounds of what they should be doing, and doing actual cyberattacks.\" Last day to book an exhibit table is September 18."
+---
+
+25% off tickets now Back by popular demand: Save up to $300 on Disrupt Google's Gemini accessed the protected systems of three other companies in what The Wall Street Journal reports were the AI model's first autonomous hacks. In one case, Gemini simply guessed passwords until it gained access; in the other two, it found credentials in a public repository. Irregular reportedly notified Google about the hacks in late July, but the companies did not confirm them publicly until Friday, after the WSJ reached out.
+
+Google said it hadn't previously revealed the hacks because Gemini had "acted appropriately" by ending each breach as soon as it determined it had hacked a real company. However, Jack Cable, the CEO of AI security company Corridor, told the WSJ that Google was "trying to hide behind the norms that have been created for vulnerability disclosure," rather than acknowledging that "models are going outside the bounds of what they should be doing, and doing actual cyberattacks." Last day to book an exhibit table is September 18.
