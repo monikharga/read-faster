@@ -1,0 +1,12 @@
+---
+title: "ClickFix Lures Deploy ChainScript RAT Using Polygon to Rotate C2 Infrastructure"
+description: "Threat actors are leveraging ClickFix-like lures to deliver a previously undocumented remote access trojan (RAT) called ChainScript."
+pubDate: 2026-09-21T08:39:38.000Z
+source: "https://thehackernews.com/2026/09/clickfix-lures-deploy-chainscript-rat.html"
+sourceName: "The Hacker News"
+summary: "Threat actors are leveraging ClickFix-like lures to deliver a previously undocumented remote access trojan (RAT) called ChainScript. Like many malware families observed in recent months, ChainScript employs an EtherHiding-style command-and-control (C2) discovery technique that makes use of a Polygon smart contract to locate its active WebSocket infrastructure. ChainScript is a full-featured RAT that provides extensive remote access to the operator, including interactive CMD and PowerShell, file operations, screenshot capture, payload deployment, cryptocurrency wallet enumeration (both desktop apps and browser extensions), and remote JavaScript execution. The starting point of the attack chain is a ClickFix lure that leads to the download and execution of a malicious Windows installer using \"msiexec.exe.\" The installer (\"ComponentTask33-4d14e6ac.msi\"), disguised as Spotify, deploys the Node.js runtime and launches the ChainScript JavaScript agent through hidden PowerShell and VBScript stages."
+---
+
+Threat actors are leveraging ClickFix-like lures to deliver a previously undocumented remote access trojan (RAT) called ChainScript. Like many malware families observed in recent months, ChainScript employs an EtherHiding-style command-and-control (C2) discovery technique that makes use of a Polygon smart contract to locate its active WebSocket infrastructure. ChainScript is a full-featured RAT that provides extensive remote access to the operator, including interactive CMD and PowerShell, file operations, screenshot capture, payload deployment, cryptocurrency wallet enumeration (both desktop apps and browser extensions), and remote JavaScript execution.
+
+The starting point of the attack chain is a ClickFix lure that leads to the download and execution of a malicious Windows installer using "msiexec.exe." The installer ("ComponentTask33-4d14e6ac.msi"), disguised as Spotify, deploys the Node.js runtime and launches the ChainScript JavaScript agent through hidden PowerShell and VBScript stages.
