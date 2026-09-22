@@ -1,0 +1,12 @@
+---
+title: "Discover what’s next: 5 days left to save up to $200 on your TechCrunch Disrupt 2026 ticket"
+description: "25% off tickets now Disrupt ticket savings of up to $200 + 50% off a second ends Sept 25, 11:59…"
+pubDate: 2026-09-21T19:25:00.000Z
+source: "https://techcrunch.com/2026/09/21/discover-whats-next-5-days-left-to-save-up-to-200-on-techcrunch-disrupt-2026/"
+sourceName: "TechCrunch"
+summary: "25% off tickets now Disrupt ticket savings of up to $200 + 50% off a second ends Sept 25, 11:59 p.m. With five days left to save up to $200 on your TechCrunch Disrupt 2026 pass, each day we will list a reason why you should join 10,000+ founders, investors, and operators at San Francisco's Moscone West on October 13-15. Startup Battlefield 200 puts 200 TechCrunch-selected early-stage companies in one place, giving you three days to see what a new generation of founders thinks is worth building, and what investors are looking to add to their portfolio. Look across enough of them, and you start to see where founders are finding opportunity, which technologies are becoming accessible, which old problems are being attacked in new ways, and where completely new markets might be taking shape. At Disrupt, all 200 Startup Battlefield startups exhibit, so you can go beyond the company description. For founders, it's a chance to see what other early-stage teams are building and how they're approaching the market."
+---
+
+25% off tickets now Disrupt ticket savings of up to $200 + 50% off a second ends Sept 25, 11:59 p.m. With five days left to save up to $200 on your TechCrunch Disrupt 2026 pass, each day we will list a reason why you should join 10,000+ founders, investors, and operators at San Francisco's Moscone West on October 13-15. Startup Battlefield 200 puts 200 TechCrunch-selected early-stage companies in one place, giving you three days to see what a new generation of founders thinks is worth building, and what investors are looking to add to their portfolio.
+
+Look across enough of them, and you start to see where founders are finding opportunity, which technologies are becoming accessible, which old problems are being attacked in new ways, and where completely new markets might be taking shape. At Disrupt, all 200 Startup Battlefield startups exhibit, so you can go beyond the company description. For founders, it's a chance to see what other early-stage teams are building and how they're approaching the market.
