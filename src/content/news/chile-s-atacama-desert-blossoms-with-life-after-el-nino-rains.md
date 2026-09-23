@@ -1,0 +1,12 @@
+---
+title: "Chile's Atacama Desert blossoms with life after El Niño rains"
+description: "Editors have highlighted the following attributes while ensuring the content's credibility: A display of flowers has bloomed across Chile's Atacama…"
+pubDate: 2026-09-23T08:31:28.000Z
+source: "https://phys.org/news/2026-09-chile-atacama-blossoms-life-el.html"
+sourceName: "Phys.org"
+summary: "Editors have highlighted the following attributes while ensuring the content's credibility: A display of flowers has bloomed across Chile's Atacama Desert, one of the driest places on Earth, after the El Niño climate phenomenon brought heavy rain to the region. Now, violet flowers carpet vast stretches of the desert, and white buds peek out from the cracked ground. Seasonal rainfall of more than 180 millimeters (7 inches) in some areas \"had never been recorded before,\" Cesar Pizarro, head of Atacama biodiversity for Chile's forestry body CONAF, told AFP. Rainfall seeped deeper than usual into the sand, giving new life to the nature reserve about 800 kilometers (500 miles) north of Santiago. The \"flowering desert\" phenomenon will peak in October, according to CONAF, which estimates that 15,000 hectares (37,000 acres) will bloom. The phenomenon raises surface temperatures in the central and eastern equatorial Pacific Ocean and causes global changes in winds and rainfall, as well as erratic weather conditions."
+---
+
+Editors have highlighted the following attributes while ensuring the content's credibility: A display of flowers has bloomed across Chile's Atacama Desert, one of the driest places on Earth, after the El Niño climate phenomenon brought heavy rain to the region. Now, violet flowers carpet vast stretches of the desert, and white buds peek out from the cracked ground. Seasonal rainfall of more than 180 millimeters (7 inches) in some areas "had never been recorded before," Cesar Pizarro, head of Atacama biodiversity for Chile's forestry body CONAF, told AFP.
+
+Rainfall seeped deeper than usual into the sand, giving new life to the nature reserve about 800 kilometers (500 miles) north of Santiago. The "flowering desert" phenomenon will peak in October, according to CONAF, which estimates that 15,000 hectares (37,000 acres) will bloom. The phenomenon raises surface temperatures in the central and eastern equatorial Pacific Ocean and causes global changes in winds and rainfall, as well as erratic weather conditions.

@@ -1,0 +1,12 @@
+---
+title: "TechCrunch Founder Summit’s agenda revealed: Unlock fundraising, hiring, and AI insights in Boston on November 4"
+description: "On November 4, TechCrunch's Founder Summit will bring a vital one-day crash course on startup building to Boston's SoWa Power…"
+pubDate: 2026-09-22T23:21:49.000Z
+source: "https://techcrunch.com/2026/09/22/techcrunch-founder-summits-agenda-revealed-unlock-fundraising-hiring-and-ai-insights-in-boston-on-november-4/"
+sourceName: "TechCrunch"
+summary: "On November 4, TechCrunch's Founder Summit will bring a vital one-day crash course on startup building to Boston's SoWa Power Station. Founders shouldn't have to learn the hardest lessons the hardest way, and this event is designed to make the challenges of starting a company easier and the highs that much greater. Instead of months of trial and error, you get direct access to the investors and founders who've already made the calls you're now facing. Brian Devaney, partner at Underscore, will break down what investors are looking for now, how founders can stand out in a crowded market, and where founders often lose leverage without realizing it. HubSpot co-founder and Sequoia partner Brian Halligan will share the lessons he's learned from building and advising startups through rapid growth, tough decisions, and constant reinvention. From team structure and product development to operations and go-to-market strategy, this session examines what founders should rethink when building in the AI era."
+---
+
+On November 4, TechCrunch's Founder Summit will bring a vital one-day crash course on startup building to Boston's SoWa Power Station. Founders shouldn't have to learn the hardest lessons the hardest way, and this event is designed to make the challenges of starting a company easier and the highs that much greater. Instead of months of trial and error, you get direct access to the investors and founders who've already made the calls you're now facing.
+
+Brian Devaney, partner at Underscore, will break down what investors are looking for now, how founders can stand out in a crowded market, and where founders often lose leverage without realizing it. HubSpot co-founder and Sequoia partner Brian Halligan will share the lessons he's learned from building and advising startups through rapid growth, tough decisions, and constant reinvention. From team structure and product development to operations and go-to-market strategy, this session examines what founders should rethink when building in the AI era.
