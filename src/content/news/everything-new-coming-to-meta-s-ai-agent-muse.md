@@ -1,0 +1,12 @@
+---
+title: "Everything new coming to Meta’s AI agent Muse"
+description: "CEO Mark Zuckerberg kicked off the company's annual Connect event in Menlo Park on Wednesday with a keynote that made…"
+pubDate: 2026-09-24T01:13:32.000Z
+source: "https://techcrunch.com/2026/09/23/everything-new-coming-to-metas-ai-agent-muse/"
+sourceName: "TechCrunch"
+summary: "CEO Mark Zuckerberg kicked off the company's annual Connect event in Menlo Park on Wednesday with a keynote that made one thing clear: Meta is going all-in on Muse. The Muse agent (the physical avatar is named Jolly, according to Zuckerberg) is designed to handle everyday tasks by connecting to users' apps and services, including email and calendars. At Connect, Zuckerberg introduced a slew of new capabilities and integrations to make Muse more useful and more deeply woven into users' daily lives. \"The centerpiece of our vision for what we're building is Muse,\" Zuckerberg said as he kicked off a keynote donning khakis and a black T-shirt with the words \"Building is My love Language\" emblazoned across the front. \"In the coming years, I expect that Muse is going to grow into the personal superintelligence that billions of people around the world are going to use to accomplish their goals and improve their lives.\" Zuckerberg also believes that Muse will make money for its users — and of course, eventually for Meta."
+---
+
+CEO Mark Zuckerberg kicked off the company's annual Connect event in Menlo Park on Wednesday with a keynote that made one thing clear: Meta is going all-in on Muse. The Muse agent (the physical avatar is named Jolly, according to Zuckerberg) is designed to handle everyday tasks by connecting to users' apps and services, including email and calendars. At Connect, Zuckerberg introduced a slew of new capabilities and integrations to make Muse more useful and more deeply woven into users' daily lives.
+
+"The centerpiece of our vision for what we're building is Muse," Zuckerberg said as he kicked off a keynote donning khakis and a black T-shirt with the words "Building is My love Language" emblazoned across the front. "In the coming years, I expect that Muse is going to grow into the personal superintelligence that billions of people around the world are going to use to accomplish their goals and improve their lives." Zuckerberg also believes that Muse will make money for its users — and of course, eventually for Meta.
