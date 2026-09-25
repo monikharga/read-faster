@@ -1,0 +1,12 @@
+---
+title: "Lightspeed targets $250M for new India fund, focusing on early-stage AI"
+description: "Lightspeed is sharpening its India strategy around AI, targeting $250 million for a new early-stage fund as the venture firm…"
+pubDate: 2026-09-25T05:00:00.000Z
+source: "https://techcrunch.com/2026/09/24/lightspeed-targets-250m-for-new-india-fund-focusing-on-early-stage-ai/"
+sourceName: "TechCrunch"
+summary: "Lightspeed is sharpening its India strategy around AI, targeting $250 million for a new early-stage fund as the venture firm bets the technology will drive the next wave of startups in one of the world's largest markets. The new fund, Lightspeed India Partners V, will be half the size of its $500 million predecessor, raised in 2022, and has already secured commitments for 80% of its $250 million target, according to a letter sent to investors on Thursday and seen by TechCrunch. In late April, Lightspeed disclosed the new fund in a U.S. Lightspeed plans to begin investing from the new fund within two months and has designed it around an investment period of roughly two and a half years, per the letter. Starting with the new fund, Lightspeed is also moving its India funds onto the same fundraising cycle as its global funds for the first time, per the investor letter. The move follows a similar shift by rival firm Accel, which in August raised its latest $550 million India fund alongside new U.S."
+---
+
+Lightspeed is sharpening its India strategy around AI, targeting $250 million for a new early-stage fund as the venture firm bets the technology will drive the next wave of startups in one of the world's largest markets. The new fund, Lightspeed India Partners V, will be half the size of its $500 million predecessor, raised in 2022, and has already secured commitments for 80% of its $250 million target, according to a letter sent to investors on Thursday and seen by TechCrunch. In late April, Lightspeed disclosed the new fund in a U.S.
+
+Lightspeed plans to begin investing from the new fund within two months and has designed it around an investment period of roughly two and a half years, per the letter. Starting with the new fund, Lightspeed is also moving its India funds onto the same fundraising cycle as its global funds for the first time, per the investor letter. The move follows a similar shift by rival firm Accel, which in August raised its latest $550 million India fund alongside new U.S.
