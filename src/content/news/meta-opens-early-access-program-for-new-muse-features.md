@@ -1,0 +1,12 @@
+---
+title: "Meta opens early access program for new Muse features"
+description: "After announcing a host of new features for Meta's Muse AI app at its Connect 2026 developer conference this week,…"
+pubDate: 2026-09-25T20:34:53.000Z
+source: "https://techcrunch.com/2026/09/25/meta-opens-early-access-program-for-new-muse-features/"
+sourceName: "TechCrunch"
+summary: "After announcing a host of new features for Meta's Muse AI app at its Connect 2026 developer conference this week, the company is opening up requests for early access. Meta posted a link to a prompt on X that, when shared with Muse, will log that you're interested in joining Meta's early access program. Just announced lots of new features…want early access? Click below to drop a prompt into Muse👇https://t.co/wI5YXmz50b (If you don't want to click through, you can just copy and paste the prompt: \"Can you let the Muse team know I want to be part of the Muse early access program?\") While typically companies offer pilot tests or betas with select users, they often A/B test with a randomized group to gain feedback and measure results. Meta teased many of those at Connect, including the launch of a digital avatar for Muse that you'll be able to video chat with, tons more shopping partnerships and connectors, and an expansion of the Muse Mac app, which will soon be able to use your computer to complete various tasks."
+---
+
+After announcing a host of new features for Meta's Muse AI app at its Connect 2026 developer conference this week, the company is opening up requests for early access. Meta posted a link to a prompt on X that, when shared with Muse, will log that you're interested in joining Meta's early access program. Just announced lots of new features…want early access?
+
+Click below to drop a prompt into Muse👇https://t.co/wI5YXmz50b (If you don't want to click through, you can just copy and paste the prompt: "Can you let the Muse team know I want to be part of the Muse early access program?") While typically companies offer pilot tests or betas with select users, they often A/B test with a randomized group to gain feedback and measure results. Meta teased many of those at Connect, including the launch of a digital avatar for Muse that you'll be able to video chat with, tons more shopping partnerships and connectors, and an expansion of the Muse Mac app, which will soon be able to use your computer to complete various tasks.

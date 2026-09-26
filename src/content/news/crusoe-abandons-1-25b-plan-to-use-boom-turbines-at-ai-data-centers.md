@@ -1,0 +1,12 @@
+---
+title: "Crusoe abandons $1.25B plan to use Boom turbines at AI data centers"
+description: "Crusoe, a Denver-based AI data center startup that recently raised $3.9 billion, has ended plans to use a new line…"
+pubDate: 2026-09-25T23:11:10.000Z
+source: "https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers/"
+sourceName: "TechCrunch"
+summary: "Crusoe, a Denver-based AI data center startup that recently raised $3.9 billion, has ended plans to use a new line of stationary power plants developed by fellow Denver company Boom Supersonic. Founded in 2018 as a bitcoin miner that ran on excess natural gas from oil fields, Crusoe has since become one of the biggest builders of AI data centers, including a massive campus in Abilene, Texas, that supplies computing power to OpenAI. Boom Supersonic, which is developing a supersonic passenger jet called Overture, launched a new business last year to sell a version of the engine it's developing for that jet as natural gas-fired stationary power plants. Friday, in a post on X, after congratulating Crusoe founders Cully Cavness and Chase Lochmiller on the company's recent raise, Scholl said the companies are no longer moving forward with the turbine launch partnership. \"The TL/DR is that turbines are no longer part of Crusoe's near term primary power mix at Abilene/etc., so a launch partnership just didn't make sense,\" he wrote in the post."
+---
+
+Crusoe, a Denver-based AI data center startup that recently raised $3.9 billion, has ended plans to use a new line of stationary power plants developed by fellow Denver company Boom Supersonic. Founded in 2018 as a bitcoin miner that ran on excess natural gas from oil fields, Crusoe has since become one of the biggest builders of AI data centers, including a massive campus in Abilene, Texas, that supplies computing power to OpenAI. Boom Supersonic, which is developing a supersonic passenger jet called Overture, launched a new business last year to sell a version of the engine it's developing for that jet as natural gas-fired stationary power plants.
+
+Friday, in a post on X, after congratulating Crusoe founders Cully Cavness and Chase Lochmiller on the company's recent raise, Scholl said the companies are no longer moving forward with the turbine launch partnership. "The TL/DR is that turbines are no longer part of Crusoe's near term primary power mix at Abilene/etc., so a launch partnership just didn't make sense," he wrote in the post.
