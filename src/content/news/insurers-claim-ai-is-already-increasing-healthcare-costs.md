@@ -1,0 +1,12 @@
+---
+title: "Insurers claim AI is already increasing healthcare costs"
+description: "Hospitals' use of artificial intelligence tools as they submit insurance claims led to an additional $942 million in healthcare spending…"
+pubDate: 2026-09-26T21:02:06.000Z
+source: "https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs/"
+sourceName: "TechCrunch"
+summary: "Hospitals' use of artificial intelligence tools as they submit insurance claims led to an additional $942 million in healthcare spending over a two-year period, according to an analysis by the Blue Cross Blue Shield Association. The BCBSA analysis found \"a sharp increase in patients being documented as having complex conditions,\" but argued there is a \"clear disconnect between [medical] coding and treatment,\" as there's \"no evidence of corresponding change in care delivered.\" The New York Times pointed the analysis as just the latest sign that AI is contributing to an increase in healthcare costs. Shiv Rao, founder of AI startup Abridge, acknowledged that the use of AI could lead to \"a horrible dystopic future nobody wants to live in,\" with \"bots fighting bots, agents fighting agents.\" But Rao said it might also reduce tensions and cut costs. Explore tomorrow's breakthroughs, hear what's shaping tech today, and save up to $200 by Sept. Subscribe for the industry's biggest tech news Every weekday and Sunday, you can get the best of TechCrunch's coverage."
+---
+
+Hospitals' use of artificial intelligence tools as they submit insurance claims led to an additional $942 million in healthcare spending over a two-year period, according to an analysis by the Blue Cross Blue Shield Association. The BCBSA analysis found "a sharp increase in patients being documented as having complex conditions," but argued there is a "clear disconnect between [medical] coding and treatment," as there's "no evidence of corresponding change in care delivered." The New York Times pointed the analysis as just the latest sign that AI is contributing to an increase in healthcare costs. Shiv Rao, founder of AI startup Abridge, acknowledged that the use of AI could lead to "a horrible dystopic future nobody wants to live in," with "bots fighting bots, agents fighting agents." But Rao said it might also reduce tensions and cut costs.
+
+Explore tomorrow's breakthroughs, hear what's shaping tech today, and save up to $200 by Sept. Subscribe for the industry's biggest tech news Every weekday and Sunday, you can get the best of TechCrunch's coverage.

@@ -1,0 +1,12 @@
+---
+title: "Zero Trust for AI Agents Starts With Fixing Zero Visibility"
+description: "While earlier discourse focused on how quickly organizations could stand up agents and how much productivity they could promise, a…"
+pubDate: 2026-09-26T10:30:00.000Z
+source: "https://thehackernews.com/2026/09/zero-trust-for-ai-agents-starts-with.html"
+sourceName: "The Hacker News"
+summary: "While earlier discourse focused on how quickly organizations could stand up agents and how much productivity they could promise, a string of recent incidents, including a widely discussed intrusion at Hugging Face during an evaluation of OpenAI agents, has spurred organizations to examine whether speed has outpaced the ability to secure what gets deployed. Security teams are increasingly asking what an agent can reach once it's running, and whether anyone would notice before it mattered. Shadow AI is just one of the challenges to visibility of AI agents, but it exemplifies how quickly and pervasively this fundamental first step can slip through your grasp. \"You cannot govern what you cannot see\" is the underlying principle right at the top of the SANS cheat sheet, Zero Trust for AI Agents: The Security Checklist. Once security teams notice this gap, the first instinct is often prevention, which can include blocking unapproved tools, cutting off access, or just shutting down anything unfamiliar."
+---
+
+While earlier discourse focused on how quickly organizations could stand up agents and how much productivity they could promise, a string of recent incidents, including a widely discussed intrusion at Hugging Face during an evaluation of OpenAI agents, has spurred organizations to examine whether speed has outpaced the ability to secure what gets deployed. Security teams are increasingly asking what an agent can reach once it's running, and whether anyone would notice before it mattered. Shadow AI is just one of the challenges to visibility of AI agents, but it exemplifies how quickly and pervasively this fundamental first step can slip through your grasp.
+
+"You cannot govern what you cannot see" is the underlying principle right at the top of the SANS cheat sheet, Zero Trust for AI Agents: The Security Checklist. Once security teams notice this gap, the first instinct is often prevention, which can include blocking unapproved tools, cutting off access, or just shutting down anything unfamiliar.
