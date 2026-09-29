@@ -1,0 +1,14 @@
+---
+title: "How Bolsonaro's statements destroyed the rainforest"
+description: "Editors have highlighted the following attributes while ensuring the content's credibility: Former Brazilian President Jair Bolsonaro contributed to deforestation through…"
+pubDate: 2026-09-29T00:20:01.000Z
+source: "https://phys.org/news/2026-09-bolsonaro-statements-destroyed-rainforest.html"
+sourceName: "Phys.org"
+summary: "Editors have highlighted the following attributes while ensuring the content's credibility: Former Brazilian President Jair Bolsonaro contributed to deforestation through statements opposing forest conservation, according to an international study led by the University of Bonn. The study found that destruction of the Amazon rainforest accelerated when Bolsonaro and his ministers posted messages opposing forest conservation on Twitter. Brazil's environmental authorities were greatly weakened during Bolsonaro's presidency, but the analysis suggests that even a perceived low risk of punishment was a driver of deforestation. The researchers estimate that the statements contributed to the destruction of up to 1,700 square kilometers (660 square miles) of forest—almost double the area of Berlin. The study found that statements by the Bolsonaro government accelerated destruction of the rainforest. We also examined more than 3,600 Twitter posts that Bolsonaro and his ministers of agriculture, environment, and foreign affairs published in 2019.\" The researchers analyzed which posts suggested a lower risk of enforcement for violations of environmental laws. The researchers estimated their reach on Twitter in 578 municipalities in the Amazon region."
+---
+
+Editors have highlighted the following attributes while ensuring the content's credibility: Former Brazilian President Jair Bolsonaro contributed to deforestation through statements opposing forest conservation, according to an international study led by the University of Bonn. The study found that destruction of the Amazon rainforest accelerated when Bolsonaro and his ministers posted messages opposing forest conservation on Twitter. Brazil's environmental authorities were greatly weakened during Bolsonaro's presidency, but the analysis suggests that even a perceived low risk of punishment was a driver of deforestation.
+
+The researchers estimate that the statements contributed to the destruction of up to 1,700 square kilometers (660 square miles) of forest—almost double the area of Berlin. The study found that statements by the Bolsonaro government accelerated destruction of the rainforest. We also examined more than 3,600 Twitter posts that Bolsonaro and his ministers of agriculture, environment, and foreign affairs published in 2019." The researchers analyzed which posts suggested a lower risk of enforcement for violations of environmental laws.
+
+The researchers estimated their reach on Twitter in 578 municipalities in the Amazon region.

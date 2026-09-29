@@ -1,0 +1,12 @@
+---
+title: "OpenAI Pauses Tool Use After Agent Bypasses Internet Controls to Reach External Chatbot"
+description: "OpenAI said it has made the decision to pause training of its most powerful models after one of its agents…"
+pubDate: 2026-09-29T04:45:20.000Z
+source: "https://thehackernews.com/2026/09/openai-pauses-tool-use-after-agent.html"
+sourceName: "The Hacker News"
+summary: "OpenAI said it has made the decision to pause training of its most powerful models after one of its agents during reinforcement learning (RL) training contacted an external chatbot by exploiting a loophole in its internet-access restrictions. \"An agent attempting to complete a search-based training task queried a public chatbot service through a gap in our internet-access restrictions: insufficient DNS filtering in its training sandbox,\" OpenAI said. Note that all internet access apart from the DNS resolver in this report hit our offline webcache and therefore did not access the live internet.\" OpenAI said it has since added blocking controls at two independent layers to prevent this access in the first place. The incident, which took place on September 20, 2026, adds to two other misalignment reports OpenAI made public last week - In one case highlighted by OpenAI, a prompt injection that arrives by email instructs the agent to copy it into any email it sends, effectively propagating the malicious prompt in a worm-like manner."
+---
+
+OpenAI said it has made the decision to pause training of its most powerful models after one of its agents during reinforcement learning (RL) training contacted an external chatbot by exploiting a loophole in its internet-access restrictions. "An agent attempting to complete a search-based training task queried a public chatbot service through a gap in our internet-access restrictions: insufficient DNS filtering in its training sandbox," OpenAI said. Note that all internet access apart from the DNS resolver in this report hit our offline webcache and therefore did not access the live internet." OpenAI said it has since added blocking controls at two independent layers to prevent this access in the first place.
+
+The incident, which took place on September 20, 2026, adds to two other misalignment reports OpenAI made public last week - In one case highlighted by OpenAI, a prompt injection that arrives by email instructs the agent to copy it into any email it sends, effectively propagating the malicious prompt in a worm-like manner.

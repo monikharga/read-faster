@@ -1,0 +1,12 @@
+---
+title: "Tracking researchers in Ukraine through war and armed conflict: The limits of free scholarly mobility"
+description: "Editors have highlighted the following attributes while ensuring the content's credibility: A study based on publication data traces how researchers…"
+pubDate: 2026-09-29T02:00:01.000Z
+source: "https://phys.org/news/2026-09-tracking-ukraine-war-armed-conflict.html"
+sourceName: "Phys.org"
+summary: "Editors have highlighted the following attributes while ensuring the content's credibility: A study based on publication data traces how researchers moved within Ukraine and across borders between 2009 and 2022, with conflict-affected regions losing scholars while others became increasingly important destinations. These shifts were already underway after Russia illegally annexed Crimea and fighting began in the Donbas in 2014, underscoring that scholarly mobility during conflict cannot simply be understood as a matter of free choice. Two days after Russian forces attacked Ukraine on multiple fronts in February 2022, the hashtag #ScienceForUkraine was already mobilizing international support for researchers affected by the war. \"The full-scale invasion made the displacement of Ukrainian researchers particularly visible, but our study shows that they were already leaving affected regions for other parts of Ukraine and abroad after Russia illegally annexed Crimea and fighting began in the Donbas in 2014,\" summarizes Akbaritabar."
+---
+
+Editors have highlighted the following attributes while ensuring the content's credibility: A study based on publication data traces how researchers moved within Ukraine and across borders between 2009 and 2022, with conflict-affected regions losing scholars while others became increasingly important destinations. These shifts were already underway after Russia illegally annexed Crimea and fighting began in the Donbas in 2014, underscoring that scholarly mobility during conflict cannot simply be understood as a matter of free choice. Two days after Russian forces attacked Ukraine on multiple fronts in February 2022, the hashtag #ScienceForUkraine was already mobilizing international support for researchers affected by the war.
+
+"The full-scale invasion made the displacement of Ukrainian researchers particularly visible, but our study shows that they were already leaving affected regions for other parts of Ukraine and abroad after Russia illegally annexed Crimea and fighting began in the Donbas in 2014," summarizes Akbaritabar.
