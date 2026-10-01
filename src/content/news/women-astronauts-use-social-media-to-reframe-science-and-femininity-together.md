@@ -1,0 +1,12 @@
+---
+title: "Women astronauts use social media to reframe science and femininity together"
+description: "The video is one of 194 posts analyzed in a new study published in the Journal of Science Communication, which…"
+pubDate: 2026-10-01T04:00:02.000Z
+source: "https://phys.org/news/2026-09-women-astronauts-social-media-reframe.html"
+sourceName: "Phys.org"
+summary: "The video is one of 194 posts analyzed in a new study published in the Journal of Science Communication, which examined the Instagram activity of three women astronauts and science influencers: Gerardi, Shawna Pandya and Norah Patten. \"Our major finding was that these three science influencers were strategic in the way they framed messages on Instagram, not only to communicate scientific information, and hopefully to foster public interest and engagement in STEMM, but also to build their own personal brands and expand their audiences on Instagram,\" Steinke explains. The study examined posts published on the influencers' three Instagram accounts between June 24 and Nov. 24, 2024, following the announcement of an upcoming Virgin Galactic research mission featuring Gerardi, Pandya and Patten as an all-women, international crew. Their aim was to investigate three aspects of communication: what topics the influencers selected, how they framed them and which communication tactics they used to attract attention."
+---
+
+The video is one of 194 posts analyzed in a new study published in the Journal of Science Communication, which examined the Instagram activity of three women astronauts and science influencers: Gerardi, Shawna Pandya and Norah Patten. "Our major finding was that these three science influencers were strategic in the way they framed messages on Instagram, not only to communicate scientific information, and hopefully to foster public interest and engagement in STEMM, but also to build their own personal brands and expand their audiences on Instagram," Steinke explains. The study examined posts published on the influencers' three Instagram accounts between June 24 and Nov.
+
+24, 2024, following the announcement of an upcoming Virgin Galactic research mission featuring Gerardi, Pandya and Patten as an all-women, international crew. Their aim was to investigate three aspects of communication: what topics the influencers selected, how they framed them and which communication tactics they used to attract attention.
