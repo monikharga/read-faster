@@ -1,0 +1,12 @@
+---
+title: "China-Aligned TA419 Targets U.S. AI Policy Experts With Microsoft AitM Phishing"
+description: "A new China-nexus cyber espionage group known as TA419 has been attributed to multiple credential phishing campaigns targeting artificial intelligence…"
+pubDate: 2026-10-04T07:20:32.000Z
+source: "https://thehackernews.com/2026/10/china-aligned-ta419-targets-us-ai.html"
+sourceName: "The Hacker News"
+summary: "A new China-nexus cyber espionage group known as TA419 has been attributed to multiple credential phishing campaigns targeting artificial intelligence (AI) experts working for U.S. The enterprise security company has described TA419 as a China-aligned and espionage-motivated threat actor that has a track record of orchestrating credential phishing campaigns against individuals working for U.S.- and Japan-based think tanks, defense contractors, universities, and law firms since at least April 2025. Around July 2026, the threat actor is said to have impersonated several individuals, including a former member of the White House Office of Science and Technology Policy leadership team, as part of credential phishing campaigns targeting AI policy experts in the U.S. The page employs a technique called Frameless BitB, a version of the browser-in-the-browser (BitB) attack that spoofs a trusted website or login page by crafting a fake browser window within a legitimate browser session using HTML, CSS, and JavaScript."
+---
+
+A new China-nexus cyber espionage group known as TA419 has been attributed to multiple credential phishing campaigns targeting artificial intelligence (AI) experts working for U.S. The enterprise security company has described TA419 as a China-aligned and espionage-motivated threat actor that has a track record of orchestrating credential phishing campaigns against individuals working for U.S.- and Japan-based think tanks, defense contractors, universities, and law firms since at least April 2025. Around July 2026, the threat actor is said to have impersonated several individuals, including a former member of the White House Office of Science and Technology Policy leadership team, as part of credential phishing campaigns targeting AI policy experts in the U.S.
+
+The page employs a technique called Frameless BitB, a version of the browser-in-the-browser (BitB) attack that spoofs a trusted website or login page by crafting a fake browser window within a legitimate browser session using HTML, CSS, and JavaScript.
