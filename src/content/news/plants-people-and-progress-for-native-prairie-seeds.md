@@ -1,0 +1,12 @@
+---
+title: "Plants, people and progress for native prairie seeds"
+description: "To support restoration efforts in the Northern Great Plains region, a group of researchers from the Native Plant Initiative at…"
+pubDate: 2026-10-07T11:20:11.000Z
+source: "https://phys.org/news/2026-10-people-native-prairie-seeds.html"
+sourceName: "Phys.org"
+summary: "To support restoration efforts in the Northern Great Plains region, a group of researchers from the Native Plant Initiative at South Dakota State University sought to understand how their native seed system worked and to identify ways they could support the existing networks. That allowed us to look not only at questions like seed infrastructure and production, but also at how culture, values, knowledge, relationships, institutions and economics shape the resilience of the system.\" An article about this deep dive into the social aspects of native seed systems was recently published in People and Nature. Guiding the work from the beginning was the Native Seed Strategy developed by the Northern Great Plains Native Seed Partnership. The plan identified a need to better understand the people and social dimensions of the native seed system to strengthen collaboration, restoration efforts and long-term resilience. \"One of the most important, and surprising, findings was that there isn't just one native seed system per region,\" Zavaleta Cheek said."
+---
+
+To support restoration efforts in the Northern Great Plains region, a group of researchers from the Native Plant Initiative at South Dakota State University sought to understand how their native seed system worked and to identify ways they could support the existing networks. That allowed us to look not only at questions like seed infrastructure and production, but also at how culture, values, knowledge, relationships, institutions and economics shape the resilience of the system." An article about this deep dive into the social aspects of native seed systems was recently published in People and Nature. Guiding the work from the beginning was the Native Seed Strategy developed by the Northern Great Plains Native Seed Partnership.
+
+The plan identified a need to better understand the people and social dimensions of the native seed system to strengthen collaboration, restoration efforts and long-term resilience. "One of the most important, and surprising, findings was that there isn't just one native seed system per region," Zavaleta Cheek said.

@@ -1,0 +1,12 @@
+---
+title: "100+ Compromised Websites Use Fake Cloudflare Checks to Deliver LunexStealer"
+description: "\"When visiting such a site, users were shown a forged Cloudflare verification page that, under the pretext of confirming the…"
+pubDate: 2026-10-07T06:57:54.000Z
+source: "https://thehackernews.com/2026/10/100-compromised-websites-use-fake.html"
+sourceName: "The Hacker News"
+summary: "\"When visiting such a site, users were shown a forged Cloudflare verification page that, under the pretext of confirming the visitor is human, prompted them to execute a command,\" CERT-UA said in an advisory. \"Executing the command caused a malicious MSI package to be downloaded and installed from a remote server (the ClickFix technique).\" The attacks also make use of the EtherHiding technique to retrieve the domain name of the resource from which the fake verification page is loaded, as well as the script's operating mode, from a smart contract on the Polygon or Ethereum network. According to CERT-UA, there are three operating modes: 0 – inactive; 1 – passive tracking of visitors that includes gathering data about the website and the page from which the visitor arrived; and 2 – displaying the fake verification page. At least three different variants of the MSI packages have been discovered - As documented by both Arctic Wolf Labs and Ontinue, LunexStealer is also designed to install a malicious browser extension called LUNARAXE."
+---
+
+"When visiting such a site, users were shown a forged Cloudflare verification page that, under the pretext of confirming the visitor is human, prompted them to execute a command," CERT-UA said in an advisory. "Executing the command caused a malicious MSI package to be downloaded and installed from a remote server (the ClickFix technique)." The attacks also make use of the EtherHiding technique to retrieve the domain name of the resource from which the fake verification page is loaded, as well as the script's operating mode, from a smart contract on the Polygon or Ethereum network. According to CERT-UA, there are three operating modes: 0 – inactive; 1 – passive tracking of visitors that includes gathering data about the website and the page from which the visitor arrived; and 2 – displaying the fake verification page.
+
+At least three different variants of the MSI packages have been discovered - As documented by both Arctic Wolf Labs and Ontinue, LunexStealer is also designed to install a malicious browser extension called LUNARAXE.

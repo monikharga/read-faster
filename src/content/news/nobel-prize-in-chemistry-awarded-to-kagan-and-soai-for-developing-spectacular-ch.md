@@ -1,0 +1,12 @@
+---
+title: "Nobel Prize in chemistry awarded to Kagan and Soai for developing 'spectacular' chemical reactions"
+description: "Kagan and Kenso Soai won the Nobel Prize in chemistry Wednesday for their efforts to resolve mysterious mirror images in…"
+pubDate: 2026-10-07T10:12:46.000Z
+source: "https://phys.org/news/2026-10-nobel-prize-chemistry-awarded-kagan.html"
+sourceName: "Phys.org"
+summary: "Kagan and Kenso Soai won the Nobel Prize in chemistry Wednesday for their efforts to resolve mysterious mirror images in chemical molecules. \"Henri Kagan and Kenso Soai have provided a solution to a chemical mystery that is over a century old: how homochirality can emerge spontaneously,\" Heiner Linke, chair of the Nobel Committee for Chemistry, said in a news release. \"The chemical reactions they have developed are spectacular.\" Kagan, 95 years old and born in France, is affiliated with Université Paris-Sud in Orsay, France, and Soai, born in Japan, with the Tokyo University of Science. Last year, three scientists won the chemistry Nobel for their development of new molecular structures that can trap vast quantities of gas inside, laying the groundwork to potentially suck greenhouse gases out of the atmosphere or harvest moisture from desert environments. This year's prizes began with the Nobel for medicine, awarded Monday to three scientists whose work led to a tool that uses light to help unravel how the brain works."
+---
+
+Kagan and Kenso Soai won the Nobel Prize in chemistry Wednesday for their efforts to resolve mysterious mirror images in chemical molecules. "Henri Kagan and Kenso Soai have provided a solution to a chemical mystery that is over a century old: how homochirality can emerge spontaneously," Heiner Linke, chair of the Nobel Committee for Chemistry, said in a news release. "The chemical reactions they have developed are spectacular." Kagan, 95 years old and born in France, is affiliated with Université Paris-Sud in Orsay, France, and Soai, born in Japan, with the Tokyo University of Science.
+
+Last year, three scientists won the chemistry Nobel for their development of new molecular structures that can trap vast quantities of gas inside, laying the groundwork to potentially suck greenhouse gases out of the atmosphere or harvest moisture from desert environments. This year's prizes began with the Nobel for medicine, awarded Monday to three scientists whose work led to a tool that uses light to help unravel how the brain works.

@@ -1,0 +1,12 @@
+---
+title: "Anthropic Expands Claude Access for Vetted Cyber Teams as Glasswing Finds 129,000 Flaws"
+description: "Anthropic on Tuesday said it's expanding a program that allows vetted cybersecurity professionals to test its advanced artificial intelligence (AI)…"
+pubDate: 2026-10-07T08:07:38.000Z
+source: "https://thehackernews.com/2026/10/anthropic-expands-claude-access-for.html"
+sourceName: "The Hacker News"
+summary: "Anthropic on Tuesday said it's expanding a program that allows vetted cybersecurity professionals to test its advanced artificial intelligence (AI) models with reduced safeguards and blocking classifiers, as the company claimed its Project Glasswing initiative uncovered at least 129,000 verified software vulnerabilities between April and July 2026. Each tier comes with access to its models, including Claude Opus 5.5, Claude Sonnet 5.5, Claude Mythos 5.1, and new models moving forward. The three access levels are detailed below - According to a CyScenarioBench evaluation, its safeguards blocked 46 of 50 tasks on Claude Opus 5.5 in the Defense Access tier, while the Red Team Access tier on the same model did not block any tasks, and completed 34 of 50, which is the same completion rate as when no safeguards are applied. \"These evaluations give us confidence that we can make advanced cyber capabilities safely available to a broader set of defenders, expanding the defensive efforts we began with Project Glasswing,\" Anthropic said."
+---
+
+Anthropic on Tuesday said it's expanding a program that allows vetted cybersecurity professionals to test its advanced artificial intelligence (AI) models with reduced safeguards and blocking classifiers, as the company claimed its Project Glasswing initiative uncovered at least 129,000 verified software vulnerabilities between April and July 2026. Each tier comes with access to its models, including Claude Opus 5.5, Claude Sonnet 5.5, Claude Mythos 5.1, and new models moving forward. The three access levels are detailed below - According to a CyScenarioBench evaluation, its safeguards blocked 46 of 50 tasks on Claude Opus 5.5 in the Defense Access tier, while the Red Team Access tier on the same model did not block any tasks, and completed 34 of 50, which is the same completion rate as when no safeguards are applied.
+
+"These evaluations give us confidence that we can make advanced cyber capabilities safely available to a broader set of defenders, expanding the defensive efforts we began with Project Glasswing," Anthropic said.
