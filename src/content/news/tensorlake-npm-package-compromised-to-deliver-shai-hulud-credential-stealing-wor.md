@@ -1,0 +1,10 @@
+---
+title: "Tensorlake npm Package Compromised to Deliver Shai-Hulud Credential-Stealing Worm"
+description: "The malicious version 0.5.144 \"contains obfuscated malware that harvests credentials, exfiltrates secrets, establishes persistence, and executes remotely supplied code,\" Socket…"
+pubDate: 2026-10-08T05:46:20.000Z
+source: "https://thehackernews.com/2026/10/tensorlake-npm-package-compromised-to.html"
+sourceName: "The Hacker News"
+summary: "The malicious version 0.5.144 \"contains obfuscated malware that harvests credentials, exfiltrates secrets, establishes persistence, and executes remotely supplied code,\" Socket said. An analysis of the compromised release shows that it contains a preinstall hook designed to launch a JavaScript file (\"package/lib/setup.mjs\"), an obfuscated loader that launches the main credential-stealing and self-propagating worm (\"package/lib/Math_Symbol.js\") using the Bun runtime. \"Any secrets accessible to the executing process may be exposed, and persistence can retain attacker access after the affected dependency is removed.\" The types of data stolen by the malware are below - \"To propagate, the worm enumerates packages associated with the victim's publishing identity, builds Sigstore provenance, and republishes compromised versions,\" Socket explained."
+---
+
+The malicious version 0.5.144 "contains obfuscated malware that harvests credentials, exfiltrates secrets, establishes persistence, and executes remotely supplied code," Socket said. An analysis of the compromised release shows that it contains a preinstall hook designed to launch a JavaScript file ("package/lib/setup.mjs"), an obfuscated loader that launches the main credential-stealing and self-propagating worm ("package/lib/Math_Symbol.js") using the Bun runtime. "Any secrets accessible to the executing process may be exposed, and persistence can retain attacker access after the affected dependency is removed." The types of data stolen by the malware are below - "To propagate, the worm enumerates packages associated with the victim's publishing identity, builds Sigstore provenance, and republishes compromised versions," Socket explained.
