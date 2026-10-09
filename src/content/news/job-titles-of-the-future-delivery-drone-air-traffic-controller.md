@@ -1,0 +1,12 @@
+---
+title: "Job titles of the future: Delivery drone air traffic controller"
+description: "Trevor Wischnewsky is making sure that the sky stays organized as we enter the age of food delivery by drone."
+pubDate: 2026-10-09T09:00:00.000Z
+source: "https://www.technologyreview.com/2026/10/09/1145737/job-titles-delivery-drone-air-traffic-controller-trevor-wischnewsky/"
+sourceName: "MIT Tech Review"
+summary: "Trevor Wischnewsky is making sure that the sky stays organized as we enter the age of food delivery by drone. Not only does he ensure the safe passage of FlyTrex's parcels, but Wischnewsky coordinates traffic with a growing swarm of delivery drones dotting the skies over Dallas from competitors like Zipline, Amazon, and Alphabet's Wing. When he applied to FlyTrex, Wischnewsky was in training to become a commercial pilot and flight instructor, and he was already certified by the Federal Aviation Administration as a drone pilot. Though he doesn't pilot the craft, Wischnewsky monitors the delivery process from FlyTrex's operations center with the help of inputs from GPS, lasers, and a range of sensors. The Dallas–Fort Worth area, though, is a testing ground for unmanned aircraft systems traffic management (UTM), a network that allows autonomous drones from FlyTrex and its competitors to share their coordinates in real time to help avoid collisions even beyond the pilot's line of sight."
+---
+
+Trevor Wischnewsky is making sure that the sky stays organized as we enter the age of food delivery by drone. Not only does he ensure the safe passage of FlyTrex's parcels, but Wischnewsky coordinates traffic with a growing swarm of delivery drones dotting the skies over Dallas from competitors like Zipline, Amazon, and Alphabet's Wing. When he applied to FlyTrex, Wischnewsky was in training to become a commercial pilot and flight instructor, and he was already certified by the Federal Aviation Administration as a drone pilot.
+
+Though he doesn't pilot the craft, Wischnewsky monitors the delivery process from FlyTrex's operations center with the help of inputs from GPS, lasers, and a range of sensors. The Dallas–Fort Worth area, though, is a testing ground for unmanned aircraft systems traffic management (UTM), a network that allows autonomous drones from FlyTrex and its competitors to share their coordinates in real time to help avoid collisions even beyond the pilot's line of sight.

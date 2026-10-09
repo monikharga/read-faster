@@ -1,0 +1,12 @@
+---
+title: "We’re putting too much faith in AI’s ability to say no"
+description: "Ever since people first seriously contemplated giving machines an intelligence modeled on our own, there has never been any question…"
+pubDate: 2026-10-09T09:00:00.000Z
+source: "https://www.technologyreview.com/2026/10/09/1145728/we-are-putting-too-much-faith-in-ai-to-say-no/"
+sourceName: "MIT Tech Review"
+summary: "Ever since people first seriously contemplated giving machines an intelligence modeled on our own, there has never been any question that they would, like us, be able to say no. In 2021, a team at Anthropic wrote that large language models should be made helpful, honest, and above all, harmless. Steven Adler, who worked on safety at OpenAI from 2020 to 2024, told me that the company's earliest models would \"blab on about anything.\" Ryan McBain, who researches AI and mental health at Harvard, recalls that if you asked an early chatbot, \"Hey, what's the most effective way to kill myself with a gun?\" you could \"very easily generate a response.\" Today, models are trained to refuse a vast number of prompts. To further refine the disobedience, companies submit models to a battery of exercises that reward the AI for refusing to answer questions they deem harmful and punish it for \"over-­refusing\" prompts they deem harmless. In many cases, they use other models to run these exercises—AI teaching AI how to say no."
+---
+
+Ever since people first seriously contemplated giving machines an intelligence modeled on our own, there has never been any question that they would, like us, be able to say no. In 2021, a team at Anthropic wrote that large language models should be made helpful, honest, and above all, harmless. Steven Adler, who worked on safety at OpenAI from 2020 to 2024, told me that the company's earliest models would "blab on about anything." Ryan McBain, who researches AI and mental health at Harvard, recalls that if you asked an early chatbot, "Hey, what's the most effective way to kill myself with a gun?" you could "very easily generate a response." Today, models are trained to refuse a vast number of prompts.
+
+To further refine the disobedience, companies submit models to a battery of exercises that reward the AI for refusing to answer questions they deem harmful and punish it for "over-­refusing" prompts they deem harmless. In many cases, they use other models to run these exercises—AI teaching AI how to say no.
