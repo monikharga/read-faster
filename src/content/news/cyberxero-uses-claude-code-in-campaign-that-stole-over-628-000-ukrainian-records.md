@@ -1,0 +1,12 @@
+---
+title: "CyberXero Uses Claude Code in Campaign That Stole Over 628,000 Ukrainian Records"
+description: "Cybersecurity researchers have disclosed details of a two-pronged artificial intelligence (AI)-augmented initial access campaign targeting WordPress sites, e-commerce platforms, and…"
+pubDate: 2026-10-12T07:26:12.000Z
+source: "https://thehackernews.com/2026/10/cyberxero-uses-claude-code-in-campaign.html"
+sourceName: "The Hacker News"
+summary: "Cybersecurity researchers have disclosed details of a two-pronged artificial intelligence (AI)-augmented initial access campaign targeting WordPress sites, e-commerce platforms, and critical infrastructure entities in Ukraine. \"The operation runs two pipelines at once: a global, automated campaign against WordPress and e-commerce platforms, and a curated, manual campaign against Ukrainian energy and critical infrastructure,\" SOCRadar said in a report published last week. The global campaign specifically focuses on known security flaws like wp2shell (CVE-2026-63030 and CVE-2026-60137) and CVE-2026-4815, an SQL injection vulnerability impacting the Support Board WordPress plugin, to seize control of WordPress sites. The opportunistic campaign aimed at WordPress and e-commerce platforms is designed for access and payment data, while the second campaign is a lot more targeted and geared towards deep reconnaissance and manual exploitation against Ukrainian energy and utilities, including a heating provider in Kharkiv."
+---
+
+Cybersecurity researchers have disclosed details of a two-pronged artificial intelligence (AI)-augmented initial access campaign targeting WordPress sites, e-commerce platforms, and critical infrastructure entities in Ukraine. "The operation runs two pipelines at once: a global, automated campaign against WordPress and e-commerce platforms, and a curated, manual campaign against Ukrainian energy and critical infrastructure," SOCRadar said in a report published last week. The global campaign specifically focuses on known security flaws like wp2shell (CVE-2026-63030 and CVE-2026-60137) and CVE-2026-4815, an SQL injection vulnerability impacting the Support Board WordPress plugin, to seize control of WordPress sites.
+
+The opportunistic campaign aimed at WordPress and e-commerce platforms is designed for access and payment data, while the second campaign is a lot more targeted and geared towards deep reconnaissance and manual exploitation against Ukrainian energy and utilities, including a heating provider in Kharkiv.

@@ -1,0 +1,12 @@
+---
+title: "AI minister warns 'likely' UK's cyber defences will be breached"
+description: "Speaking at a press conference, Kanishka Narayan pointed to an incident of a rogue OpenAI agent hacking an Australian government…"
+pubDate: 2026-10-12T12:11:41.000Z
+source: "https://www.bbc.co.uk/news/articles/cr78pe09y05xo?at_medium=RSS&at_campaign=rss"
+sourceName: "BBC Technology"
+summary: "Speaking at a press conference, Kanishka Narayan pointed to an incident of a rogue OpenAI agent hacking an Australian government website in June. Narayan said the government plans to put advanced AI to work to combat the threat, as he set out how the government plans to prepare for any serious future incidents. The minister said the move would build on two existing pilots which have helped identify and fix over 1,000 vulnerabilities across government systems. And if you cannot adequately control the risks, do not release the system.\" In his speech, Narayan also confirmed that scientists at the UK's AI watchdog, the AI Security Institute (AISI), are now conducting \"rigorous evaluations\" of the latest generation of advanced AI models to \"identify risks early\" and \"to test robust safeguards to help keep people safe\". The announcement follows a series of incidents involving AI agents across major firms such as OpenAI and Anthropic acting outside human control and hacking into external systems."
+---
+
+Speaking at a press conference, Kanishka Narayan pointed to an incident of a rogue OpenAI agent hacking an Australian government website in June. Narayan said the government plans to put advanced AI to work to combat the threat, as he set out how the government plans to prepare for any serious future incidents. The minister said the move would build on two existing pilots which have helped identify and fix over 1,000 vulnerabilities across government systems.
+
+And if you cannot adequately control the risks, do not release the system." In his speech, Narayan also confirmed that scientists at the UK's AI watchdog, the AI Security Institute (AISI), are now conducting "rigorous evaluations" of the latest generation of advanced AI models to "identify risks early" and "to test robust safeguards to help keep people safe". The announcement follows a series of incidents involving AI agents across major firms such as OpenAI and Anthropic acting outside human control and hacking into external systems.

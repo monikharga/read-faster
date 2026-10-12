@@ -1,0 +1,12 @@
+---
+title: "The ecologist revealing the invisible networks that revive rainforests"
+description: "In a research station in central Panama, you can walk through a century of forest time, watching scrubby plots of…"
+pubDate: 2026-10-12T09:00:00.000Z
+source: "https://www.technologyreview.com/2026/10/12/1145745/daisy-dent-ecologist-revealing-invisible-networks-revive-rainforests/"
+sourceName: "MIT Tech Review"
+summary: "In a research station in central Panama, you can walk through a century of forest time, watching scrubby plots of adolescent trees give way to cathedral-­like canopies of mature growth. Forest ecologist Daisy Dent, a senior scientist at ETH Zurich, oversees this sequence of plots across the Barro Colorado Nature Monument, some of which date as far back as the 19th century. Tropical forests like these are our planet's biggest terrestrial carbon sink, accounting for around 40% of carbon stored on land. Fruit-eating animals—including spider monkeys, bats, and parrots—are responsible for planting more than 70% of trees in tropical forests, and Dent's dataset can tell which built each patch of trees by depositing seeds in their nutrient-rich droppings. In contrast, a patch of similar age populated by narrow trunks of a single long-lived species, Gustavia superba, hints that tropical rodents called agoutis are more or less the sole animal architects behind this more homogeneous forest."
+---
+
+In a research station in central Panama, you can walk through a century of forest time, watching scrubby plots of adolescent trees give way to cathedral-­like canopies of mature growth. Forest ecologist Daisy Dent, a senior scientist at ETH Zurich, oversees this sequence of plots across the Barro Colorado Nature Monument, some of which date as far back as the 19th century. Tropical forests like these are our planet's biggest terrestrial carbon sink, accounting for around 40% of carbon stored on land.
+
+Fruit-eating animals—including spider monkeys, bats, and parrots—are responsible for planting more than 70% of trees in tropical forests, and Dent's dataset can tell which built each patch of trees by depositing seeds in their nutrient-rich droppings. In contrast, a patch of similar age populated by narrow trunks of a single long-lived species, Gustavia superba, hints that tropical rodents called agoutis are more or less the sole animal architects behind this more homogeneous forest.

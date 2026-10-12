@@ -1,0 +1,12 @@
+---
+title: "Ledger Finds Unauthorized Hardware Implant in CryptoBilis-Sold Wallet Amid Fund Theft Reports"
+description: "Cryptocurrency hardware maker Ledger has temporarily paused sales of its products via CryptoBilis following reports of stolen funds linked to…"
+pubDate: 2026-10-12T11:21:48.000Z
+source: "https://thehackernews.com/2026/10/ledger-finds-unauthorized-hardware.html"
+sourceName: "The Hacker News"
+summary: "Cryptocurrency hardware maker Ledger has temporarily paused sales of its products via CryptoBilis following reports of stolen funds linked to devices sold by the reseller. \"If you have set up your Ledger device, consider moving assets to a new Ledger signer (with new seed).\" The company has since revealed that one of the impacted users' devices contained an unauthorized hardware implant, and that it's reaching out to impacted users as part of an ongoing probe into the incident. \"If your device came with a recovery phrase already printed or written on a card or sheet, or if anyone other than you has seen your recovery phrase, treat your wallet as unsafe.\" \"Never share your recovery phrase or PIN with anyone. Be careful of anyone who offers to recover lost funds; these offers are almost always scams.\" In a follow-up update posted on October 11, 2026, Ledger acknowledged that the CryptoBilis incident has impacted a \"limited\" number of devices, adding all confirmed cases involve devices sold through CryptoBilis."
+---
+
+Cryptocurrency hardware maker Ledger has temporarily paused sales of its products via CryptoBilis following reports of stolen funds linked to devices sold by the reseller. "If you have set up your Ledger device, consider moving assets to a new Ledger signer (with new seed)." The company has since revealed that one of the impacted users' devices contained an unauthorized hardware implant, and that it's reaching out to impacted users as part of an ongoing probe into the incident. "If your device came with a recovery phrase already printed or written on a card or sheet, or if anyone other than you has seen your recovery phrase, treat your wallet as unsafe." "Never share your recovery phrase or PIN with anyone.
+
+Be careful of anyone who offers to recover lost funds; these offers are almost always scams." In a follow-up update posted on October 11, 2026, Ledger acknowledged that the CryptoBilis incident has impacted a "limited" number of devices, adding all confirmed cases involve devices sold through CryptoBilis.
