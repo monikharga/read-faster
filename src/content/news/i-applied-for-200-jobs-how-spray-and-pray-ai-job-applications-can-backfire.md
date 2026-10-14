@@ -1,0 +1,10 @@
+---
+title: "'I applied for 200 jobs' - How 'spray and pray' AI job applications can backfire"
+description: "We are increasingly using the technology to help us with job applications, graduates, external and recruiters say, with many employers…"
+pubDate: 2026-10-14T08:27:17.000Z
+source: "https://www.bbc.co.uk/news/articles/c623dnkn8pkyo?at_medium=RSS&at_campaign=rss"
+sourceName: "BBC Technology"
+summary: "We are increasingly using the technology to help us with job applications, graduates, external and recruiters say, with many employers happy for us to do so within reason. \"Employers want you to put your absolute best into the application, but if I'm applying for 10 to 20 jobs in a day, the reality is you can't do that.\" Tom says it's \"hypocritical\" for companies to ask candidates not to use AI when some are using it themselves to screen applicants While Tom says he never used the technology in an assessment or interview, he did use it to help him with cover letters and CVs or to find the right \"buzz words\" that early stage screening in a recruitment process will pick up on. He also thinks it's \"hypocritical\" for companies to ask candidates not to use AI when some are using it themselves to screen candidates."
+---
+
+We are increasingly using the technology to help us with job applications, graduates, external and recruiters say, with many employers happy for us to do so within reason. "Employers want you to put your absolute best into the application, but if I'm applying for 10 to 20 jobs in a day, the reality is you can't do that." Tom says it's "hypocritical" for companies to ask candidates not to use AI when some are using it themselves to screen applicants While Tom says he never used the technology in an assessment or interview, he did use it to help him with cover letters and CVs or to find the right "buzz words" that early stage screening in a recruitment process will pick up on. He also thinks it's "hypocritical" for companies to ask candidates not to use AI when some are using it themselves to screen candidates.

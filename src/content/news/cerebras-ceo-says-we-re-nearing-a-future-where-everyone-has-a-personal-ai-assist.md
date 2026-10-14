@@ -1,0 +1,12 @@
+---
+title: "Cerebras CEO says we’re nearing a future where everyone has a personal AI assistant at home"
+description: "Speaking on stage at TechCrunch Disrupt 2026 on Tuesday, the chipmaker executive answered a question about what would need to…"
+pubDate: 2026-10-13T23:05:34.000Z
+source: "https://techcrunch.com/2026/10/13/cerebras-ceo-says-were-nearing-a-future-where-everyone-has-a-personal-ai-assistant-at-home/"
+sourceName: "TechCrunch"
+summary: "Speaking on stage at TechCrunch Disrupt 2026 on Tuesday, the chipmaker executive answered a question about what would need to happen for AI to become a home appliance, saying, \"Actually, I don't think that's very far away.\" He pointed to the advances in consumer AI agents, like Meta's Muse and Instinct, the startup now valued at $10 billion, as examples of how AI is finding its footing with everyday users. \"Just like your cell phone, they'll do some work on device and some work going back to the cloud,\" Feldman explained. \"I think they will make a meaningful impact in making our lives better.\" Of course, for an AI chipmaker, the vision of a home AI appliance, or at least widespread consumer adoption of agentic technology, is certainly appealing. But Feldman isn't just working on the hardware infrastructure; he's a personal AI user himself, saying that he now uses \"a collection of agents\" to sweep his calendar, pull up information about the people he's going to have a call with, and more."
+---
+
+Speaking on stage at TechCrunch Disrupt 2026 on Tuesday, the chipmaker executive answered a question about what would need to happen for AI to become a home appliance, saying, "Actually, I don't think that's very far away." He pointed to the advances in consumer AI agents, like Meta's Muse and Instinct, the startup now valued at $10 billion, as examples of how AI is finding its footing with everyday users. "Just like your cell phone, they'll do some work on device and some work going back to the cloud," Feldman explained. "I think they will make a meaningful impact in making our lives better." Of course, for an AI chipmaker, the vision of a home AI appliance, or at least widespread consumer adoption of agentic technology, is certainly appealing.
+
+But Feldman isn't just working on the hardware infrastructure; he's a personal AI user himself, saying that he now uses "a collection of agents" to sweep his calendar, pull up information about the people he's going to have a call with, and more.
