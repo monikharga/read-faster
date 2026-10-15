@@ -1,0 +1,12 @@
+---
+title: "Ascension Island: How a planting project created a lush cloud forest"
+description: "This unique territory completely changed in the 19th century thanks to the efforts of two British scientists: Charles Darwin and…"
+pubDate: 2026-10-15T06:45:51.000Z
+source: "https://phys.org/news/2026-10-ascension-island-lush-cloud-forest.html"
+sourceName: "Phys.org"
+summary: "This unique territory completely changed in the 19th century thanks to the efforts of two British scientists: Charles Darwin and Joseph Dalton Hooker, researchers who stopped at the British naval base and documented the island during their expeditions. at Pompeu Fabra University, where he is conducting research at the Complex Systems Laboratory (CSL) of the Institute of Evolutionary Biology (IBE, CSIC—Pompeu Fabra University) under the supervision of Ricard Solé, an ICREA researcher at UPF. It has gone from being a volcanic island inhabited by half a dozen species of dwarf ferns to a lush, highly humid rainforest, all thanks to a deliberate, human-driven process. To learn about conditions on Ascension, a team from the Complex Systems Laboratory made up of Maull and Nastassia Knödlseder, a postdoctoral researcher at UPF's SynBio Lab, spent a month on the island in collaboration with its Department of Conservation and government. \"Actually stepping foot on the island reveals the magnitude of the success of the planting process,\" Maull states."
+---
+
+This unique territory completely changed in the 19th century thanks to the efforts of two British scientists: Charles Darwin and Joseph Dalton Hooker, researchers who stopped at the British naval base and documented the island during their expeditions. at Pompeu Fabra University, where he is conducting research at the Complex Systems Laboratory (CSL) of the Institute of Evolutionary Biology (IBE, CSIC—Pompeu Fabra University) under the supervision of Ricard Solé, an ICREA researcher at UPF. It has gone from being a volcanic island inhabited by half a dozen species of dwarf ferns to a lush, highly humid rainforest, all thanks to a deliberate, human-driven process.
+
+To learn about conditions on Ascension, a team from the Complex Systems Laboratory made up of Maull and Nastassia Knödlseder, a postdoctoral researcher at UPF's SynBio Lab, spent a month on the island in collaboration with its Department of Conservation and government. "Actually stepping foot on the island reveals the magnitude of the success of the planting process," Maull states.

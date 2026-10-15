@@ -1,0 +1,12 @@
+---
+title: "Fridge hack costing millions and sparking fires stemmed from poor security"
+description: "Earlier this week, a mass hack of refrigeration systems at an estimated 700 supermarkets throughout France caused them to suddenly…"
+pubDate: 2026-10-14T21:35:09.000Z
+source: "https://arstechnica.com/security/2026/10/fridge-hack-costing-millions-and-sparking-fires-stemmed-from-poor-security/"
+sourceName: "Ars Technica"
+summary: "Earlier this week, a mass hack of refrigeration systems at an estimated 700 supermarkets throughout France caused them to suddenly malfunction, causing spoilage of untold tons of perishables and, in some cases, fires. More specifically, Internet-connected controllers that allow technicians to remotely administer the store-wide systems were compromised. Multiple security advisories and public research reports show that all three of the controller models reportedly hacked in the incident—sold by Danfoss of Denmark and Dixell and its parent company Copeland in the US—contained critical vulnerabilities that allow attackers to remotely log in to the devices with the same system rights as administrators. A raft of critical vulnerabilities fixed in the past few months in Copeland/Dixel controllers also give similar remote access. Besides running controllers with outdated firmware, the affected stores likely also failed to put the devices behind a VPN and create a restricted list of IP addresses allowed to log in."
+---
+
+Earlier this week, a mass hack of refrigeration systems at an estimated 700 supermarkets throughout France caused them to suddenly malfunction, causing spoilage of untold tons of perishables and, in some cases, fires. More specifically, Internet-connected controllers that allow technicians to remotely administer the store-wide systems were compromised. Multiple security advisories and public research reports show that all three of the controller models reportedly hacked in the incident—sold by Danfoss of Denmark and Dixell and its parent company Copeland in the US—contained critical vulnerabilities that allow attackers to remotely log in to the devices with the same system rights as administrators.
+
+A raft of critical vulnerabilities fixed in the past few months in Copeland/Dixel controllers also give similar remote access. Besides running controllers with outdated firmware, the affected stores likely also failed to put the devices behind a VPN and create a restricted list of IP addresses allowed to log in.

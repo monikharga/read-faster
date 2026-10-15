@@ -1,0 +1,12 @@
+---
+title: "Candida auris copies its entire genome to survive antifungal treatment, research reveals"
+description: "Editors have highlighted the following attributes while ensuring the content's credibility: New research has revealed an unexpected new mechanism through…"
+pubDate: 2026-10-15T09:00:08.000Z
+source: "https://phys.org/news/2026-10-candida-auris-entire-genome-survive.html"
+sourceName: "Phys.org"
+summary: "Editors have highlighted the following attributes while ensuring the content's credibility: New research has revealed an unexpected new mechanism through which the killer fungus Candida auris is resisting antifungal drug treatment. A team led by the University of Exeter and City St George's, University of London, discovered that the fungus creates multiple versions of its entire genome, including mutating a gene that plays a role in cell wall integrity, called \"Crazy-one\" (CRZ1). Study authors say their findings unlock a new mechanism that allows Candida auris to adapt to antifungal treatment and survive, which could lead to new ways to tackle the fungus. He said, \"Candida auris is rare in the general population, but it's a deadly threat to patients in intensive care units. They were surprised to find that further testing showed the deadly fungus had survived antifungal treatment by creating multiple versions of its own genome, thereby increasing its chances of mutating to evade the drug and survive."
+---
+
+Editors have highlighted the following attributes while ensuring the content's credibility: New research has revealed an unexpected new mechanism through which the killer fungus Candida auris is resisting antifungal drug treatment. A team led by the University of Exeter and City St George's, University of London, discovered that the fungus creates multiple versions of its entire genome, including mutating a gene that plays a role in cell wall integrity, called "Crazy-one" (CRZ1). Study authors say their findings unlock a new mechanism that allows Candida auris to adapt to antifungal treatment and survive, which could lead to new ways to tackle the fungus.
+
+He said, "Candida auris is rare in the general population, but it's a deadly threat to patients in intensive care units. They were surprised to find that further testing showed the deadly fungus had survived antifungal treatment by creating multiple versions of its own genome, thereby increasing its chances of mutating to evade the drug and survive.

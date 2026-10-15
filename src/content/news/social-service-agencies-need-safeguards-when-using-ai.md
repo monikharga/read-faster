@@ -1,0 +1,12 @@
+---
+title: "Social service agencies need safeguards when using AI"
+description: "Editors have highlighted the following attributes while ensuring the content's credibility: Artificial intelligence is increasingly being used by social service…"
+pubDate: 2026-10-15T01:40:01.000Z
+source: "https://phys.org/news/2026-10-social-agencies-safeguards-ai.html"
+sourceName: "Phys.org"
+summary: "Editors have highlighted the following attributes while ensuring the content's credibility: Artificial intelligence is increasingly being used by social service agencies to handle cases involving child abuse, intimate partner violence and elder abuse. But a University of Iowa researcher and former social worker says the agencies need to establish safeguards to ensure that AI technology does not lead to bias against vulnerable or disadvantaged populations. In a new study, Aislinn Conrad, associate professor in the School of Social Work, says AI systems can be useful, especially for tasks such as sifting through information to identify people considered at risk or to help agencies decide when intervention may be needed. \"That's why I believe AI-safeguard frameworks are so critical right now.\" When she was a social worker, Conrad performed child protective services investigations and helped children in foster care safely return to their families. Through this work, she became interested in how social service agencies monitor people in the system."
+---
+
+Editors have highlighted the following attributes while ensuring the content's credibility: Artificial intelligence is increasingly being used by social service agencies to handle cases involving child abuse, intimate partner violence and elder abuse. But a University of Iowa researcher and former social worker says the agencies need to establish safeguards to ensure that AI technology does not lead to bias against vulnerable or disadvantaged populations. In a new study, Aislinn Conrad, associate professor in the School of Social Work, says AI systems can be useful, especially for tasks such as sifting through information to identify people considered at risk or to help agencies decide when intervention may be needed.
+
+"That's why I believe AI-safeguard frameworks are so critical right now." When she was a social worker, Conrad performed child protective services investigations and helped children in foster care safely return to their families. Through this work, she became interested in how social service agencies monitor people in the system.

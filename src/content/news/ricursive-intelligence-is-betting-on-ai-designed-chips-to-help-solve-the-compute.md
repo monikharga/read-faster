@@ -1,0 +1,12 @@
+---
+title: "Ricursive Intelligence is betting on AI-designed chips to help solve the compute crisis"
+description: "Ricursive Intelligence founders Anna Goldie and Azalia Mirhoseini believe more efficient AI chip design could help solve the compute crisis."
+pubDate: 2026-10-15T01:01:32.000Z
+source: "https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis/"
+sourceName: "TechCrunch"
+summary: "Ricursive Intelligence founders Anna Goldie and Azalia Mirhoseini believe more efficient AI chip design could help solve the compute crisis. The founders took the stage at TechCrunch Disrupt on Wednesday to detail how their startup is developing AI that can design chips, learn from each iteration, and improve subsequent designs, all with the goal of automating and accelerating the chip design process. We think that we need to help by making chips that are more efficient, that use the bandwidth in those data centers more efficiently, that use the wafers and fabs more efficiently, because even if we make [data centers] in space or something, I don't know, you won't see the sun anymore.\" While some may be scared by the thought of AI designing its own chips, Goldie argues that letting AI handle chip design will allow humans can focus on developing applications and exploring new possibilities that can expand what they can accomplish with computing. \"And this is happening in chip design, software development, and other places."
+---
+
+Ricursive Intelligence founders Anna Goldie and Azalia Mirhoseini believe more efficient AI chip design could help solve the compute crisis. The founders took the stage at TechCrunch Disrupt on Wednesday to detail how their startup is developing AI that can design chips, learn from each iteration, and improve subsequent designs, all with the goal of automating and accelerating the chip design process. We think that we need to help by making chips that are more efficient, that use the bandwidth in those data centers more efficiently, that use the wafers and fabs more efficiently, because even if we make [data centers] in space or something, I don't know, you won't see the sun anymore." While some may be scared by the thought of AI designing its own chips, Goldie argues that letting AI handle chip design will allow humans can focus on developing applications and exploring new possibilities that can expand what they can accomplish with computing.
+
+"And this is happening in chip design, software development, and other places.

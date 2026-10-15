@@ -1,0 +1,12 @@
+---
+title: "Gudea leverages AI to help organizations prevent social media crises before they erupt"
+description: "Gudea, a company that tracks how stories and rumors spread online that describes itself as the \"storm tracker for the…"
+pubDate: 2026-10-15T00:00:00.000Z
+source: "https://techcrunch.com/2026/10/14/gudea-leverages-ai-to-help-organizations-prevent-social-media-crises-before-they-erupt/"
+sourceName: "TechCrunch"
+summary: "Gudea, a company that tracks how stories and rumors spread online that describes itself as the \"storm tracker for the internet,\" is using AI to help organizations spot trouble brewing online before it turns into a crisis. Unlike traditional social listening platforms, which only track metrics such as mentions, hashtags, and impressions, Gudea aims to show organizations who is driving a conversation, how information is moving, how quickly a story is gaining traction, and where it could be headed. Instead of simply telling a company that mentions are rising, Gudea aims to provide the context behind that growth so decision-makers can determine how and whether to respond. Gudea pitched its mission Wednesday afternoon on the Startup Battlefield stage at TechCrunch Disrupt 2026, where the company made the case that companies need to take a more proactive approach to protecting their reputations. \"A lot of the chief communications officers and chief media or marketing officers, they're using legacy tools to try to figure out what's happening."
+---
+
+Gudea, a company that tracks how stories and rumors spread online that describes itself as the "storm tracker for the internet," is using AI to help organizations spot trouble brewing online before it turns into a crisis. Unlike traditional social listening platforms, which only track metrics such as mentions, hashtags, and impressions, Gudea aims to show organizations who is driving a conversation, how information is moving, how quickly a story is gaining traction, and where it could be headed. Instead of simply telling a company that mentions are rising, Gudea aims to provide the context behind that growth so decision-makers can determine how and whether to respond.
+
+Gudea pitched its mission Wednesday afternoon on the Startup Battlefield stage at TechCrunch Disrupt 2026, where the company made the case that companies need to take a more proactive approach to protecting their reputations. "A lot of the chief communications officers and chief media or marketing officers, they're using legacy tools to try to figure out what's happening.
