@@ -1,0 +1,12 @@
+---
+title: "Political violence: How justifications influence voter approval"
+description: "A study by Ursula Daxecker, director at the Max Planck Institute for Politics and Social Science in Göttingen, and Neeraj…"
+pubDate: 2026-10-17T01:00:02.000Z
+source: "https://phys.org/news/2026-10-political-violence-justifications-voter.html"
+sourceName: "Phys.org"
+summary: "A study by Ursula Daxecker, director at the Max Planck Institute for Politics and Social Science in Göttingen, and Neeraj Prasad of the University of Amsterdam, published in The Journal of Politics, finds that legitimizing violence can increase public approval of both violence and the parties involved in it. Among BJP supporters, the effect went even further: when violence was portrayed as justified, they were less approving of a peaceful response by their own party. When violence is portrayed as justified, supporters of the party involved may accept it and even punish their own party for a peaceful response. The information given varied in two respects: whether the incident was legitimized as a response to Khurshid's criticism of Hindu organizations, and whether the BJP was described as participating in the violence or initiating a peaceful dialogue. The results show that information portraying violence as justified can increase approval of violence among Hindu respondents, but political affiliation made a strong difference."
+---
+
+A study by Ursula Daxecker, director at the Max Planck Institute for Politics and Social Science in Göttingen, and Neeraj Prasad of the University of Amsterdam, published in The Journal of Politics, finds that legitimizing violence can increase public approval of both violence and the parties involved in it. Among BJP supporters, the effect went even further: when violence was portrayed as justified, they were less approving of a peaceful response by their own party. When violence is portrayed as justified, supporters of the party involved may accept it and even punish their own party for a peaceful response.
+
+The information given varied in two respects: whether the incident was legitimized as a response to Khurshid's criticism of Hindu organizations, and whether the BJP was described as participating in the violence or initiating a peaceful dialogue. The results show that information portraying violence as justified can increase approval of violence among Hindu respondents, but political affiliation made a strong difference.

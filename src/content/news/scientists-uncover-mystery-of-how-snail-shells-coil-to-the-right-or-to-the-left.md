@@ -1,0 +1,12 @@
+---
+title: "Scientists uncover mystery of how snail shells coil to the right or to the left"
+description: "Editors have highlighted the following attributes while ensuring the content's credibility: Scientists have discovered a gene that determines whether Japanese…"
+pubDate: 2026-10-16T23:40:10.000Z
+source: "https://phys.org/news/2026-10-scientists-uncover-mystery-snail-shells.html"
+sourceName: "Phys.org"
+summary: "Editors have highlighted the following attributes while ensuring the content's credibility: Scientists have discovered a gene that determines whether Japanese snails develop shells that are left- or right-coiling—with implications for understanding the underlying handedness of our own bodies. They found that the coiling direction, or chirality, of a snail shell is due to natural differences in a gene that makes a protein called myosin. \"But while the majority of snails have shells that are right-coiling, a good number are left-coiling and a few species have both coiling types. The finding is important because it helps understand the common factors by which diverse animals develop their left and right sides. In comparison, the team found that the left- and right-coiling versions of the Japanese snail develop normally as embryos, without any evidence of disease or pathology. Both the left- and right-coiling versions are ancient, but the \"lefty\" version shows evidence for natural selection."
+---
+
+Editors have highlighted the following attributes while ensuring the content's credibility: Scientists have discovered a gene that determines whether Japanese snails develop shells that are left- or right-coiling—with implications for understanding the underlying handedness of our own bodies. They found that the coiling direction, or chirality, of a snail shell is due to natural differences in a gene that makes a protein called myosin. "But while the majority of snails have shells that are right-coiling, a good number are left-coiling and a few species have both coiling types.
+
+The finding is important because it helps understand the common factors by which diverse animals develop their left and right sides. In comparison, the team found that the left- and right-coiling versions of the Japanese snail develop normally as embryos, without any evidence of disease or pathology. Both the left- and right-coiling versions are ancient, but the "lefty" version shows evidence for natural selection.
