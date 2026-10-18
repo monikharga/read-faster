@@ -1,0 +1,12 @@
+---
+title: "Replit makes OpenAI its default over Anthropic, CEO says"
+description: "Replit, the AI coding platform that has become a favorite of startup founders and developers, is no longer working with…"
+pubDate: 2026-10-17T18:48:08.000Z
+source: "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/"
+sourceName: "TechCrunch"
+summary: "Replit, the AI coding platform that has become a favorite of startup founders and developers, is no longer working with Anthropic, the company's CEO and co-founder Amjad Masad said Thursday while onstage at TechCrunch Disrupt. And for all these reasons, we just felt like they were a better partner for now.\" It seems, however, that Anthropic hasn't been completely cut out of Replit, which sells a cloud-based software development platform where users can develop and deploy apps directly from inside their browser. After Disrupt, Masad clarified that customers can still access Anthropic models on the platform, but that OpenAI's ChatGPT is now the default. \"Replit remains model agnostic,\" Masad told TechCrunch over the weekend. \"Our users can choose Anthropic's Claude or other supported models…OpenAI is now our preferred partner for powering Replit Agent, based on performance, economics, and the strength of our partnership.\" Masad's comments on stage were rejected by insiders familiar with the partnership between the Anthropic and Replit, however."
+---
+
+Replit, the AI coding platform that has become a favorite of startup founders and developers, is no longer working with Anthropic, the company's CEO and co-founder Amjad Masad said Thursday while onstage at TechCrunch Disrupt. And for all these reasons, we just felt like they were a better partner for now." It seems, however, that Anthropic hasn't been completely cut out of Replit, which sells a cloud-based software development platform where users can develop and deploy apps directly from inside their browser. After Disrupt, Masad clarified that customers can still access Anthropic models on the platform, but that OpenAI's ChatGPT is now the default.
+
+"Replit remains model agnostic," Masad told TechCrunch over the weekend. "Our users can choose Anthropic's Claude or other supported models…OpenAI is now our preferred partner for powering Replit Agent, based on performance, economics, and the strength of our partnership." Masad's comments on stage were rejected by insiders familiar with the partnership between the Anthropic and Replit, however.

@@ -1,0 +1,12 @@
+---
+title: "What a worm's brain can teach us about sex differences in the nervous system"
+description: "Hermaphrodite worms have exactly 302 neurons, distributed throughout the entirety of the worm's nervous system."
+pubDate: 2026-10-17T21:20:01.000Z
+source: "https://phys.org/news/2026-10-worm-brain-sex-differences-nervous.html"
+sourceName: "Phys.org"
+summary: "Hermaphrodite worms have exactly 302 neurons, distributed throughout the entirety of the worm's nervous system. The researchers were interested in observing the brain activity of male and hermaphrodite worms side by side as they interacted with a controlled environment, where researchers could deploy various stimuli, like odors from food and other chemical cues that indicate danger in their surroundings. The findings could help scientists better understand how sex-specific differences in the nervous system influence behavior, reproduction and aging. Research on the worms can help illuminate how errors in chromosome division contribute to miscarriages, infertility and birth defects, and how muscle-like contractions help move eggs through the reproductive system—a process that may offer insights into how muscles function in human organs, according to research conducted by Northeastern's Cram Lab. Because the worms typically live only about 20 days, they also offer a convenient way to investigate why organisms age and whether that process can be slowed."
+---
+
+Hermaphrodite worms have exactly 302 neurons, distributed throughout the entirety of the worm's nervous system. The researchers were interested in observing the brain activity of male and hermaphrodite worms side by side as they interacted with a controlled environment, where researchers could deploy various stimuli, like odors from food and other chemical cues that indicate danger in their surroundings. The findings could help scientists better understand how sex-specific differences in the nervous system influence behavior, reproduction and aging.
+
+Research on the worms can help illuminate how errors in chromosome division contribute to miscarriages, infertility and birth defects, and how muscle-like contractions help move eggs through the reproductive system—a process that may offer insights into how muscles function in human organs, according to research conducted by Northeastern's Cram Lab. Because the worms typically live only about 20 days, they also offer a convenient way to investigate why organisms age and whether that process can be slowed.
