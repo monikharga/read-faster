@@ -1,0 +1,12 @@
+---
+title: "Hackers Use New ROMULUS ClickFix Platform to Deliver LegionLoader and Other Malware"
+description: "Cybersecurity researchers have disclosed details of a ClickFix delivery platform called ROMULUS that's being used to distribute malware such as…"
+pubDate: 2026-10-20T04:05:58.000Z
+source: "https://thehackernews.com/2026/10/romulus-clickfix-platform-tricks-users.html"
+sourceName: "The Hacker News"
+summary: "Cybersecurity researchers have disclosed details of a ClickFix delivery platform called ROMULUS that's being used to distribute malware such as Legion Loader. According to Forescout Research - Vedere Labs, ROMULUS is akin to a malware delivery service that employs ClickFix-style lures on bogus landing pages to trick unsuspecting users into running malicious commands and infecting their own machines. In addition, a separate chain triggered via ClickFix has been used to run a PowerShell script, which then delivers Legion Loader, a malware loader also called Satacom downloader, CurlyGate, and RobotDropper. The ROMULUS platform exposes two endpoints that are designed to download a PowerShell staging script, which decides the payload to be fetched next: a trojanized MSI installer carrying a malware loader or an encrypted archive containing Legion Loader that's inflated to nearly 1 GB with repetitive padding to bypass upload limits, sandbox budgets, or static-analysis thresholds."
+---
+
+Cybersecurity researchers have disclosed details of a ClickFix delivery platform called ROMULUS that's being used to distribute malware such as Legion Loader. According to Forescout Research - Vedere Labs, ROMULUS is akin to a malware delivery service that employs ClickFix-style lures on bogus landing pages to trick unsuspecting users into running malicious commands and infecting their own machines. In addition, a separate chain triggered via ClickFix has been used to run a PowerShell script, which then delivers Legion Loader, a malware loader also called Satacom downloader, CurlyGate, and RobotDropper.
+
+The ROMULUS platform exposes two endpoints that are designed to download a PowerShell staging script, which decides the payload to be fetched next: a trojanized MSI installer carrying a malware loader or an encrypted archive containing Legion Loader that's inflated to nearly 1 GB with repetitive padding to bypass upload limits, sandbox budgets, or static-analysis thresholds.
