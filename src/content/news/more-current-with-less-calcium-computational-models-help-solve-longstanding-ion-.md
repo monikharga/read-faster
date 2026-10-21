@@ -1,0 +1,12 @@
+---
+title: "More current with less calcium: Computational models help solve longstanding ion channel evolution mystery"
+description: "Embedded within cell membranes, they identified ion channels with extraordinarily high conductance."
+pubDate: 2026-10-21T09:00:06.000Z
+source: "https://phys.org/news/2026-10-current-calcium-longstanding-ion-channel.html"
+sourceName: "Phys.org"
+summary: "Embedded within cell membranes, they identified ion channels with extraordinarily high conductance. These so-called \"BK\" (Big K, or Big Potassium) channels had roughly 10 times the unitary conductance (i.e., conductance per individual channel molecule) of other potassium channels, enabling much more efficient, rapid transport of potassium ions. Erik De Schutter, head of OIST's Computational Neuroscience Unit and an author of the study, comments, \"BK channels are widely present across different neurons and known to be essential in regulating cell firing, the process in which electrical signals (spikes) coordinate communication between brain cells. While many ion channels exist, BK channels are particularly interesting to neuroscientists because of their high conductance, a measure that indicates how easily ions can pass through the channel. Across the animal kingdom, BK channels show significantly higher unitary conductance than other types of potassium ion channels, sometimes 10–20 times as high."
+---
+
+Embedded within cell membranes, they identified ion channels with extraordinarily high conductance. These so-called "BK" (Big K, or Big Potassium) channels had roughly 10 times the unitary conductance (i.e., conductance per individual channel molecule) of other potassium channels, enabling much more efficient, rapid transport of potassium ions. Erik De Schutter, head of OIST's Computational Neuroscience Unit and an author of the study, comments, "BK channels are widely present across different neurons and known to be essential in regulating cell firing, the process in which electrical signals (spikes) coordinate communication between brain cells.
+
+While many ion channels exist, BK channels are particularly interesting to neuroscientists because of their high conductance, a measure that indicates how easily ions can pass through the channel. Across the animal kingdom, BK channels show significantly higher unitary conductance than other types of potassium ion channels, sometimes 10–20 times as high.

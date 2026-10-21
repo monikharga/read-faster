@@ -1,0 +1,12 @@
+---
+title: "Hackers Hid Vasilek Backdoor in VMware Tools During 2-Year Russian Healthcare Intrusion"
+description: "According to a report published by Russian cybersecurity firm Solar, the activity has been attributed to a threat cluster dubbed…"
+pubDate: 2026-10-21T06:05:15.000Z
+source: "https://thehackernews.com/2026/10/hackers-hid-vasilek-backdoor-in-vmware.html"
+sourceName: "The Hacker News"
+summary: "According to a report published by Russian cybersecurity firm Solar, the activity has been attributed to a threat cluster dubbed Partisan Zmiy, which is also known as the Cyber Partisans. Some of the attacks have also leveraged phishing lures to deliver an installer that simultaneously deploys the legitimate FortiClient VPN program on the system as well as an open-source program known as DNSCat2 that allows attackers to gain control of the infected host. \"We hypothesize that the lack of infrastructure disruption is due precisely to the value of this access for further espionage and trusted relationship attacks.\" Observed as part of the intrusion is a loader-scheduler service (\"vmauad\") that masquerades as a legitimate VMware component to maintain persistence and evade cursory inspection. To accomplish this, the attackers are said to have taken advantage of a trusted-but-unmonitored VMware Tools directory location to plant malicious executables or replace legitimate VMware DLLs with a malicious version (\"vmtools.dll\") containing the backdoor."
+---
+
+According to a report published by Russian cybersecurity firm Solar, the activity has been attributed to a threat cluster dubbed Partisan Zmiy, which is also known as the Cyber Partisans. Some of the attacks have also leveraged phishing lures to deliver an installer that simultaneously deploys the legitimate FortiClient VPN program on the system as well as an open-source program known as DNSCat2 that allows attackers to gain control of the infected host. "We hypothesize that the lack of infrastructure disruption is due precisely to the value of this access for further espionage and trusted relationship attacks." Observed as part of the intrusion is a loader-scheduler service ("vmauad") that masquerades as a legitimate VMware component to maintain persistence and evade cursory inspection.
+
+To accomplish this, the attackers are said to have taken advantage of a trusted-but-unmonitored VMware Tools directory location to plant malicious executables or replace legitimate VMware DLLs with a malicious version ("vmtools.dll") containing the backdoor.
