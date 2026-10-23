@@ -1,0 +1,12 @@
+---
+title: "In the biotech world, you can’t see everything"
+description: "Earlier this week, I attended a screening of You Can See Everything, the buzzy new documentary about the disgraced former…"
+pubDate: 2026-10-23T09:00:00.000Z
+source: "https://www.technologyreview.com/2026/10/23/1147610/biotech-you-can-see-everything-theranos-holmes/"
+sourceName: "MIT Tech Review"
+summary: "Earlier this week, I attended a screening of You Can See Everything, the buzzy new documentary about the disgraced former biotech CEO Elizabeth Holmes. I was wondering what new information this film could reveal, given how familiar many of us are with the Theranos story thanks to years of media coverage, the best-selling book Bad Blood, and the Hulu series The Dropout, starring Amanda Seyfried. The film reignited a concern I've had about covering science for most of my career: Despite our best efforts, we never can actually see everything. In case you're rusty on the details, Elizabeth Holmes dropped out of Stanford University in 2003 to run Theranos, a diagnostics company she founded, when she was just 19. Things started to unravel in 2015, when an investigation by the Wall Street Journal raised concerns by former Theranos employees that the tests didn't work. In 2018, Theranos, Holmes, and former company president Ramesh Balwani were charged with \"massive fraud.\" In 2022, she was sentenced to a little over 11 years in prison for defrauding investors."
+---
+
+Earlier this week, I attended a screening of You Can See Everything, the buzzy new documentary about the disgraced former biotech CEO Elizabeth Holmes. I was wondering what new information this film could reveal, given how familiar many of us are with the Theranos story thanks to years of media coverage, the best-selling book Bad Blood, and the Hulu series The Dropout, starring Amanda Seyfried. The film reignited a concern I've had about covering science for most of my career: Despite our best efforts, we never can actually see everything.
+
+In case you're rusty on the details, Elizabeth Holmes dropped out of Stanford University in 2003 to run Theranos, a diagnostics company she founded, when she was just 19. Things started to unravel in 2015, when an investigation by the Wall Street Journal raised concerns by former Theranos employees that the tests didn't work. In 2018, Theranos, Holmes, and former company president Ramesh Balwani were charged with "massive fraud." In 2022, she was sentenced to a little over 11 years in prison for defrauding investors.
