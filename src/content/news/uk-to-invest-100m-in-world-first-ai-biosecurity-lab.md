@@ -1,0 +1,12 @@
+---
+title: "UK to invest £100m in 'world first' AI Biosecurity Lab"
+description: "The chancellor will also pledge millions of pounds in spending across a range of initiatives aimed at shoring up the…"
+pubDate: 2026-10-24T00:05:45.000Z
+source: "https://www.bbc.co.uk/news/articles/cqdjv8xllvyyo?at_medium=RSS&at_campaign=rss"
+sourceName: "BBC Technology"
+summary: "The chancellor will also pledge millions of pounds in spending across a range of initiatives aimed at shoring up the UK's ability to respond to evolving cyber, biological and AI-enabled threats. \"One that doesn't leave workers behind and defends our national interest, while ensuring the benefits of AI-enabled growth are felt right across the country.\" The full details about the role and remit of the new lab are yet to emerge. \"By backing British science, advanced chips and our own AI companies, we can strengthen our national security, rebuild Britain's industrial strength and create good, skilled jobs across the country.\" The AI Biosecurity Lab's creation will also be supported by leading AI developers, with OpenAI and Anthropic providing £200m worth of AI model credits that can be spent on the use of their models. Don't leave AI to tech bros and oligarchs, UK's AI minister says The Chancellor's plans to boost AI spending will also see an additional £120m committed to the UK's AI Security Institute (AISI)."
+---
+
+The chancellor will also pledge millions of pounds in spending across a range of initiatives aimed at shoring up the UK's ability to respond to evolving cyber, biological and AI-enabled threats. "One that doesn't leave workers behind and defends our national interest, while ensuring the benefits of AI-enabled growth are felt right across the country." The full details about the role and remit of the new lab are yet to emerge. "By backing British science, advanced chips and our own AI companies, we can strengthen our national security, rebuild Britain's industrial strength and create good, skilled jobs across the country." The AI Biosecurity Lab's creation will also be supported by leading AI developers, with OpenAI and Anthropic providing £200m worth of AI model credits that can be spent on the use of their models.
+
+Don't leave AI to tech bros and oligarchs, UK's AI minister says The Chancellor's plans to boost AI spending will also see an additional £120m committed to the UK's AI Security Institute (AISI).
