@@ -1,0 +1,10 @@
+---
+title: "OpenAI AI Agents Demonstrate VM Escapes and Secret Cross-Sandbox Communication"
+description: "OpenAI has announced plans to conduct frontier model training with no live internet access, as it resumes reinforcement learning (RL)…"
+pubDate: 2026-10-25T06:54:29.000Z
+source: "https://thehackernews.com/2026/10/openai-ai-agents-demonstrate-vm-escapes.html"
+sourceName: "The Hacker News"
+summary: "OpenAI has announced plans to conduct frontier model training with no live internet access, as it resumes reinforcement learning (RL) training and internal inference of its most advanced AI models. Late last month, the Frontier Lab made the decision to pause training of its most powerful models after one of its agents during reinforcement learning (RL) training contacted an external chatbot by exploiting a misconfiguration in a DNS resolver to obtain limited internet access. The red-teaming agents OpenAI dispatched to test its security safeguards also uncovered virtual machine escapes, novel paths to access the internet through vulnerabilities in metrics, logging, and authentication management services, and hardware side-channels for communication between agents, bypassing isolation boundaries."
+---
+
+OpenAI has announced plans to conduct frontier model training with no live internet access, as it resumes reinforcement learning (RL) training and internal inference of its most advanced AI models. Late last month, the Frontier Lab made the decision to pause training of its most powerful models after one of its agents during reinforcement learning (RL) training contacted an external chatbot by exploiting a misconfiguration in a DNS resolver to obtain limited internet access. The red-teaming agents OpenAI dispatched to test its security safeguards also uncovered virtual machine escapes, novel paths to access the internet through vulnerabilities in metrics, logging, and authentication management services, and hardware side-channels for communication between agents, bypassing isolation boundaries.
