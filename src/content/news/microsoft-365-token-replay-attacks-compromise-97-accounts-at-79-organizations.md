@@ -1,0 +1,12 @@
+---
+title: "Microsoft 365 Token-Replay Attacks Compromise 97 Accounts at 79 Organizations"
+description: "Cybersecurity researchers have disclosed a Microsoft 365 campaign that has been observed leveraging an adversary-in-the-middle (AitM) relay to capture sign-in…"
+pubDate: 2026-10-26T08:35:51.000Z
+source: "https://thehackernews.com/2026/10/microsoft-365-token-replay-attacks.html"
+sourceName: "The Hacker News"
+summary: "Cybersecurity researchers have disclosed a Microsoft 365 campaign that has been observed leveraging an adversary-in-the-middle (AitM) relay to capture sign-in sessions and then replay the stolen tokens to break into email accounts at 79 organizations. Huntress, which observed the activity between July 14 and September 22, 2026, said it detected 497 successful Microsoft 365 sign-in events across the victim organizations from over 200,000 login attempts, with the attackers ultimately compromising 97 accounts and registering 48 rogue Entra devices. \"Rather than guessing passwords, the attacker replayed sign-in tokens stolen from victims, and we've traced more than 200,000 failed login attempts from the campaign window back to the 193.26.115[.]0/24 IP range,\" Huntress researchers Andrea Hatcher, Susannah Matt, Matt Poto, and Andrew Schwartz said. The \"proof of login\" token is subsequently replayed by the attacker from their own devices within minutes to conduct automated sign-in attempts against Microsoft 365 services."
+---
+
+Cybersecurity researchers have disclosed a Microsoft 365 campaign that has been observed leveraging an adversary-in-the-middle (AitM) relay to capture sign-in sessions and then replay the stolen tokens to break into email accounts at 79 organizations. Huntress, which observed the activity between July 14 and September 22, 2026, said it detected 497 successful Microsoft 365 sign-in events across the victim organizations from over 200,000 login attempts, with the attackers ultimately compromising 97 accounts and registering 48 rogue Entra devices. "Rather than guessing passwords, the attacker replayed sign-in tokens stolen from victims, and we've traced more than 200,000 failed login attempts from the campaign window back to the 193.26.115[.]0/24 IP range," Huntress researchers Andrea Hatcher, Susannah Matt, Matt Poto, and Andrew Schwartz said.
+
+The "proof of login" token is subsequently replayed by the attacker from their own devices within minutes to conduct automated sign-in attempts against Microsoft 365 services.
