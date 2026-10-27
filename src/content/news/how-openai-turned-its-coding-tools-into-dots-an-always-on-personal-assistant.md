@@ -1,0 +1,10 @@
+---
+title: "How OpenAI turned its coding tools into dots, an always-on personal assistant"
+description: "The always-on AI personal assistant, which keeps working in the background even when you aren't asking it to, is this…"
+pubDate: 2026-10-27T02:00:00.000Z
+source: "https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/"
+sourceName: "TechCrunch"
+summary: "The always-on AI personal assistant, which keeps working in the background even when you aren't asking it to, is this year's answer to the question of how people will actually use deep learning models. Alexander Embiricos, who leads OpenAI's enterprise product team, joined us at TechCrunch Disrupt this month to explain where the product came from—starting with the question of why so many companies seem to be turning to cutesy mascots as avatars for their trillion-parameter matrix multiplication machines. \"As we were working on the product, we realized if we could frame this as, it's an entity and it's a single conversation, not many different conversations….it starts to become intuitive.\" The assistant is available in the ChatGPT desktop and mobile apps to subscribers on the Pro tier or higher, with plans starting at $100 a month."
+---
+
+The always-on AI personal assistant, which keeps working in the background even when you aren't asking it to, is this year's answer to the question of how people will actually use deep learning models. Alexander Embiricos, who leads OpenAI's enterprise product team, joined us at TechCrunch Disrupt this month to explain where the product came from—starting with the question of why so many companies seem to be turning to cutesy mascots as avatars for their trillion-parameter matrix multiplication machines. "As we were working on the product, we realized if we could frame this as, it's an entity and it's a single conversation, not many different conversations….it starts to become intuitive." The assistant is available in the ChatGPT desktop and mobile apps to subscribers on the Pro tier or higher, with plans starting at $100 a month.
