@@ -1,0 +1,12 @@
+---
+title: "Tailscale Patches SSH Flaws That Could Let Hacked Devices Gain Root Access on Other Servers"
+description: "Tailscale has released version 1.104.4 to fix flaws in its built-in SSH server that could let an attacker reach services…"
+pubDate: 2026-10-28T06:20:37.000Z
+source: "https://thehackernews.com/2026/10/tailscale-patches-ssh-flaws-that-could.html"
+sourceName: "The Hacker News"
+summary: "Tailscale has released version 1.104.4 to fix flaws in its built-in SSH server that could let an attacker reach services and files on other servers that only the root user should be able to touch. The flaws are in how Tailscale SSH forwards network connections, a job the Tailscale background process carries out with root privileges. Tailscale SSH decides who can connect using a device's identity and the network's policy file, not a password or key, so an attacker does not need stolen credentials, only a foothold on a device the policy already trusts. The flaws \"don't allow an unauthenticated attacker to connect to arbitrary Tailscale SSH servers,\" Tailscale said, and an attacker can still reach only the machines the policy file already allows. If you cannot update a server yet, you can turn off SSH forwarding on it by setting TS_SSH_DISABLE_FORWARDING=1 in the tailscaled service environment and restarting the service, which Tailscale says turns off forwarding without disabling Tailscale SSH and blocks several of the more serious findings."
+---
+
+Tailscale has released version 1.104.4 to fix flaws in its built-in SSH server that could let an attacker reach services and files on other servers that only the root user should be able to touch. The flaws are in how Tailscale SSH forwards network connections, a job the Tailscale background process carries out with root privileges. Tailscale SSH decides who can connect using a device's identity and the network's policy file, not a password or key, so an attacker does not need stolen credentials, only a foothold on a device the policy already trusts.
+
+The flaws "don't allow an unauthenticated attacker to connect to arbitrary Tailscale SSH servers," Tailscale said, and an attacker can still reach only the machines the policy file already allows. If you cannot update a server yet, you can turn off SSH forwarding on it by setting TS_SSH_DISABLE_FORWARDING=1 in the tailscaled service environment and restarting the service, which Tailscale says turns off forwarding without disabling Tailscale SSH and blocks several of the more serious findings.

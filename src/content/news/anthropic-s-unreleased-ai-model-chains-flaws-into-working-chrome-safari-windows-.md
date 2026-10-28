@@ -1,0 +1,12 @@
+---
+title: "Anthropic's Unreleased AI Model Chains Flaws Into Working Chrome, Safari, Windows and Linux Exploits"
+description: "An unreleased Anthropic AI model found security flaws in Chrome, Safari, Android, Windows, and Linux and chained them into working…"
+pubDate: 2026-10-28T08:15:07.000Z
+source: "https://thehackernews.com/2026/10/anthropics-unreleased-ai-model-chains.html"
+sourceName: "The Hacker News"
+summary: "An unreleased Anthropic AI model found security flaws in Chrome, Safari, Android, Windows, and Linux and chained them into working proof-of-concept exploits, the company said in its latest report. The exploits were built in the lab after the model was prompted, not seen in any real attack, and Anthropic reported every flaw to the vendor first, so all of them are already patched. The strongest claim is not any single bug, but that one model found several separate flaws and combined them into a working exploit, something the company says has until now been the work of a few specialist teams. Anthropic says the work needed only \"initial prompting\" and \"little human involvement,\" but it does not break down what a person did at each step, and it does not name the model beyond calling it an unreleased, internal research model. In the Chrome chain, the model used four separate flaws in turn. Anthropic says it reported 62 flaws to Google that were assigned CVEs and fixed as of Chrome 156, all rated critical or high, including 13 sandbox escapes."
+---
+
+An unreleased Anthropic AI model found security flaws in Chrome, Safari, Android, Windows, and Linux and chained them into working proof-of-concept exploits, the company said in its latest report. The exploits were built in the lab after the model was prompted, not seen in any real attack, and Anthropic reported every flaw to the vendor first, so all of them are already patched. The strongest claim is not any single bug, but that one model found several separate flaws and combined them into a working exploit, something the company says has until now been the work of a few specialist teams.
+
+Anthropic says the work needed only "initial prompting" and "little human involvement," but it does not break down what a person did at each step, and it does not name the model beyond calling it an unreleased, internal research model. In the Chrome chain, the model used four separate flaws in turn. Anthropic says it reported 62 flaws to Google that were assigned CVEs and fixed as of Chrome 156, all rated critical or high, including 13 sandbox escapes.

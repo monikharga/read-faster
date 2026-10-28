@@ -1,0 +1,12 @@
+---
+title: "FBI Seizes Virtualine Domain Over Alleged Criminal Hosting and Bitcoin Money Laundering"
+description: "The move was in response to the service being used to commit and facilitate prolific criminal activity, including \"the advertisement…"
+pubDate: 2026-10-28T07:37:50.000Z
+source: "https://thehackernews.com/2026/10/fbi-seizes-virtualine-domain-over.html"
+sourceName: "The Hacker News"
+summary: "The move was in response to the service being used to commit and facilitate prolific criminal activity, including \"the advertisement of sexually explicit images of minors, the intentional disclosure of nonconsensual intimate visual depictions of adults and minors, and international money laundering designed to conceal and promote criminal conduct,\" the DoJ said. Virtualine also offered plans optimized by CPU, memory, and storage, starting from $21.99 per month to $379.99 per month. \"Vendor 1 is a criminal online forum that allows users to post and sell access to nude, sexually suggestive, and/or sexually explicit images and videos of minors and adults.\" \"Vendor 1 also promotes a hack-for-hire service in which users can pay hackers to access victims' online accounts without their consent and illicitly obtain explicit images and videos. In January 2026, about one month after Virtualine assigned an IP address to Vendor 1, Virtualine began receiving notifications about sexually explicit images and videos of minors on that server.\""
+---
+
+The move was in response to the service being used to commit and facilitate prolific criminal activity, including "the advertisement of sexually explicit images of minors, the intentional disclosure of nonconsensual intimate visual depictions of adults and minors, and international money laundering designed to conceal and promote criminal conduct," the DoJ said. Virtualine also offered plans optimized by CPU, memory, and storage, starting from $21.99 per month to $379.99 per month. "Vendor 1 is a criminal online forum that allows users to post and sell access to nude, sexually suggestive, and/or sexually explicit images and videos of minors and adults." "Vendor 1 also promotes a hack-for-hire service in which users can pay hackers to access victims' online accounts without their consent and illicitly obtain explicit images and videos.
+
+In January 2026, about one month after Virtualine assigned an IP address to Vendor 1, Virtualine began receiving notifications about sexually explicit images and videos of minors on that server."
