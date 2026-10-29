@@ -1,0 +1,12 @@
+---
+title: "AI has come for Arizona’s water"
+description: "In the desert, nothing is more precious than water, and water is what must be given — nearly 5 million…"
+pubDate: 2026-10-29T10:00:04.000Z
+source: "https://www.theverge.com/cs/features/1016650/arizona-water-data-center-tsmc"
+sourceName: "The Verge"
+summary: "In the desert, nothing is more precious than water, and water is what must be given — nearly 5 million gallons a day, every day, sourced from Phoenix's municipal supply. Its Arizona operation is the result of a pre-pandemic gamble Phoenix made to revive its sluggish economy, which never quite rebounded from the Great Recession. TSMC is a success story, one that some local leaders may have hoped to repeat with hyperscale data center developments. The progression may have seemed natural: The Grand Canyon State is not only home to the largest chip factory this side of the Pacific but also 172 data centers, neither of which faced much pushback. But the newer, larger developments being proposed from Phoenix to Tucson demand more of everything — more water, more power, more land — than Arizonans are willing to give. Where TSMC was welcomed with open arms and the first wave of data centers was largely ignored, new developments are facing mass backlash in Arizona, where a grassroots, surprisingly bipartisan coalition of residents has united against data centers."
+---
+
+In the desert, nothing is more precious than water, and water is what must be given — nearly 5 million gallons a day, every day, sourced from Phoenix's municipal supply. Its Arizona operation is the result of a pre-pandemic gamble Phoenix made to revive its sluggish economy, which never quite rebounded from the Great Recession. TSMC is a success story, one that some local leaders may have hoped to repeat with hyperscale data center developments.
+
+The progression may have seemed natural: The Grand Canyon State is not only home to the largest chip factory this side of the Pacific but also 172 data centers, neither of which faced much pushback. But the newer, larger developments being proposed from Phoenix to Tucson demand more of everything — more water, more power, more land — than Arizonans are willing to give. Where TSMC was welcomed with open arms and the first wave of data centers was largely ignored, new developments are facing mass backlash in Arizona, where a grassroots, surprisingly bipartisan coalition of residents has united against data centers.
