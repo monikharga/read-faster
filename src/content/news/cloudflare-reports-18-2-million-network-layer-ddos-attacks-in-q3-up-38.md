@@ -1,0 +1,12 @@
+---
+title: "Cloudflare Reports 18.2 Million Network-Layer DDoS Attacks in Q3, Up 38%"
+description: "Threat actors are launching about 8,226 network-layer distributed denial-of-service (DDoS) attacks per hour, Cloudflare revealed Thursday."
+pubDate: 2026-10-31T04:56:12.000Z
+source: "https://thehackernews.com/2026/10/cloudflare-reports-182-million-network.html"
+sourceName: "The Hacker News"
+summary: "Threat actors are launching about 8,226 network-layer distributed denial-of-service (DDoS) attacks per hour, Cloudflare revealed Thursday. The web infrastructure and security company said it autonomously mitigated 18.2 million network-layer (L3) DDoS attacks and 14.4 trillion HTTP DDoS requests in the third quarter of 2026. \"Short-burst, low-bandwidth attacks lasting under 10 minutes and 1 Gbps surged by 208%,\" the Cloudforce One threat intelligence team said in its quarterly DDoS Threat Report shared with The Hacker News. An interesting trend is the decline of hyper-volumetric attacks exceeding 1 Tbps by 69% from the previous quarter – going from 805 attacks in Q2 to 251 in Q3 – likely as a result of law enforcement actions against AISURU, KimWolf, JackSkid, and Mossad earlier this March. Another notable shift is the decline in Connectionless Lightweight Directory Access Protocol (CLDAP) floods, while DNS amplification jumped 215% to account for 3.43% of all network-layer attacks."
+---
+
+Threat actors are launching about 8,226 network-layer distributed denial-of-service (DDoS) attacks per hour, Cloudflare revealed Thursday. The web infrastructure and security company said it autonomously mitigated 18.2 million network-layer (L3) DDoS attacks and 14.4 trillion HTTP DDoS requests in the third quarter of 2026. "Short-burst, low-bandwidth attacks lasting under 10 minutes and 1 Gbps surged by 208%," the Cloudforce One threat intelligence team said in its quarterly DDoS Threat Report shared with The Hacker News.
+
+An interesting trend is the decline of hyper-volumetric attacks exceeding 1 Tbps by 69% from the previous quarter – going from 805 attacks in Q2 to 251 in Q3 – likely as a result of law enforcement actions against AISURU, KimWolf, JackSkid, and Mossad earlier this March. Another notable shift is the decline in Connectionless Lightweight Directory Access Protocol (CLDAP) floods, while DNS amplification jumped 215% to account for 3.43% of all network-layer attacks.
