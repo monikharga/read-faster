@@ -1,0 +1,12 @@
+---
+title: "Government Linux Servers Targeted With SysGoRAT and Suspected AI-Generated Scripts"
+description: "\"The attackers behind this cluster of activity focused on Linux environments to conduct extensive reconnaissance and maintain persistent network access…"
+pubDate: 2026-11-02T10:49:59.000Z
+source: "https://thehackernews.com/2026/11/government-linux-servers-targeted-with.html"
+sourceName: "The Hacker News"
+summary: "\"The attackers behind this cluster of activity focused on Linux environments to conduct extensive reconnaissance and maintain persistent network access to support intelligence-gathering,\" researchers Roey Porat and Tom Fakterman said. \"The attackers attempted to dump sensitive databases and exfiltrate government mailboxes to access social media accounts.\" The campaign employs a \"versatile operational playbook,\" leveraging a combination of open-source tools, custom cross-platform backdoors, and web shells to maintain access. The threat actor has also been observed using malicious PHP and shell scripts, likely generated using AI, to maintain persistence, perform reconnaissance, and exfiltrate data. The access is then abused to gather credentials from the targeted environment using three different methods - Also deployed as part of the attacks is a custom, multi-platform remote access trojan written in Go that supports various persistence methods to maintain long-term access on Windows and Linux systems."
+---
+
+"The attackers behind this cluster of activity focused on Linux environments to conduct extensive reconnaissance and maintain persistent network access to support intelligence-gathering," researchers Roey Porat and Tom Fakterman said. "The attackers attempted to dump sensitive databases and exfiltrate government mailboxes to access social media accounts." The campaign employs a "versatile operational playbook," leveraging a combination of open-source tools, custom cross-platform backdoors, and web shells to maintain access. The threat actor has also been observed using malicious PHP and shell scripts, likely generated using AI, to maintain persistence, perform reconnaissance, and exfiltrate data.
+
+The access is then abused to gather credentials from the targeted environment using three different methods - Also deployed as part of the attacks is a custom, multi-platform remote access trojan written in Go that supports various persistence methods to maintain long-term access on Windows and Linux systems.

@@ -1,0 +1,12 @@
+---
+title: "AI can make tech CEOs’ lives easier. What about everyone else?"
+description: "Dazzle AI CEO Marissa Mayer recently became the latest tech CEO to face criticism over seemingly out-of-touch comments extolling the…"
+pubDate: 2026-11-01T20:57:58.000Z
+source: "https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/"
+sourceName: "TechCrunch"
+summary: "Dazzle AI CEO Marissa Mayer recently became the latest tech CEO to face criticism over seemingly out-of-touch comments extolling the usefulness of AI. For OpenAI CEO Sam Altman, that's included suggesting that parents create personalized podcasts for their kids' drive to school and also declaring that he could not imagine parenting without ChatGPT. This all led TechCrunch's Amanda Silberling to wonder if AI executives are simply too out-of-touch to build products for normal people — a crucial question with Anthropic set to go public just as Wall Street begins losing its appetite for heavy AI spending. Amanda's answer: \"A little bit of both.\" She also argued that the tech industry is increasingly pushing a future \"where basic human interaction gets more and more optimized out of actually occurring,\" adding, \"And call me old school, but I think that humans being able to talk to each other is probably a net positive for society.\" Keep reading for a preview of our conversation, edited for length and clarity."
+---
+
+Dazzle AI CEO Marissa Mayer recently became the latest tech CEO to face criticism over seemingly out-of-touch comments extolling the usefulness of AI. For OpenAI CEO Sam Altman, that's included suggesting that parents create personalized podcasts for their kids' drive to school and also declaring that he could not imagine parenting without ChatGPT. This all led TechCrunch's Amanda Silberling to wonder if AI executives are simply too out-of-touch to build products for normal people — a crucial question with Anthropic set to go public just as Wall Street begins losing its appetite for heavy AI spending.
+
+Amanda's answer: "A little bit of both." She also argued that the tech industry is increasingly pushing a future "where basic human interaction gets more and more optimized out of actually occurring," adding, "And call me old school, but I think that humans being able to talk to each other is probably a net positive for society." Keep reading for a preview of our conversation, edited for length and clarity.
