@@ -1,0 +1,12 @@
+---
+title: "I tested the RedMagic 12 Pro – and it’s the fastest Android I’ve ever seen"
+description: "Tech > Services & Software > Operating Systems > Mobile OS > Android If it's possible to release a flagship…"
+pubDate: 2026-11-03T12:00:00.000Z
+source: "https://www.zdnet.com/tech/the-redmagic-12-pro-is-an-elite-phone-with-one-glaring-issue/"
+sourceName: "ZDNet"
+summary: "Tech > Services & Software > Operating Systems > Mobile OS > Android If it's possible to release a flagship phone while at the same time making it appear more like a midrange phone, Red Magic has found a way. RedMagic just announced the international launch of the RedMagic 12 Pro — its latest flagship phone. Also: I've been a Google Pixel fan for years, but this $500 Android phone is giving me pause RedMagic's phones are high-performance devices known to do one thing especially well: mobile gaming. It houses a Qualcomm Snapdragon 8 Elite Gen 6 CPU with up to 5.01 GHz, which is paired with the RedMagic R5 Gaming Chipset, and I can honestly say it's the fastest Android phone I've ever tested. As for the latest iPhone, according to Geekbench, the iPhone 18 Pro Max comes out ahead in single-core performance, but it just barely falls behind in multi-core performance. Real-world usage confirms these numbers, because the phone reacts faster and behaves more smoothly than any Android device I've owned or tested."
+---
+
+Tech > Services & Software > Operating Systems > Mobile OS > Android If it's possible to release a flagship phone while at the same time making it appear more like a midrange phone, Red Magic has found a way. RedMagic just announced the international launch of the RedMagic 12 Pro — its latest flagship phone. Also: I've been a Google Pixel fan for years, but this $500 Android phone is giving me pause RedMagic's phones are high-performance devices known to do one thing especially well: mobile gaming.
+
+It houses a Qualcomm Snapdragon 8 Elite Gen 6 CPU with up to 5.01 GHz, which is paired with the RedMagic R5 Gaming Chipset, and I can honestly say it's the fastest Android phone I've ever tested. As for the latest iPhone, according to Geekbench, the iPhone 18 Pro Max comes out ahead in single-core performance, but it just barely falls behind in multi-core performance. Real-world usage confirms these numbers, because the phone reacts faster and behaves more smoothly than any Android device I've owned or tested.

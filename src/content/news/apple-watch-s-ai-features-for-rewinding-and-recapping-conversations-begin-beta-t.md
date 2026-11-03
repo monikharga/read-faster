@@ -1,0 +1,12 @@
+---
+title: "Apple Watch’s AI features for rewinding and recapping conversations begin beta testing"
+description: "The technology includes a set of four opt-in AI features that allow Apple Watch Series 12 wearers to detect important…"
+pubDate: 2026-11-03T07:20:00.000Z
+source: "https://techcrunch.com/2026/11/02/apple-watchs-ai-features-for-rewinding-and-recapping-conversations-begin-beta-testing/"
+sourceName: "TechCrunch"
+summary: "The technology includes a set of four opt-in AI features that allow Apple Watch Series 12 wearers to detect important sounds, identify songs, catch up on conversations, and take notes. The sound recognition feature will help deaf and hard-of-hearing users identify important sounds like sirens, alarms, or doorbells from their watch, while the song recognition feature taps into Apple's Shazam app to detect music playing in the background and identify the song name and artist. Given the backlash to AI recording devices, like Meta's AI glasses and other AI wearables, Apple has attempted to carve out a space where the features can be useful to Apple Watch owners, while still respecting the privacy of those around them. Apple says that users will also be able to tap an \"Ask Siri\" option that appears below the text snippet if they have questions about something that was said — like a technical term they don't understand, or perhaps some sauce option the waiter mentioned that they're unfamiliar with, among other things."
+---
+
+The technology includes a set of four opt-in AI features that allow Apple Watch Series 12 wearers to detect important sounds, identify songs, catch up on conversations, and take notes. The sound recognition feature will help deaf and hard-of-hearing users identify important sounds like sirens, alarms, or doorbells from their watch, while the song recognition feature taps into Apple's Shazam app to detect music playing in the background and identify the song name and artist. Given the backlash to AI recording devices, like Meta's AI glasses and other AI wearables, Apple has attempted to carve out a space where the features can be useful to Apple Watch owners, while still respecting the privacy of those around them.
+
+Apple says that users will also be able to tap an "Ask Siri" option that appears below the text snippet if they have questions about something that was said — like a technical term they don't understand, or perhaps some sauce option the waiter mentioned that they're unfamiliar with, among other things.
