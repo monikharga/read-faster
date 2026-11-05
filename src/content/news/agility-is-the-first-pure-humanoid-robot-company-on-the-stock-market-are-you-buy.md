@@ -1,0 +1,12 @@
+---
+title: "Agility is the first pure humanoid robot company on the stock market. Are you buying?"
+description: "Almost a year ago to the day, Figure AI CEO Colby Adcock responded to some gentle social media taunting from…"
+pubDate: 2026-11-05T12:00:00.000Z
+source: "https://techcrunch.com/2026/11/05/agility-is-the-first-pure-humanoid-robot-company-on-the-stock-market-are-you-buying/"
+sourceName: "TechCrunch"
+summary: "Almost a year ago to the day, Figure AI CEO Colby Adcock responded to some gentle social media taunting from rival robotics company Agility with a prediction: \"You'll be bankrupt in <12 months.\" Instead, Agility is going public through a reverse-merger that will see it become a publicly-traded company and raise $465 million in new capital from retail investors and a tranche of private funding. \"You don't see a lot of dancing robots or backflipping robots from Agility,\" CEO Peggy Johnson told TechCrunch ahead of the company's market debut. The company has focused on deploying a handful of its Digit robots in industrial settings with nine different customers, including Schaeffler, GXO, Toyota Motor Manufacturing Canada, and Mercado Libre. Compared to humanoid robots built by Figure, Tesla, 1X, or Boston Dynamics, Agility's Digit can seem plodding, but the robot is actually doing real work, and earning money — albeit just $174,000 in the first six months of 2026, and mostly from related parties."
+---
+
+Almost a year ago to the day, Figure AI CEO Colby Adcock responded to some gentle social media taunting from rival robotics company Agility with a prediction: "You'll be bankrupt in <12 months." Instead, Agility is going public through a reverse-merger that will see it become a publicly-traded company and raise $465 million in new capital from retail investors and a tranche of private funding. "You don't see a lot of dancing robots or backflipping robots from Agility," CEO Peggy Johnson told TechCrunch ahead of the company's market debut. The company has focused on deploying a handful of its Digit robots in industrial settings with nine different customers, including Schaeffler, GXO, Toyota Motor Manufacturing Canada, and Mercado Libre.
+
+Compared to humanoid robots built by Figure, Tesla, 1X, or Boston Dynamics, Agility's Digit can seem plodding, but the robot is actually doing real work, and earning money — albeit just $174,000 in the first six months of 2026, and mostly from related parties.
