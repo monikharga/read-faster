@@ -1,0 +1,12 @@
+---
+title: "Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M"
+description: "Palo Alto Networks is in talks to acquire Clutch Security, a startup that secures AI agents' access to company systems,…"
+pubDate: 2026-11-06T06:28:32.000Z
+source: "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/"
+sourceName: "TechCrunch"
+summary: "Palo Alto Networks is in talks to acquire Clutch Security, a startup that secures AI agents' access to company systems, for $500 million in cash plus additional milestone-based payouts, according to a person familiar with the discussions. Three-year-old Clutch was last valued at $85 million when it raised a $20 million Series A round in January 2025, led by Lightspeed and SignalFire, according to our source. Upwind, a startup using AI to secure cloud infrastructure, recently turned down an acquisition offer from DataDog that valued it at roughly 40 times ARR, TechCrunch reported last week. In September, Palo Alto Networks acquired Console, a two-year-old startup that uses AI agents to automate routine IT help desk tasks. Other VC-backed companies that Palo Alto Networks has scooped up this year include NEA-backed Embrace, for $325 million; Chronosphere, an observability platform backed by Greylock and Lux Capital, for $2.95 billion; and Koi, a cyber startup backed by Battery and Team8, for $231 million, according to regulatory filings."
+---
+
+Palo Alto Networks is in talks to acquire Clutch Security, a startup that secures AI agents' access to company systems, for $500 million in cash plus additional milestone-based payouts, according to a person familiar with the discussions. Three-year-old Clutch was last valued at $85 million when it raised a $20 million Series A round in January 2025, led by Lightspeed and SignalFire, according to our source. Upwind, a startup using AI to secure cloud infrastructure, recently turned down an acquisition offer from DataDog that valued it at roughly 40 times ARR, TechCrunch reported last week.
+
+In September, Palo Alto Networks acquired Console, a two-year-old startup that uses AI agents to automate routine IT help desk tasks. Other VC-backed companies that Palo Alto Networks has scooped up this year include NEA-backed Embrace, for $325 million; Chronosphere, an observability platform backed by Greylock and Lux Capital, for $2.95 billion; and Koi, a cyber startup backed by Battery and Team8, for $231 million, according to regulatory filings.
