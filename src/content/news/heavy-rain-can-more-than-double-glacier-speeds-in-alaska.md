@@ -1,0 +1,12 @@
+---
+title: "Heavy rain can more than double glacier speeds in Alaska"
+description: "Such events can have dramatic effects on the environment, acting like a bulldozer to erode valleys, shattering the glacier's surface…"
+pubDate: 2026-11-07T15:40:05.000Z
+source: "https://phys.org/news/2026-11-heavy-glacier-alaska.html"
+sourceName: "Phys.org"
+summary: "Such events can have dramatic effects on the environment, acting like a bulldozer to erode valleys, shattering the glacier's surface into crevasses, blocking side valleys to create ice dams with temporary lakes behind, or causing catastrophic flooding when these ice dams burst. Using GPS measurements from instruments installed around the glacier, the researchers recorded its position every 15 seconds to monitor speed changes in the short term compared to the glacier's longer-term movement. Comparing a period of surge (2020–2021) to slow flow (2022–2024), the team found that over half of the rainfall events caused speed-ups, with the maximum reaching 7.5 meters (24.6 feet) in a single day—that's equivalent to a 116% increase in speed, or more than double. However, while rain-induced speed-ups were less frequent during quiescence, when they did occur, they required 60 mm (2.4 inches) of rain since the start of the event and resulted in a much bigger percentage increase (251%) in speed, peaking on average 32 hours later."
+---
+
+Such events can have dramatic effects on the environment, acting like a bulldozer to erode valleys, shattering the glacier's surface into crevasses, blocking side valleys to create ice dams with temporary lakes behind, or causing catastrophic flooding when these ice dams burst. Using GPS measurements from instruments installed around the glacier, the researchers recorded its position every 15 seconds to monitor speed changes in the short term compared to the glacier's longer-term movement. Comparing a period of surge (2020–2021) to slow flow (2022–2024), the team found that over half of the rainfall events caused speed-ups, with the maximum reaching 7.5 meters (24.6 feet) in a single day—that's equivalent to a 116% increase in speed, or more than double.
+
+However, while rain-induced speed-ups were less frequent during quiescence, when they did occur, they required 60 mm (2.4 inches) of rain since the start of the event and resulted in a much bigger percentage increase (251%) in speed, peaking on average 32 hours later.

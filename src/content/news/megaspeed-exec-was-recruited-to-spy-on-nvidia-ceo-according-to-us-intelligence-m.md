@@ -1,0 +1,12 @@
+---
+title: "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo"
+description: "Buy One Founder Summit Ticket, Get a Second for Free."
+pubDate: 2026-11-07T21:17:08.000Z
+source: "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/"
+sourceName: "TechCrunch"
+summary: "Buy One Founder Summit Ticket, Get a Second for Free. A memo circulated earlier this year claimed that technology executive Alice Huang was recruited by China's Ministry of State Security to spy on Nvidia CEO Jensen Huang, according to multiple media reports. The Financial Times subsequently reported that the memo also claimed Jensen Huang had a romantic relationship with Alice Huang, an executive at a Singapore-based company called Megaspeed. An Nvidia spokesperson told the NYT that Jensen Huang's interactions with Alice Huang were \"not unusual,\" and that the company does not share classified information with its customers. The Nvidia spokesperson said the company sells \"the first, best and most of our technology in America.\" Buy One Pass, Get a Second Free Cover more ground at TechCrunch's ultimate founder bootcamp of the year by bringing your co-founder or partner for free Book before the BOGO deal expires Subscribe for the industry's biggest tech news Every weekday and Sunday, you can get the best of TechCrunch's coverage."
+---
+
+Buy One Founder Summit Ticket, Get a Second for Free. A memo circulated earlier this year claimed that technology executive Alice Huang was recruited by China's Ministry of State Security to spy on Nvidia CEO Jensen Huang, according to multiple media reports. The Financial Times subsequently reported that the memo also claimed Jensen Huang had a romantic relationship with Alice Huang, an executive at a Singapore-based company called Megaspeed.
+
+An Nvidia spokesperson told the NYT that Jensen Huang's interactions with Alice Huang were "not unusual," and that the company does not share classified information with its customers. The Nvidia spokesperson said the company sells "the first, best and most of our technology in America." Buy One Pass, Get a Second Free Cover more ground at TechCrunch's ultimate founder bootcamp of the year by bringing your co-founder or partner for free Book before the BOGO deal expires Subscribe for the industry's biggest tech news Every weekday and Sunday, you can get the best of TechCrunch's coverage.

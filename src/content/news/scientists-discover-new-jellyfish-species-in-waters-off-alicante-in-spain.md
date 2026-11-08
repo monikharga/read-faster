@@ -1,0 +1,12 @@
+---
+title: "Scientists discover new jellyfish species in waters off Alicante in Spain"
+description: "Discovered off El Campello, in Alicante, it was formally described in 2024 by a research team at the University of…"
+pubDate: 2026-11-07T16:00:01.000Z
+source: "https://phys.org/news/2026-11-scientists-jellyfish-species-alicante-spain.html"
+sourceName: "Phys.org"
+summary: "Discovered off El Campello, in Alicante, it was formally described in 2024 by a research team at the University of Alicante (UA) Marine Laboratory in Dénia, which forms part of the university's Ramón Margalef Multidisciplinary Institute for Environmental Research. The finding makes Copula lucentia only the second box jellyfish species documented in the Mediterranean, following Carybdea marsupialis, described by Linnaeus in 1758. The scientific name, Copula lucentia, refers to Lucentum, the Latin name for Alicante. To date, the species has been recorded only off El Campello, which makes this stretch of the Alicante coastline a key site for further research. \"Finding a new species in the Mediterranean, where everything is so heavily studied, is very important,\" said Fonfría, who stressed the need to continue studying these organisms in order to understand their distribution and ecological role in marine ecosystems. Copula lucentia belongs to the box jellyfish group (Cubozoa), so called because of its cube-shaped bell."
+---
+
+Discovered off El Campello, in Alicante, it was formally described in 2024 by a research team at the University of Alicante (UA) Marine Laboratory in Dénia, which forms part of the university's Ramón Margalef Multidisciplinary Institute for Environmental Research. The finding makes Copula lucentia only the second box jellyfish species documented in the Mediterranean, following Carybdea marsupialis, described by Linnaeus in 1758. The scientific name, Copula lucentia, refers to Lucentum, the Latin name for Alicante.
+
+To date, the species has been recorded only off El Campello, which makes this stretch of the Alicante coastline a key site for further research. "Finding a new species in the Mediterranean, where everything is so heavily studied, is very important," said Fonfría, who stressed the need to continue studying these organisms in order to understand their distribution and ecological role in marine ecosystems. Copula lucentia belongs to the box jellyfish group (Cubozoa), so called because of its cube-shaped bell.
