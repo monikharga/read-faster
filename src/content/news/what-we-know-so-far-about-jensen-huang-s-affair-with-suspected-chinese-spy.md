@@ -1,0 +1,12 @@
+---
+title: "What we know so far about Jensen Huang's affair with suspected Chinese spy"
+description: "US intelligence officials believed that Chinese businesswoman Alice Huang, who had a close relationship with Nvidia CEO and co-founder Jensen…"
+pubDate: 2026-11-09T13:10:32.000Z
+source: "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss"
+sourceName: "BBC Technology"
+summary: "US intelligence officials believed that Chinese businesswoman Alice Huang, who had a close relationship with Nvidia CEO and co-founder Jensen Huang, was a spy for Beijing, according to a New York Times report., external On Sunday, Huang admitted, external to having been \"unfaithful\" to his wife and apologised for hurting her and their children. Jensen Huang (left) and Alice Huang - also known as Huang Le - pictured at an event US officials believed that Alice Huang had been recruited to spy by China's top intelligence agency, the New York Times reported. Alice Huang, who is of no relation to Jensen Huang, was a top executive at Singapore-based data centre firm Megaspeed. Surveillance reportedly revealed communications between Alice Huang and an American citizen, who was subsequently identified as Jensen Huang through a process known as \"unmasking\". It remains unclear what, if any, intellegence Alice Huang – who is also known as Huang Le – allegedly gathered and passed to Beijing."
+---
+
+US intelligence officials believed that Chinese businesswoman Alice Huang, who had a close relationship with Nvidia CEO and co-founder Jensen Huang, was a spy for Beijing, according to a New York Times report., external On Sunday, Huang admitted, external to having been "unfaithful" to his wife and apologised for hurting her and their children. Jensen Huang (left) and Alice Huang - also known as Huang Le - pictured at an event US officials believed that Alice Huang had been recruited to spy by China's top intelligence agency, the New York Times reported. Alice Huang, who is of no relation to Jensen Huang, was a top executive at Singapore-based data centre firm Megaspeed.
+
+Surveillance reportedly revealed communications between Alice Huang and an American citizen, who was subsequently identified as Jensen Huang through a process known as "unmasking". It remains unclear what, if any, intellegence Alice Huang – who is also known as Huang Le – allegedly gathered and passed to Beijing.
