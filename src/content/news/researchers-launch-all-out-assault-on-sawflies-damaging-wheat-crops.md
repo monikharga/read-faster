@@ -1,0 +1,12 @@
+---
+title: "Researchers launch all-out assault on sawflies damaging wheat crops"
+description: "Editors have highlighted the following attributes while ensuring the content's credibility: Colorado wheat—the foundation for flour used in bread, noodles…"
+pubDate: 2026-11-10T12:00:01.000Z
+source: "https://phys.org/news/2026-11-assault-sawflies-wheat-crops.html"
+sourceName: "Phys.org"
+summary: "Editors have highlighted the following attributes while ensuring the content's credibility: Colorado wheat—the foundation for flour used in bread, noodles and pastries—has been besieged by the wheat stem sawfly, a native insect that recently developed a preference for wheat over native grasses. Research tactics range from developing wheat varieties that crush the pest to importing its natural enemy. \"Colorado is among the top wheat-producing states in the country, and this insect is destroying not only the livelihoods of Colorado growers but global wheat production,\" said Punya Nachappa, an associate professor in the Department of Agricultural Biology who is leading several projects to stop the sawfly's spread. They partner with the Colorado Wheat Research Foundation to produce, certify and distribute locally adapted wheat varieties developed by CSU. Since the infestation began 16 years ago, roughly two-thirds of their wheat has suffered wheat stem sawfly damage, amounting to thousands of acres annually."
+---
+
+Editors have highlighted the following attributes while ensuring the content's credibility: Colorado wheat—the foundation for flour used in bread, noodles and pastries—has been besieged by the wheat stem sawfly, a native insect that recently developed a preference for wheat over native grasses. Research tactics range from developing wheat varieties that crush the pest to importing its natural enemy. "Colorado is among the top wheat-producing states in the country, and this insect is destroying not only the livelihoods of Colorado growers but global wheat production," said Punya Nachappa, an associate professor in the Department of Agricultural Biology who is leading several projects to stop the sawfly's spread.
+
+They partner with the Colorado Wheat Research Foundation to produce, certify and distribute locally adapted wheat varieties developed by CSU. Since the infestation began 16 years ago, roughly two-thirds of their wheat has suffered wheat stem sawfly damage, amounting to thousands of acres annually.

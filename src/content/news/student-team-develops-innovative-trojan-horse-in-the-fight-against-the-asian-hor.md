@@ -1,0 +1,12 @@
+---
+title: "Student team develops innovative 'Trojan horse' in the fight against the Asian hornet"
+description: "edited by Sadie Harley, reviewed by Andrew Zinin This article has been reviewed according to Science X's editorial process and…"
+pubDate: 2026-11-10T12:40:11.000Z
+source: "https://phys.org/news/2026-11-student-team-trojan-horse-asian.html"
+sourceName: "Phys.org"
+summary: "edited by Sadie Harley, reviewed by Andrew Zinin This article has been reviewed according to Science X's editorial process and policies. Editors have highlighted the following attributes while ensuring the content's credibility: An interdisciplinary team of students from the Vrije Universiteit Brussel (VUB) is taking part in iGEM, the international synthetic biology competition in Paris (Nov. Using a clever combination of artificial intelligence, a mechanical trap and protein nanofibers, they are presenting a targeted method to efficiently control populations of the Asian hornet. The VUB team has developed a solution using a biological insecticide deployed according to the \"Trojan horse\" principle. The innovation combines three elements into a targeted platform: The project goes beyond simply controlling the Asian hornet. Full profile → An AI-guided trap identifies Asian hornets with reported accuracy above 99% and applies protein nanofibers carrying the insecticidal fungus Beauveria bassiana."
+---
+
+edited by Sadie Harley, reviewed by Andrew Zinin This article has been reviewed according to Science X's editorial process and policies. Editors have highlighted the following attributes while ensuring the content's credibility: An interdisciplinary team of students from the Vrije Universiteit Brussel (VUB) is taking part in iGEM, the international synthetic biology competition in Paris (Nov. Using a clever combination of artificial intelligence, a mechanical trap and protein nanofibers, they are presenting a targeted method to efficiently control populations of the Asian hornet.
+
+The VUB team has developed a solution using a biological insecticide deployed according to the "Trojan horse" principle. The innovation combines three elements into a targeted platform: The project goes beyond simply controlling the Asian hornet. Full profile → An AI-guided trap identifies Asian hornets with reported accuracy above 99% and applies protein nanofibers carrying the insecticidal fungus Beauveria bassiana.

@@ -1,0 +1,12 @@
+---
+title: "Quantum could solve AI energy drain, says tech founder"
+description: "Editors have highlighted the following attributes while ensuring the content's credibility: Quantum computers could curb the vast energy demands of…"
+pubDate: 2026-11-10T11:12:30.000Z
+source: "https://phys.org/news/2026-11-quantum-ai-energy-tech-founder.html"
+sourceName: "Phys.org"
+summary: "Editors have highlighted the following attributes while ensuring the content's credibility: Quantum computers could curb the vast energy demands of artificial intelligence data centers with their ability to run complex calculations, one of the tech's pioneers told AFP. Australian startup Diraq is conducting the first field test worldwide putting a small quantum computer based on a silicon chip in a commercial data center in Sydney. Gigawatt-scale energy demand from large data centers—warehouse-like buildings full of servers used to train or run AI tools—requires new power plants or increases pressure on electrical grids, sparking community backlash. Quantum computers harness the power of quantum mechanics—laws that govern how physics operates at atomic and subatomic scales—to process information in ways traditional computers cannot. Defense Advanced Research Projects Agency (DARPA) quantum benchmarking initiative—which will test if any quantum computer can solve real problems at a cost that delivers value by 2033."
+---
+
+Editors have highlighted the following attributes while ensuring the content's credibility: Quantum computers could curb the vast energy demands of artificial intelligence data centers with their ability to run complex calculations, one of the tech's pioneers told AFP. Australian startup Diraq is conducting the first field test worldwide putting a small quantum computer based on a silicon chip in a commercial data center in Sydney. Gigawatt-scale energy demand from large data centers—warehouse-like buildings full of servers used to train or run AI tools—requires new power plants or increases pressure on electrical grids, sparking community backlash.
+
+Quantum computers harness the power of quantum mechanics—laws that govern how physics operates at atomic and subatomic scales—to process information in ways traditional computers cannot. Defense Advanced Research Projects Agency (DARPA) quantum benchmarking initiative—which will test if any quantum computer can solve real problems at a cost that delivers value by 2033.
