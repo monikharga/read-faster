@@ -1,0 +1,12 @@
+---
+title: "Nvidia’s crisis has corporate governance experts reaching for the popcorn"
+description: "CEO Jensen Huang has reportedly been trying to conduct business as usual after admitting to an extramarital affair with Alice…"
+pubDate: 2026-11-11T07:30:51.000Z
+source: "https://techcrunch.com/2026/11/10/nvidias-crisis-has-corporate-governance-experts-reaching-for-the-popcorn/"
+sourceName: "TechCrunch"
+summary: "CEO Jensen Huang has reportedly been trying to conduct business as usual after admitting to an extramarital affair with Alice Huang, whom U.S. The biggest development: the board hired the law firm Wachtell, Lipton, Rosen & Katz to conduct an internal investigation. Henderson, whose research interests include corporations, securities regulation, and law and economics, said much depends on facts few people have yet, including, most importantly, what, if anything, Alice Huang got out of Jensen Huang. Ordinary corporate information probably would not.) Lipton described the investigation led by Nvidia's independent board members, with their own outside counsel, as perhaps the most \"standard\" aspect of the whole affair so far. Lipton said she sees three lines of inquiry, including whether the law was broken, whether Huang violated Nvidia's internal policies, and whether the board was misled, including how forthcoming he was and when he was on notice. It's unclear when Huang learned Alice Huang was a suspected spy."
+---
+
+CEO Jensen Huang has reportedly been trying to conduct business as usual after admitting to an extramarital affair with Alice Huang, whom U.S. The biggest development: the board hired the law firm Wachtell, Lipton, Rosen & Katz to conduct an internal investigation. Henderson, whose research interests include corporations, securities regulation, and law and economics, said much depends on facts few people have yet, including, most importantly, what, if anything, Alice Huang got out of Jensen Huang.
+
+Ordinary corporate information probably would not.) Lipton described the investigation led by Nvidia's independent board members, with their own outside counsel, as perhaps the most "standard" aspect of the whole affair so far. Lipton said she sees three lines of inquiry, including whether the law was broken, whether Huang violated Nvidia's internal policies, and whether the board was misled, including how forthcoming he was and when he was on notice. It's unclear when Huang learned Alice Huang was a suspected spy.

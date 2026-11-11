@@ -1,0 +1,12 @@
+---
+title: "New Indian mega library rocked by scandal over 'AI-generated books'"
+description: "The newly opened Periyar Arivulagam library is at the centre of the allegations An Indian court has ordered an investigation…"
+pubDate: 2026-11-11T11:33:24.000Z
+source: "https://www.bbc.co.uk/news/articles/c54gne3plvrxo?at_medium=RSS&at_campaign=rss"
+sourceName: "BBC Technology"
+summary: "The newly opened Periyar Arivulagam library is at the centre of the allegations An Indian court has ordered an investigation into allegations that a public library in the southern state of Tamil Nadu bought hundreds of books suspected of being generated using AI. The controversy began after Tamil novelist Perumal Murugan raised concerns about books containing false information and questionable authorship at a newly opened library in Coimbatore city. Tamil Nadu's School Education Minister A Rajmohan has described the allegations as potentially \"India's first AI scam\" and said the investigation would cover purchases at other public libraries across the state. The case has raised wider questions about the growing use of AI in publishing, where tools can generate entire books quickly and cheaply, but also produce false information and invented references. It describes Naladiyar as a Tamil poet and philosopher, although Naladiyar is a classical Tamil work consisting of 400 four-line verses on morality and ethics."
+---
+
+The newly opened Periyar Arivulagam library is at the centre of the allegations An Indian court has ordered an investigation into allegations that a public library in the southern state of Tamil Nadu bought hundreds of books suspected of being generated using AI. The controversy began after Tamil novelist Perumal Murugan raised concerns about books containing false information and questionable authorship at a newly opened library in Coimbatore city. Tamil Nadu's School Education Minister A Rajmohan has described the allegations as potentially "India's first AI scam" and said the investigation would cover purchases at other public libraries across the state.
+
+The case has raised wider questions about the growing use of AI in publishing, where tools can generate entire books quickly and cheaply, but also produce false information and invented references. It describes Naladiyar as a Tamil poet and philosopher, although Naladiyar is a classical Tamil work consisting of 400 four-line verses on morality and ethics.
