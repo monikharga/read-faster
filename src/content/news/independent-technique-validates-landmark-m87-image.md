@@ -1,0 +1,12 @@
+---
+title: "Independent technique validates landmark M87* image"
+description: "Editors have highlighted the following attributes while ensuring the content's credibility: The 2019 Event Horizon Telescope (EHT) image was the…"
+pubDate: 2026-11-12T00:00:04.000Z
+source: "https://phys.org/news/2026-11-independent-technique-validates-landmark-m87.html"
+sourceName: "Phys.org"
+summary: "Editors have highlighted the following attributes while ensuring the content's credibility: The 2019 Event Horizon Telescope (EHT) image was the work of hundreds of scientists and captured the first direct view of a black hole's shadow—becoming one of the most recognized scientific images of the modern era. A team of four from CSIRO, Australia's national science agency, has developed a powerful new imaging technique that validated the landmark 2019 image of the black hole at the center of galaxy M87. \"When we applied it to the original Event Horizon Telescope dataset, we found a black hole almost identical in size and shape to the historic EHT image. \"This is the first truly independent validation of the EHT image, an important step in the scientific process.\" While the EHT's first image of M87's black hole transformed our understanding of these extreme objects, scientists have questioned how much the final image may have been influenced by the processing methods needed to reconstruct pictures from sparse telescope measurements."
+---
+
+Editors have highlighted the following attributes while ensuring the content's credibility: The 2019 Event Horizon Telescope (EHT) image was the work of hundreds of scientists and captured the first direct view of a black hole's shadow—becoming one of the most recognized scientific images of the modern era. A team of four from CSIRO, Australia's national science agency, has developed a powerful new imaging technique that validated the landmark 2019 image of the black hole at the center of galaxy M87. "When we applied it to the original Event Horizon Telescope dataset, we found a black hole almost identical in size and shape to the historic EHT image.
+
+"This is the first truly independent validation of the EHT image, an important step in the scientific process." While the EHT's first image of M87's black hole transformed our understanding of these extreme objects, scientists have questioned how much the final image may have been influenced by the processing methods needed to reconstruct pictures from sparse telescope measurements.

@@ -1,0 +1,12 @@
+---
+title: "What we know as pressure builds on embattled Nvidia CEO Jensen Huang"
+description: "Watch: Jensen Huang's future at Nvidia 'doesn't look good', the BBC's Lily Jamali explains One of the Artificial Intelligence (AI)…"
+pubDate: 2026-11-12T04:18:33.000Z
+source: "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss"
+sourceName: "BBC Technology"
+summary: "Watch: Jensen Huang's future at Nvidia 'doesn't look good', the BBC's Lily Jamali explains One of the Artificial Intelligence (AI) industry's most important figures could be ousted from his role amid allegations that he had extramarital affairs with two women - one a suspected Chinese spy and the other a company executive. Chip-maker Nvidia hired a major law firm earlier this week to investigate CEO Jensen Huang's reported relationship with a woman who was allegedly a Chinese intelligence asset. Nvidia has 11 directors on its board, including Huang, and the CEO can be removed with or without cause by a majority vote of directors, according to Reuters news agency. Nvidia Chief Financial Officer Colette Kress could serve as interim CEO, according to analysts. A New York Times report at the weekend revealed Jensen Huang had a close relationship with Chinese businesswoman Alice Huang, who US intelligence officials believed was a spy for Beijing. Alice Huang had previously been photographed with the Nvidia chief on several occasions."
+---
+
+Watch: Jensen Huang's future at Nvidia 'doesn't look good', the BBC's Lily Jamali explains One of the Artificial Intelligence (AI) industry's most important figures could be ousted from his role amid allegations that he had extramarital affairs with two women - one a suspected Chinese spy and the other a company executive. Chip-maker Nvidia hired a major law firm earlier this week to investigate CEO Jensen Huang's reported relationship with a woman who was allegedly a Chinese intelligence asset. Nvidia has 11 directors on its board, including Huang, and the CEO can be removed with or without cause by a majority vote of directors, according to Reuters news agency.
+
+Nvidia Chief Financial Officer Colette Kress could serve as interim CEO, according to analysts. A New York Times report at the weekend revealed Jensen Huang had a close relationship with Chinese businesswoman Alice Huang, who US intelligence officials believed was a spy for Beijing. Alice Huang had previously been photographed with the Nvidia chief on several occasions.

@@ -1,0 +1,12 @@
+---
+title: "Who could replace Jensen Huang as Nvidia's chief executive?"
+description: "Arm's boss Rene Haas (L), Nvidia's Colette Kress (C) and Chris Malachowsky (R) have been named as possible successors Nvidia…"
+pubDate: 2026-11-12T11:21:25.000Z
+source: "https://www.bbc.co.uk/news/articles/cqgm37dv20e8o?at_medium=RSS&at_campaign=rss"
+sourceName: "BBC Technology"
+summary: "Arm's boss Rene Haas (L), Nvidia's Colette Kress (C) and Chris Malachowsky (R) have been named as possible successors Nvidia is facing a scenario few would have considered until very recently - a future without Jensen Huang. Colette Kress is chief financial officer at Nvidia Colette Kress, Nvidia's chief financial officer, has been tipped as someone who could steady the ship in the interim, and possibly stop its share price from plunging even further. Kress, who also serves as Nvidia's executive vice president, has seen the firm's transformation from making chips for video games in the early 1990s to becoming an AI semiconductor powerhouse. Chris Malachowsky is one of Nvidia's three co-founders Another option is Chris Malachowsky, who founded Nvidia alongside Huang and Curtis Priem, and is the only executive that shares the same level of seniority. Ian Buck, who oversees Nvidia's high-performance computing business, has also emerged as a potential candidate if the company is keen to put an engineer in the top job."
+---
+
+Arm's boss Rene Haas (L), Nvidia's Colette Kress (C) and Chris Malachowsky (R) have been named as possible successors Nvidia is facing a scenario few would have considered until very recently - a future without Jensen Huang. Colette Kress is chief financial officer at Nvidia Colette Kress, Nvidia's chief financial officer, has been tipped as someone who could steady the ship in the interim, and possibly stop its share price from plunging even further. Kress, who also serves as Nvidia's executive vice president, has seen the firm's transformation from making chips for video games in the early 1990s to becoming an AI semiconductor powerhouse.
+
+Chris Malachowsky is one of Nvidia's three co-founders Another option is Chris Malachowsky, who founded Nvidia alongside Huang and Curtis Priem, and is the only executive that shares the same level of seniority. Ian Buck, who oversees Nvidia's high-performance computing business, has also emerged as a potential candidate if the company is keen to put an engineer in the top job.
