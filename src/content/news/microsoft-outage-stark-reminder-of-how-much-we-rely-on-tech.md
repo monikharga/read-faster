@@ -1,0 +1,12 @@
+---
+title: "Microsoft outage 'stark reminder' of how much we rely on tech"
+description: "A critical Microsoft outage lasting more than 22 hours has raised questions about how heavily vital services rely on a…"
+pubDate: 2026-11-13T21:15:41.000Z
+source: "https://www.bbc.co.uk/news/articles/cxzd9171m51qo?at_medium=RSS&at_campaign=rss"
+sourceName: "BBC Technology"
+summary: "A critical Microsoft outage lasting more than 22 hours has raised questions about how heavily vital services rely on a handful of major tech firms. The disruption, which affected Microsoft 365 services such as Outlook, was caused by routine automated checks that took some servers offline, overloading the remaining ones with traffic. The recovery took nearly a full day while engineers gradually restored services, highlighting how embedded the tech giant's services are in modern society. Flora Hamilton, executive director of the Small Business Charter, said the outage was a \"stark reminder\" of how much firms \"rely on digital systems\" - like Microsoft Outlook - \"to keep their operations running\". Microsoft says email queues 'approaching normal levels' after global outage hits Outlook and Teams users Gergely Orosz, a former leading software engineer at several major tech companies, said while these kinds of outages weren't unheard of, what was unusual was the time it took for Microsoft to recover from it."
+---
+
+A critical Microsoft outage lasting more than 22 hours has raised questions about how heavily vital services rely on a handful of major tech firms. The disruption, which affected Microsoft 365 services such as Outlook, was caused by routine automated checks that took some servers offline, overloading the remaining ones with traffic. The recovery took nearly a full day while engineers gradually restored services, highlighting how embedded the tech giant's services are in modern society.
+
+Flora Hamilton, executive director of the Small Business Charter, said the outage was a "stark reminder" of how much firms "rely on digital systems" - like Microsoft Outlook - "to keep their operations running". Microsoft says email queues 'approaching normal levels' after global outage hits Outlook and Teams users Gergely Orosz, a former leading software engineer at several major tech companies, said while these kinds of outages weren't unheard of, what was unusual was the time it took for Microsoft to recover from it.

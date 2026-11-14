@@ -1,0 +1,12 @@
+---
+title: "SpaceX's Starship soars into orbit after booster explosion prevents an unprecedented double catch"
+description: "Editors have highlighted the following attributes while ensuring the content's credibility: SpaceX's attempt to recover its entire Starship back at…"
+pubDate: 2026-11-14T06:34:10.000Z
+source: "https://phys.org/news/2026-11-spacex-starship-soars-orbit-booster.html"
+sourceName: "Phys.org"
+summary: "Editors have highlighted the following attributes while ensuring the content's credibility: SpaceX's attempt to recover its entire Starship back at the launch pad was thwarted when the booster fell into the Gulf of Mexico and exploded Friday, but the spacecraft still soared into orbit in its boldest test yet. Instead of returning to its Texas pad following liftoff, the first-stage booster was diverted to a point offshore. It's the first time that Starship will try to return to the pad from orbit, to be plucked in midair by mechanical arms secured to the launch tower. The plan is for Starship to complete 15 laps around the world at an altitude of around 170 miles (275 kilometers) before heading back to the launch site for Saturday's grand finale. This was the first attempt to capture the upgraded version of the booster that stretches 236 feet (72 meters)—the production model for moon and Mars expeditions. It will also be the first time the company attempts to catch the spacecraft, which spans 171 feet (52 meters)."
+---
+
+Editors have highlighted the following attributes while ensuring the content's credibility: SpaceX's attempt to recover its entire Starship back at the launch pad was thwarted when the booster fell into the Gulf of Mexico and exploded Friday, but the spacecraft still soared into orbit in its boldest test yet. Instead of returning to its Texas pad following liftoff, the first-stage booster was diverted to a point offshore. It's the first time that Starship will try to return to the pad from orbit, to be plucked in midair by mechanical arms secured to the launch tower.
+
+The plan is for Starship to complete 15 laps around the world at an altitude of around 170 miles (275 kilometers) before heading back to the launch site for Saturday's grand finale. This was the first attempt to capture the upgraded version of the booster that stretches 236 feet (72 meters)—the production model for moon and Mars expeditions. It will also be the first time the company attempts to catch the spacecraft, which spans 171 feet (52 meters).

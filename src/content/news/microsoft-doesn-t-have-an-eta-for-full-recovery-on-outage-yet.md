@@ -1,0 +1,12 @@
+---
+title: "Microsoft doesn’t ‘have an ETA for full recovery’ on outage yet"
+description: "Microsoft is making progress in resolving the massive global outage that started Thursday morning and affected Microsoft 365, Copilot, and…"
+pubDate: 2026-11-13T21:43:32.000Z
+source: "https://www.zdnet.com/business/microsoft-outage-outlook-teams-copilot/"
+sourceName: "ZDNet"
+summary: "Microsoft is making progress in resolving the massive global outage that started Thursday morning and affected Microsoft 365, Copilot, and Outlook access in 74 countries, according to Downdetector. \"As infrastructure stabilizes, we're still draining queued messages and rebalancing traffic, so customers may see improved sign-in/access while delivery and processing continue to catch up,\" Microsoft posted in its now long-running X thread about the outage. On Friday morning, Microsoft shared an update on X that it was \"seeing encouraging recovery progress\" and that \"a growing portion\" of Microsoft 365 services was improving, noting in a follow-up post that it was seeing \"broader improvements in North America, sustained improvements across much of Europe, and encouraging recovery signals in Asia Pacific.\" Also: Microsoft fixes over 1,000 Windows flaws – and one is being exploited Downdetector reports have stayed low as of Friday midday at around 3,000. \"Some users may still experience intermittent issues as recovery actions continue,\" Microsoft said."
+---
+
+Microsoft is making progress in resolving the massive global outage that started Thursday morning and affected Microsoft 365, Copilot, and Outlook access in 74 countries, according to Downdetector. "As infrastructure stabilizes, we're still draining queued messages and rebalancing traffic, so customers may see improved sign-in/access while delivery and processing continue to catch up," Microsoft posted in its now long-running X thread about the outage. On Friday morning, Microsoft shared an update on X that it was "seeing encouraging recovery progress" and that "a growing portion" of Microsoft 365 services was improving, noting in a follow-up post that it was seeing "broader improvements in North America, sustained improvements across much of Europe, and encouraging recovery signals in Asia Pacific." Also: Microsoft fixes over 1,000 Windows flaws – and one is being exploited Downdetector reports have stayed low as of Friday midday at around 3,000.
+
+"Some users may still experience intermittent issues as recovery actions continue," Microsoft said.

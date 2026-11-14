@@ -1,0 +1,12 @@
+---
+title: "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say"
+description: "Over the last several years, Nvidia has been a prolific investor, pouring tens of billions into startups annually and participating…"
+pubDate: 2026-11-13T22:43:00.000Z
+source: "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/"
+sourceName: "TechCrunch"
+summary: "Over the last several years, Nvidia has been a prolific investor, pouring tens of billions into startups annually and participating in 105 rounds this year alone, often as the largest investor, according to PitchBook. Huang's absence leaves the startup ecosystem without one of its biggest champions and with far less capital for now, investors say, which could have a massive impact on dealmaking, valuations, funding, and even competition. \"Nvidia is carrying almost every AI-native startup from application to neocloud,\" Dawn Capital's Shamillah Bankiya told TechCrunch. Nvidia's interim CEO, Colette Kress, is expected to institute some changes, especially when it comes to Nvidia's investments into AI startups at the crux of the billion-dollar data center build-out. \"I don't think she's going to commit the same amount of money to keep the early-stage ecosystem going.\" Nvidia's biggest bets were backing neoclouds, inference providers, and open weight models, which are expensive for smaller companies to build."
+---
+
+Over the last several years, Nvidia has been a prolific investor, pouring tens of billions into startups annually and participating in 105 rounds this year alone, often as the largest investor, according to PitchBook. Huang's absence leaves the startup ecosystem without one of its biggest champions and with far less capital for now, investors say, which could have a massive impact on dealmaking, valuations, funding, and even competition. "Nvidia is carrying almost every AI-native startup from application to neocloud," Dawn Capital's Shamillah Bankiya told TechCrunch.
+
+Nvidia's interim CEO, Colette Kress, is expected to institute some changes, especially when it comes to Nvidia's investments into AI startups at the crux of the billion-dollar data center build-out. "I don't think she's going to commit the same amount of money to keep the early-stage ecosystem going." Nvidia's biggest bets were backing neoclouds, inference providers, and open weight models, which are expensive for smaller companies to build.
