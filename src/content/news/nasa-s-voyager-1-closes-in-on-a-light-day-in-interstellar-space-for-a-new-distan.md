@@ -1,0 +1,12 @@
+---
+title: "NASA's Voyager 1 closes in on a light-day in interstellar space for a new distance record"
+description: "Editors have highlighted the following attributes while ensuring the content's credibility: NASA's Voyager 1 is about to become humanity's first…"
+pubDate: 2026-11-14T18:37:10.000Z
+source: "https://phys.org/news/2026-11-nasa-voyager-day-interstellar-space.html"
+sourceName: "Phys.org"
+summary: "Editors have highlighted the following attributes while ensuring the content's credibility: NASA's Voyager 1 is about to become humanity's first object to reach one light-day from Earth as it pushes ever deeper into interstellar space. When Voyager 1 reaches that remarkable milestone on Wednesday, its radio signals will take precisely 24 hours traveling at the speed of light to reach Earth—in other words, one light-day. NASA is looking at another 18,000 years before the spacecraft achieves a full light-year and more than double that before it comes near another star. Despite sporadic problems typical of old age, Voyager 1 and its twin Voyager 2 continue to send back science and engineering data as they zoom toward different points in space at 38,000 mph (61,000 kph). Although launched two weeks before its sibling in 1977, Voyager 2 won't reach the one-light-day mark until 2035. Voyager 2 visited those two planets plus Uranus and Neptune, also sending back stunning photos, before entering interstellar space in 2018."
+---
+
+Editors have highlighted the following attributes while ensuring the content's credibility: NASA's Voyager 1 is about to become humanity's first object to reach one light-day from Earth as it pushes ever deeper into interstellar space. When Voyager 1 reaches that remarkable milestone on Wednesday, its radio signals will take precisely 24 hours traveling at the speed of light to reach Earth—in other words, one light-day. NASA is looking at another 18,000 years before the spacecraft achieves a full light-year and more than double that before it comes near another star.
+
+Despite sporadic problems typical of old age, Voyager 1 and its twin Voyager 2 continue to send back science and engineering data as they zoom toward different points in space at 38,000 mph (61,000 kph). Although launched two weeks before its sibling in 1977, Voyager 2 won't reach the one-light-day mark until 2035. Voyager 2 visited those two planets plus Uranus and Neptune, also sending back stunning photos, before entering interstellar space in 2018.

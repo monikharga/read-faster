@@ -1,0 +1,12 @@
+---
+title: "Italy Fines Meta €805 Million Over Facebook's Android Gallery Access Without Explicit Consent"
+description: "The Garante, Italy's data protection authority, found that the feature was enabled by default and that the app accessed Italian…"
+pubDate: 2026-11-15T11:27:31.000Z
+source: "https://thehackernews.com/2026/11/italy-fines-meta-805-million-over.html"
+sourceName: "The Hacker News"
+summary: "The Garante, Italy's data protection authority, found that the feature was enabled by default and that the app accessed Italian users' photos, videos, and related metadata without their explicit consent. The company has 60 days to switch the feature off by default, including for people who have already granted the app gallery access, and to request consent separately. The app asks for gallery access via a single permission that covers the whole app and several functions with different purposes, the authority found. Meta said in a statement quoted in a Reuters report that the feature works only after users give permission on their device, and that they can change that permission at any time in their settings. It told users to switch off the gallery suggestion settings in the app and to check what access and permissions the Facebook app has on their phone. The authority may separately examine a newer feature, launched this year, that allows gallery content to be processed in the cloud."
+---
+
+The Garante, Italy's data protection authority, found that the feature was enabled by default and that the app accessed Italian users' photos, videos, and related metadata without their explicit consent. The company has 60 days to switch the feature off by default, including for people who have already granted the app gallery access, and to request consent separately. The app asks for gallery access via a single permission that covers the whole app and several functions with different purposes, the authority found.
+
+Meta said in a statement quoted in a Reuters report that the feature works only after users give permission on their device, and that they can change that permission at any time in their settings. It told users to switch off the gallery suggestion settings in the app and to check what access and permissions the Facebook app has on their phone. The authority may separately examine a newer feature, launched this year, that allows gallery content to be processed in the cloud.
