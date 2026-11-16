@@ -1,0 +1,12 @@
+---
+title: "Amazon Uncovers AI Agent Campaign Targeting LiteLLM, Dify, and Other Apps for API Keys"
+description: "Attackers' AI agents have been hunting for weak spots in internet-exposed AI apps such as LiteLLM, One API, and Dify…"
+pubDate: 2026-11-16T07:34:21.000Z
+source: "https://thehackernews.com/2026/11/amazon-uncovers-ai-agent-campaign.html"
+sourceName: "The Hacker News"
+summary: "Attackers' AI agents have been hunting for weak spots in internet-exposed AI apps such as LiteLLM, One API, and Dify to steal the AI provider keys stored inside, according to the agents' own records. The records, which Amazon's threat intelligence team captured with decoy servers, describe stolen keys being used to run the AI models that powered the search for more keys. The team said this week that it cannot verify the outcomes reported by the agents. From October 3 to late last week, the agents sent it requests that often carried a campaign's full history, including the operators' instructions and the agents' reported findings. \"Amazon Threat Intelligence did not observe that activity as it happened and cannot verify the outcomes the agents reported, but the records show what the actors were pursuing,\" the team said. In the main campaign, the agents looked for internet-exposed AI apps, extracted the provider keys stored inside, verified that the keys worked, and added them to a shared pool."
+---
+
+Attackers' AI agents have been hunting for weak spots in internet-exposed AI apps such as LiteLLM, One API, and Dify to steal the AI provider keys stored inside, according to the agents' own records. The records, which Amazon's threat intelligence team captured with decoy servers, describe stolen keys being used to run the AI models that powered the search for more keys. The team said this week that it cannot verify the outcomes reported by the agents.
+
+From October 3 to late last week, the agents sent it requests that often carried a campaign's full history, including the operators' instructions and the agents' reported findings. "Amazon Threat Intelligence did not observe that activity as it happened and cannot verify the outcomes the agents reported, but the records show what the actors were pursuing," the team said. In the main campaign, the agents looked for internet-exposed AI apps, extracted the provider keys stored inside, verified that the keys worked, and added them to a shared pool.
