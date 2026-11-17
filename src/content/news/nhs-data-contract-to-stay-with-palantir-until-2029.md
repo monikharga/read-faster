@@ -1,0 +1,12 @@
+---
+title: "NHS data contract to stay with Palantir until 2029"
+description: "The government says it will continue a key NHS data contract in England with the controversial US tech giant Palantir…"
+pubDate: 2026-11-17T12:00:12.000Z
+source: "https://www.bbc.co.uk/news/articles/cqvg27zpm8w8o?at_medium=RSS&at_campaign=rss"
+sourceName: "BBC Technology"
+summary: "The government says it will continue a key NHS data contract in England with the controversial US tech giant Palantir until 2029, rather than triggering an early release clause next year. Health minister James Frith said the move was \"not about the politics of executives of suppliers, nor is it about the territories or customers that one company or one supplier makes\". Dame Chi Onwurah, Labour MP for Newcastle upon Tyne Central and West, said the government needed to \"act urgently\" to procure \"credible domestic alternatives\". Former Labour shadow chancellor John McDonnell went further, and accused Palantir of \"human rights abuses\". Liberal Democrat health spokeswoman Helen Morgan criticised the company for what she called its \"appalling human rights record, run by an ally of Donald Trump\". The British Medical Association, which represents doctors, said it was glad the government had shown it was listening to its concerns about Palantir, but was frustrated the process of changing to another company was further delayed."
+---
+
+The government says it will continue a key NHS data contract in England with the controversial US tech giant Palantir until 2029, rather than triggering an early release clause next year. Health minister James Frith said the move was "not about the politics of executives of suppliers, nor is it about the territories or customers that one company or one supplier makes". Dame Chi Onwurah, Labour MP for Newcastle upon Tyne Central and West, said the government needed to "act urgently" to procure "credible domestic alternatives".
+
+Former Labour shadow chancellor John McDonnell went further, and accused Palantir of "human rights abuses". Liberal Democrat health spokeswoman Helen Morgan criticised the company for what she called its "appalling human rights record, run by an ally of Donald Trump". The British Medical Association, which represents doctors, said it was glad the government had shown it was listening to its concerns about Palantir, but was frustrated the process of changing to another company was further delayed.
