@@ -1,0 +1,12 @@
+---
+title: "Microsoft’s new Licensed Weights lets businesses customize AI models with their own data"
+description: "Microsoft is bridging the gap between proprietary and open-weight AI while targeting data-conscious businesses."
+pubDate: 2026-11-18T12:56:53.000Z
+source: "https://www.zdnet.com/innovation/microsoft-licensed-weights-ai-models-ignite-2026/"
+sourceName: "ZDNet"
+summary: "Microsoft is bridging the gap between proprietary and open-weight AI while targeting data-conscious businesses. During the keynote at its Ignite conference on Tuesday, Microsoft CEO Satya Nadella announced several new models from Microsoft AI (MAI), its lab within the company. Also: Microsoft says its new AI coding model rivals Claude Opus 5.5 MAI said it would allow its customers to customize its frontier models with their own data and run them securely in Azure through an initiative called Licensed Weights. It's essentially a selective approach to open-weight AI: more so than proprietary models from OpenAI and Anthropic, but not fully downloadable on Hugging Face like Mistral's Le Chonk. The dominant, if simplified, narrative in AI has been that proprietary, expensive models boast peak capabilities but aren't customizable, while open, cheaper models are customizable but less capable. Though Licensed Weights isn't an open-weight family of models, it does diversify the open-versus-closed debate a bit and differentiate Microsoft's offering from OpenAI's and Anthropic's."
+---
+
+Microsoft is bridging the gap between proprietary and open-weight AI while targeting data-conscious businesses. During the keynote at its Ignite conference on Tuesday, Microsoft CEO Satya Nadella announced several new models from Microsoft AI (MAI), its lab within the company. Also: Microsoft says its new AI coding model rivals Claude Opus 5.5 MAI said it would allow its customers to customize its frontier models with their own data and run them securely in Azure through an initiative called Licensed Weights.
+
+It's essentially a selective approach to open-weight AI: more so than proprietary models from OpenAI and Anthropic, but not fully downloadable on Hugging Face like Mistral's Le Chonk. The dominant, if simplified, narrative in AI has been that proprietary, expensive models boast peak capabilities but aren't customizable, while open, cheaper models are customizable but less capable. Though Licensed Weights isn't an open-weight family of models, it does diversify the open-versus-closed debate a bit and differentiate Microsoft's offering from OpenAI's and Anthropic's.
