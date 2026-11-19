@@ -1,0 +1,12 @@
+---
+title: "How to tell a cyberattack from a plain old outage"
+description: "Across just four consecutive business days, a mass Microsoft exchange outage broke IT services for thousands of companies, a Federal…"
+pubDate: 2026-11-19T11:13:01.000Z
+source: "https://arstechnica.com/security/2026/11/how-to-tell-a-cyberattack-from-a-plain-old-outage/"
+sourceName: "Ars Technica"
+summary: "Across just four consecutive business days, a mass Microsoft exchange outage broke IT services for thousands of companies, a Federal Aviation Administration tech screw-up grounded airplanes across the country, a software problem affecting JPMorgan Chase caused another round of disruption, a United Airlines system glitch delayed flights yet again, and an NSA classified network's downtime left the agency's staff sitting at home waiting to return to their office at Fort Meade. But in cases like these, it's the job of cybersecurity analysts (and reporters at WIRED) to determine—vibes aside—whether the latest tech outage was actually an accident or the result of a cyberattack. \"I've just seen enough times where we thought maybe it's a cyberattack and it turns out it's not. Stuff breaks, and that's just the nature of complex systems.\" So in the interest of soothing the country's rattled nerves and helping us all find ground truth amid seemingly endless tech catastrophes, we at WIRED present our general guide to determining whether a tech outage is the result of a cyberattack."
+---
+
+Across just four consecutive business days, a mass Microsoft exchange outage broke IT services for thousands of companies, a Federal Aviation Administration tech screw-up grounded airplanes across the country, a software problem affecting JPMorgan Chase caused another round of disruption, a United Airlines system glitch delayed flights yet again, and an NSA classified network's downtime left the agency's staff sitting at home waiting to return to their office at Fort Meade. But in cases like these, it's the job of cybersecurity analysts (and reporters at WIRED) to determine—vibes aside—whether the latest tech outage was actually an accident or the result of a cyberattack. "I've just seen enough times where we thought maybe it's a cyberattack and it turns out it's not.
+
+Stuff breaks, and that's just the nature of complex systems." So in the interest of soothing the country's rattled nerves and helping us all find ground truth amid seemingly endless tech catastrophes, we at WIRED present our general guide to determining whether a tech outage is the result of a cyberattack.
