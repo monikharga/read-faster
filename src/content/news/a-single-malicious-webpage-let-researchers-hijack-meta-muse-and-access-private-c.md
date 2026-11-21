@@ -1,0 +1,12 @@
+---
+title: "A Single Malicious Webpage Let Researchers Hijack Meta Muse and Access Private Chats"
+description: "A malicious webpage could extract a Meta Muse user's private conversations and stored memories from the assistant without triggering any…"
+pubDate: 2026-11-21T11:53:07.000Z
+source: "https://thehackernews.com/2026/11/a-single-malicious-webpage-let.html"
+sourceName: "The Hacker News"
+summary: "A malicious webpage could extract a Meta Muse user's private conversations and stored memories from the assistant without triggering any approval prompt, researchers have shown. The same attack could be extended to reach the credentials Muse stores for the user's connected accounts. Muse's team described the aim at launch: \"So we designed the system to assume the agent may be under attack and limit the potential damage.\" In the demonstration, a malicious page the agent opened could pull a user's conversation history and stored memories to an external server and alter them, with no prompt shown to the user, according to the firm's research write-up. From there, the researchers chained a flaw in Muse's built-in browser, which the assistant uses for tasks such as creating PDFs, to a Linux kernel flaw, thereby taking full control of the user's cloud machine. That full control reached the credential store, the saved files, and Sentinel itself, the parts Muse's security design keeps walled off from the agent."
+---
+
+A malicious webpage could extract a Meta Muse user's private conversations and stored memories from the assistant without triggering any approval prompt, researchers have shown. The same attack could be extended to reach the credentials Muse stores for the user's connected accounts. Muse's team described the aim at launch: "So we designed the system to assume the agent may be under attack and limit the potential damage." In the demonstration, a malicious page the agent opened could pull a user's conversation history and stored memories to an external server and alter them, with no prompt shown to the user, according to the firm's research write-up.
+
+From there, the researchers chained a flaw in Muse's built-in browser, which the assistant uses for tasks such as creating PDFs, to a Linux kernel flaw, thereby taking full control of the user's cloud machine. That full control reached the credential store, the saved files, and Sentinel itself, the parts Muse's security design keeps walled off from the agent.
