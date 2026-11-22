@@ -1,0 +1,12 @@
+---
+title: "An ancient failed rift is reawakening inside one of Africa's oldest landmasses"
+description: "Editors have highlighted the following attributes while ensuring the content's credibility: In April 2017, a magnitude 6.5 earthquake shook southern…"
+pubDate: 2026-11-21T14:00:06.000Z
+source: "https://phys.org/news/2026-11-ancient-rift-reawakening-africa-oldest.html"
+sourceName: "Phys.org"
+summary: "Editors have highlighted the following attributes while ensuring the content's credibility: In April 2017, a magnitude 6.5 earthquake shook southern Africa from an unlikely place: the middle of the Kalahari Craton in eastern Botswana. Now, a new study led by researchers at the Botswana International University of Science and Technology (BIUST) and the Lamont-Doherty Earth Observatory shows that the craton is indeed being pulled apart. The work challenges long-held assumptions about continental stability, revealing how ancient geological seams can reactivate to fracture even the oldest continental cores. \"The earthquake happened in the middle of the craton, a region where no one expected to have an active fault slipping, let alone an active plate boundary developing,\" says co-author Folarin Kolawole. The new rift lies at the far southern tip of the East African Rift System, where the African continent is slowly stretching apart. Around the world, continental rifts tend to follow mountain belts—the younger and weaker zones where ancient cratons once collided."
+---
+
+Editors have highlighted the following attributes while ensuring the content's credibility: In April 2017, a magnitude 6.5 earthquake shook southern Africa from an unlikely place: the middle of the Kalahari Craton in eastern Botswana. Now, a new study led by researchers at the Botswana International University of Science and Technology (BIUST) and the Lamont-Doherty Earth Observatory shows that the craton is indeed being pulled apart. The work challenges long-held assumptions about continental stability, revealing how ancient geological seams can reactivate to fracture even the oldest continental cores.
+
+"The earthquake happened in the middle of the craton, a region where no one expected to have an active fault slipping, let alone an active plate boundary developing," says co-author Folarin Kolawole. The new rift lies at the far southern tip of the East African Rift System, where the African continent is slowly stretching apart. Around the world, continental rifts tend to follow mountain belts—the younger and weaker zones where ancient cratons once collided.

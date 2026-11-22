@@ -1,0 +1,12 @@
+---
+title: "Is selling an AI version of your face to this microdrama startup the future of Hollywood?"
+description: "The company produces soapy, melodramatic storylines — almost always risqué romances — that, in bite-sized two-minute episodes, compel viewers to…"
+pubDate: 2026-11-21T16:00:00.000Z
+source: "https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/"
+sourceName: "TechCrunch"
+summary: "The company produces soapy, melodramatic storylines — almost always risqué romances — that, in bite-sized two-minute episodes, compel viewers to stay glued to their phones so as not to miss the latest twist in a tawdry, cliff-hanger-happy saga. Over the past year, the company has churned out a gush of popular live-action romances like \"Crossing the Line with My Neighbor,\" \"Accidentally Married My Boss,\" and \"Spoiled by My Billionaire Sugar Daddy.\" Lately, however, the company's homepage is covered in AI-generated content. The reason isn't exactly hard to figure out: the production overhead for AI content is substantially less than live-action. The series, called \"Inevitable,\" stars Aki Avni, an Israeli film and television star who has been visible in American TV shows for years (he had a stint on Fox's 9/11-era thriller \"24\" years ago) but is now trying something largely unheard of in modern Hollywood: licensing his face to Shortical for the sake of its AI content."
+---
+
+The company produces soapy, melodramatic storylines — almost always risqué romances — that, in bite-sized two-minute episodes, compel viewers to stay glued to their phones so as not to miss the latest twist in a tawdry, cliff-hanger-happy saga. Over the past year, the company has churned out a gush of popular live-action romances like "Crossing the Line with My Neighbor," "Accidentally Married My Boss," and "Spoiled by My Billionaire Sugar Daddy." Lately, however, the company's homepage is covered in AI-generated content. The reason isn't exactly hard to figure out: the production overhead for AI content is substantially less than live-action.
+
+The series, called "Inevitable," stars Aki Avni, an Israeli film and television star who has been visible in American TV shows for years (he had a stint on Fox's 9/11-era thriller "24" years ago) but is now trying something largely unheard of in modern Hollywood: licensing his face to Shortical for the sake of its AI content.
