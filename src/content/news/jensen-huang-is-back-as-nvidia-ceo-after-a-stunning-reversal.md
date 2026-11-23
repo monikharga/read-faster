@@ -1,0 +1,12 @@
+---
+title: "Jensen Huang is back as Nvidia CEO after a stunning reversal"
+description: "Nvidia's board unanimously reinstated Huang 11 days after his removal, but his troubles may not be over."
+pubDate: 2026-11-23T14:51:37.000Z
+source: "https://www.zdnet.com/innovation/jensen-huang-is-back-as-nvidia-ceo-after-a-stunning-reversal/"
+sourceName: "ZDNet"
+summary: "Nvidia's board unanimously reinstated Huang 11 days after his removal, but his troubles may not be over. Nvidia announced on Monday morning that it had reinstated Jensen Huang as president, CEO, and board member \"effective immediately.\" \"The Board of Directors voted unanimously to reinstate Mr. After Huang was removed as CEO on Nov. The SEC opened an investigation into Nvidia after Huang's departure, which appears to remain ongoing now that he is back, and is separate from national security concerns surrounding Alice Huang, the suspected foreign intelligence operative Huang admitted having an extramarital affair with. Huang has been the target of a foreign intelligence effort, the Board formed a committee comprised solely of independent directors to investigate, and the committee retained independent counsel to assist it in that investigation,\" Nvidia's announcement continued. Huang fully supports the investigation and is committed to cooperating with it.\" Huang confirmed the first of several extramarital affairs on Nov."
+---
+
+Nvidia's board unanimously reinstated Huang 11 days after his removal, but his troubles may not be over. Nvidia announced on Monday morning that it had reinstated Jensen Huang as president, CEO, and board member "effective immediately." "The Board of Directors voted unanimously to reinstate Mr. After Huang was removed as CEO on Nov.
+
+The SEC opened an investigation into Nvidia after Huang's departure, which appears to remain ongoing now that he is back, and is separate from national security concerns surrounding Alice Huang, the suspected foreign intelligence operative Huang admitted having an extramarital affair with. Huang has been the target of a foreign intelligence effort, the Board formed a committee comprised solely of independent directors to investigate, and the committee retained independent counsel to assist it in that investigation," Nvidia's announcement continued. Huang fully supports the investigation and is committed to cooperating with it." Huang confirmed the first of several extramarital affairs on Nov.
