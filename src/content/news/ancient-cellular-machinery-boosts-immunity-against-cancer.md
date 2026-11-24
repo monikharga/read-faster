@@ -1,0 +1,10 @@
+---
+title: "Ancient cellular machinery boosts immunity against cancer"
+description: "Editors have highlighted the following attributes while ensuring the content's credibility: Cornell researchers have found a novel way to boost…"
+pubDate: 2026-11-24T15:20:11.000Z
+source: "https://phys.org/news/2026-11-ancient-cellular-machinery-boosts-immunity.html"
+sourceName: "Phys.org"
+summary: "Editors have highlighted the following attributes while ensuring the content's credibility: Cornell researchers have found a novel way to boost immunity against cancer: using ancient virus-derived machinery to produce tiny extracellular vesicles that carry antigen information across long distances to rally immune cells. The project builds on work from nearly a decade ago showing that the activity-regulated cytoskeleton-associated protein (Arc), best known for its role in learning and memory, can assemble into virus-like protein shells that package RNA and move between cells via membrane-bound vesicles—essentially fatty bubbles. \"Over time, our cells repurposed that machinery for their own use.\" The initial research inspired Jiang and Gu to engineer the Arc system so it could deliver long mRNA through what's called the blood-brain barrier and reach diseased neurons."
+---
+
+Editors have highlighted the following attributes while ensuring the content's credibility: Cornell researchers have found a novel way to boost immunity against cancer: using ancient virus-derived machinery to produce tiny extracellular vesicles that carry antigen information across long distances to rally immune cells. The project builds on work from nearly a decade ago showing that the activity-regulated cytoskeleton-associated protein (Arc), best known for its role in learning and memory, can assemble into virus-like protein shells that package RNA and move between cells via membrane-bound vesicles—essentially fatty bubbles. "Over time, our cells repurposed that machinery for their own use." The initial research inspired Jiang and Gu to engineer the Arc system so it could deliver long mRNA through what's called the blood-brain barrier and reach diseased neurons.
