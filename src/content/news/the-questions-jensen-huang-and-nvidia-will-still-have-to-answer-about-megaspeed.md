@@ -1,0 +1,12 @@
+---
+title: "The questions Jensen Huang and Nvidia will still have to answer about Megaspeed"
+description: "Jensen Huang's return as CEO to Nvidia hasn't eased the scrutiny the company confronts."
+pubDate: 2026-11-25T13:00:00.000Z
+source: "https://techcrunch.com/2026/11/25/the-questions-jensen-huang-and-nvidia-will-still-have-to-answer-about-megaspeed/"
+sourceName: "TechCrunch"
+summary: "Jensen Huang's return as CEO to Nvidia hasn't eased the scrutiny the company confronts. The central question for investigators is what Nvidia knew about where those chips ended up, and whether Huang's affair with a Megaspeed executive gave the company reason to doubt Megaspeed's assurances. The US government opened an investigation into Megaspeed in 2024 and requested information from Nvidia about its billions of dollars in sales to the company, concerned that some of the chips Megaspeed bought for data center projects in Malaysia were in fact being diverted to China. When it comes to compliance and liability for export control violations, Nvidia and other chip sellers need assurances that the end users of their chips are obeying the rules. \"Government investigators likely would want to know, notwithstanding whatever formal assurances were exchanged between the parties, what anyone at Nvidia actually knew about the end use and end users of the chips,\" Dan Fisher-Owens, an attorney at the firm Berliner Corcoran & Rowe, told TechCrunch last week."
+---
+
+Jensen Huang's return as CEO to Nvidia hasn't eased the scrutiny the company confronts. The central question for investigators is what Nvidia knew about where those chips ended up, and whether Huang's affair with a Megaspeed executive gave the company reason to doubt Megaspeed's assurances. The US government opened an investigation into Megaspeed in 2024 and requested information from Nvidia about its billions of dollars in sales to the company, concerned that some of the chips Megaspeed bought for data center projects in Malaysia were in fact being diverted to China.
+
+When it comes to compliance and liability for export control violations, Nvidia and other chip sellers need assurances that the end users of their chips are obeying the rules. "Government investigators likely would want to know, notwithstanding whatever formal assurances were exchanged between the parties, what anyone at Nvidia actually knew about the end use and end users of the chips," Dan Fisher-Owens, an attorney at the firm Berliner Corcoran & Rowe, told TechCrunch last week.
